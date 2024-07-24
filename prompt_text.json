@@ -1,0 +1,2173 @@
+[
+    {
+        "title": "thực hiện",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thực hiện - Động từ:\n1. Mô tả: Làm một việc gì đó theo kế hoạch.\n2. Ví dụ: Khi bạn làm bài tập về nhà, bạn đang thực hiện bài tập đó.\n3. Vài từ đồng nghĩa: Làm, thực hành, tiến hành.\n4. Vài từ trái nghĩa: Ngừng, bỏ qua, không làm."
+    },
+    {
+        "title": "tổ chức",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- tổ chức - Động từ:\n1. Mô tả: Làm cho một việc gì đó có kế hoạch và có trật tự.\n2. Ví dụ: Bạn tổ chức một buổi sinh nhật cho bạn của mình.\n3. Vài từ đồng nghĩa: Sắp xếp, chuẩn bị.\n4. Vài từ trái nghĩa: N/a\n\n- tổ chức - Danh từ:\n1. Mô tả: Một nhóm người làm việc cùng nhau để đạt được một mục tiêu.\n2. Ví dụ: Trường học là một tổ chức nơi học sinh học tập.\n3. Vài từ đồng nghĩa: Nhóm, hiệp hội.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "sử dụng",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- sử dụng - Động từ:\n1. Mô tả: Dùng cái gì đó để làm việc gì đó.\n2. Ví dụ: Con sử dụng bút để vẽ tranh.\n3. Vài từ đồng nghĩa: dùng, áp dụng.\n4. Vài từ trái nghĩa: bỏ qua, không dùng."
+    },
+    {
+        "title": "thời gian",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thời gian - Danh từ:\n1. Mô tả: Thời gian là khoảng thời gian mà chúng ta sống và trải nghiệm mọi thứ.\n2. Ví dụ: Khi bạn đi học từ sáng đến chiều, đó là thời gian bạn học.\n3. Vài từ đồng nghĩa: Khoảng thời gian, Thời điểm.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "hoạt động",
+        "categories": [
+            "Động từ",
+            "Tính từ"
+        ],
+        "prompt": "- hoạt động - Động từ:\n1. Mô tả: Làm một việc gì đó.\n2. Ví dụ: Chơi bóng, chạy, nhảy.\n3. Vài từ đồng nghĩa: Chơi, làm, thực hiện.\n4. Vài từ trái nghĩa: Nghỉ ngơi, dừng lại.\n\n- hoạt động - Tính từ:\n1. Mô tả: Có sự chuyển động, không đứng yên.\n2. Ví dụ: Một em bé đang chạy nhanh.\n3. Vài từ đồng nghĩa: Năng động, sôi nổi.\n4. Vài từ trái nghĩa: Tĩnh lặng, yên tĩnh."
+    },
+    {
+        "title": "phát triển",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Phát triển - Động từ:\n1. Mô tả: Làm cho cái gì đó lớn lên, tốt hơn hoặc thay đổi theo hướng tích cực.\n2. Ví dụ: Cây cối phát triển khi được tưới nước và ánh sáng mặt trời.\n3. Vài từ đồng nghĩa: Tăng trưởng, tiến bộ.\n4. Vài từ trái nghĩa: Giảm sút, lùi lại."
+    },
+    {
+        "title": "xây dựng",
+        "categories": [
+            "Động từ",
+            "Tính từ"
+        ],
+        "prompt": "- xây dựng - Động từ:\n1. Mô tả: Làm ra một cái gì đó mới, như nhà cửa hoặc đồ chơi.\n2. Ví dụ: Con xây dựng một ngôi nhà bằng khối xếp hình.\n3. Vài từ đồng nghĩa: tạo ra, làm, xây.\n4. Vài từ trái nghĩa: phá hủy.\n\n- xây dựng - Tính từ:\n1. Mô tả: Có liên quan đến việc tạo ra hoặc làm mới cái gì đó.\n2. Ví dụ: Ngôi nhà mới xây dựng rất đẹp và rộng rãi.\n3. Vài từ đồng nghĩa: mới, khang trang.\n4. Vài từ trái nghĩa: cũ, hư hỏng."
+    },
+    {
+        "title": "đầu tư",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Đầu tư - Động từ:\n1. Mô tả: Đầu tư là khi bạn sử dụng tiền hoặc thời gian của mình để mua một cái gì đó với hy vọng nó sẽ trở nên có giá trị hơn trong tương lai.\n2. Ví dụ: Nếu bạn tiết kiệm tiền để mua một chiếc xe đạp mới, đó là bạn đang đầu tư cho niềm vui và sức khỏe của mình.\n3. Vài từ đồng nghĩa: Đặt tiền, chi tiêu.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "khu vực",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Khu vực - Danh từ:\n1. Mô tả: Khu vực là một phần của không gian hoặc đất đai mà chúng ta có thể nhìn thấy hoặc sử dụng.\n2. Ví dụ: Khu vực sân chơi là nơi mà trẻ em có thể chơi đùa và vui vẻ.\n3. Vài từ đồng nghĩa: Khu, vùng, địa điểm.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "gia đình",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- gia đình - Danh từ:\n1. Mô tả: Gia đình là những người sống cùng nhau và yêu thương nhau, như bố, mẹ, anh chị em.\n2. Ví dụ: Trong gia đình, có bố, mẹ và em gái của con.\n3. Vài từ đồng nghĩa: Nhà, tổ ấm.\n4. Vài từ trái nghĩa: n/a\n\n- gia đình - Tính từ:\n1. Mô tả: Gia đình là những điều liên quan đến những người trong gia đình, như tình yêu và sự chăm sóc.\n2. Ví dụ: Bữa ăn gia đình là khi tất cả mọi người cùng ngồi ăn với nhau.\n3. Vài từ đồng nghĩa: n/a\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "dự án",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Dự án - Danh từ:\n1. Mô tả: Dự án là một kế hoạch mà mọi người làm để hoàn thành một việc gì đó.\n2. Ví dụ: Khi lớp học của bạn lên kế hoạch làm một buổi biểu diễn văn nghệ, đó là một dự án.\n3. Vài từ đồng nghĩa: Kế hoạch, công việc.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "một số",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Một số - Danh từ:\n1. Mô tả: Một số nghĩa là nhiều hơn một nhưng không phải là tất cả.\n2. Ví dụ: Có một số quả táo trên bàn.\n3. Vài từ đồng nghĩa: Một vài, một ít.\n4. Vài từ trái nghĩa: Tất cả, không có."
+    },
+    {
+        "title": "đầu tiên",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- đầu tiên - Danh từ:\n1. Mô tả: Là cái gì đó xảy ra trước hết, là cái bắt đầu.\n2. Ví dụ: Khi bạn làm bài tập, câu hỏi đầu tiên là câu hỏi bạn phải trả lời trước.\n3. Vài từ đồng nghĩa: cái trước, cái khởi đầu\n4. Vài từ trái nghĩa: cái cuối, cái sau\n\n- đầu tiên - Tính từ:\n1. Mô tả: Là cái gì đó đứng ở vị trí đầu, không có cái nào ở trước.\n2. Ví dụ: Bạn là người đầu tiên trong lớp xong bài kiểm tra.\n3. Vài từ đồng nghĩa: trước nhất, số một\n4. Vài từ trái nghĩa: cuối cùng, sau cùng"
+    },
+    {
+        "title": "tiếp tục",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tiếp tục - Động từ:\n1. Mô tả: Làm một việc gì đó mà không dừng lại.\n2. Ví dụ: Khi bạn đang chơi một trò chơi và không muốn dừng lại, bạn sẽ tiếp tục chơi.\n3. Vài từ đồng nghĩa: Tiến hành, duy trì.\n4. Vài từ trái nghĩa: Dừng lại, ngừng."
+    },
+    {
+        "title": "thông tin",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- thông tin - Động từ:\n1. Mô tả: Nói cho ai đó biết điều gì đó.\n2. Ví dụ: Mẹ thông tin cho con biết hôm nay có lớp học mới.\n3. Vài từ đồng nghĩa: báo, kể\n4. Vài từ trái nghĩa: n/a\n\n- thông tin - Danh từ:\n1. Mô tả: Điều gì đó mà chúng ta biết hoặc được nghe.\n2. Ví dụ: Con nhận được thông tin về ngày sinh nhật của bạn.\n3. Vài từ đồng nghĩa: tin tức, dữ liệu\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "thế giới",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thế giới - Danh từ:\n1. Mô tả: Thế giới là nơi mà chúng ta sống, có nhiều đất nước, con người, động vật và cây cối.\n2. Ví dụ: Khi bạn đi du lịch đến một nơi mới, bạn đang khám phá một phần của thế giới.\n3. Vài từ đồng nghĩa: Trái đất, hành tinh.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tham gia",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tham gia - Động từ:\n1. Mô tả: Làm một cái gì đó cùng với người khác.\n2. Ví dụ: Con tham gia chơi bóng với các bạn ở sân trường.\n3. Vài từ đồng nghĩa: Tham gia vào, góp mặt.\n4. Vài từ trái nghĩa: Rời bỏ, không tham gia."
+    },
+    {
+        "title": "doanh nghiệp",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- doanh nghiệp - Động từ:\n1. Mô tả: Làm việc để tạo ra sản phẩm hoặc dịch vụ và kiếm tiền.\n2. Ví dụ: Một nhóm bạn cùng nhau bán bánh kẹo để kiếm tiền.\n3. Từ đồng nghĩa: n/a\n4. Từ trái nghĩa: n/a\n\n- doanh nghiệp - Danh từ:\n1. Mô tả: Một tổ chức hoặc nhóm người làm việc cùng nhau để bán hàng hoặc cung cấp dịch vụ.\n2. Ví dụ: Cửa hàng bán đồ chơi mà bạn thường đến chơi.\n3. Vài từ đồng nghĩa: Công ty, cửa hàng.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "thành phố",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thành phố - Danh từ:\n1. Mô tả: Thành phố là nơi có nhiều nhà cửa, đường phố và người sống cùng nhau.\n2. Ví dụ: Hà Nội là một thành phố lớn với nhiều người và xe cộ.\n3. Từ đồng nghĩa: Khu đô thị, thị xã.\n4. Từ trái nghĩa: Nông thôn, làng quê."
+    },
+    {
+        "title": "vấn đề",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Vấn đề - Danh từ:\n1. Mô tả: Vấn đề là một điều khó khăn mà chúng ta cần phải giải quyết.\n2. Ví dụ: Khi bạn không tìm thấy đồ chơi của mình, đó là một vấn đề.\n3. Vài từ đồng nghĩa: Khó khăn, rắc rối.\n4. Vài từ trái nghĩa: Giải pháp, sự dễ dàng."
+    },
+    {
+        "title": "thị trường",
+        "categories": [
+            "Danh từ",
+            "Danh từ"
+        ],
+        "prompt": "- Thị trường - Danh từ:\n1. Mô tả: Thị trường là nơi mọi người mua và bán đồ vật hoặc dịch vụ.\n2. Ví dụ: Chợ là một loại thị trường, nơi bạn có thể mua rau, quả và đồ chơi.\n3. Vài từ đồng nghĩa: Chợ, nơi buôn bán.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "kinh tế",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- Kinh tế - Danh từ:\n1. Mô tả: Kinh tế là cách mà mọi người làm ra và sử dụng tiền, hàng hóa và dịch vụ.\n2. Ví dụ: Khi bạn bán bánh kẹo ở trường, đó là một phần của kinh tế.\n3. Từ đồng nghĩa: N/a\n4. Từ trái nghĩa: N/a\n\n- Kinh tế - Tính từ:\n1. Mô tả: Kinh tế là liên quan đến tiền bạc và cách mọi người tiêu dùng hoặc kiếm tiền.\n2. Ví dụ: Một gia đình có kinh tế tốt có thể mua nhiều đồ chơi cho trẻ em.\n3. Từ đồng nghĩa: N/a\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "đặc biệt",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Đặc biệt - Tính từ:\n1. Mô tả: Là điều gì đó khác biệt và quan trọng hơn những điều khác.\n2. Ví dụ: Sinh nhật của bạn là một ngày đặc biệt vì bạn nhận quà và có bánh kem.\n3. Từ đồng nghĩa: Khác biệt, nổi bật.\n4. Từ trái nghĩa: Bình thường, thông thường."
+    },
+    {
+        "title": "công tác",
+        "categories": [
+            "Danh từ",
+            "Động từ"
+        ],
+        "prompt": "- công tác - Danh từ:\n1. Mô tả: Công việc mà mọi người làm để giúp đỡ hoặc hoàn thành một nhiệm vụ nào đó.\n2. Ví dụ: Khi các bạn tham gia dọn dẹp lớp học, đó là công tác của các bạn.\n3. Vài từ đồng nghĩa: Nhiệm vụ, công việc.\n4. Vài từ trái nghĩa: n/a\n\n- công tác - Động từ:\n1. Mô tả: Làm việc để hoàn thành một nhiệm vụ hoặc giúp đỡ ai đó.\n2. Ví dụ: Các bạn công tác để giúp đỡ bạn bị ốm bằng cách mang đồ ăn đến cho bạn.\n3. Vài từ đồng nghĩa: Làm việc, thực hiện.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hệ thống",
+        "categories": [
+            "Danh từ",
+            "Động từ"
+        ],
+        "prompt": "- Hệ thống - Danh từ:\n1. Mô tả: Hệ thống là một nhóm các phần làm việc cùng nhau để hoàn thành một nhiệm vụ.\n2. Ví dụ: Một hệ thống trường học gồm có giáo viên, học sinh và sách vở để dạy và học.\n3. Vài từ đồng nghĩa: Cấu trúc, tổ chức.\n4. Vài từ trái nghĩa: n/a\n\n- Hệ thống - Động từ:\n1. Mô tả: Hệ thống là hành động sắp xếp các phần để chúng làm việc cùng nhau.\n2. Ví dụ: Khi bạn sắp xếp đồ chơi theo loại, bạn đang hệ thống chúng.\n3. Vài từ đồng nghĩa: Sắp xếp, tổ chức.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "sản xuất",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- sản xuất - Động từ:\n1. Mô tả: Làm ra một cái gì đó mới.\n2. Ví dụ: Mẹ sản xuất bánh ngọt cho sinh nhật của con.\n3. Từ đồng nghĩa: chế tạo, tạo ra.\n4. Từ trái nghĩa: n/a\n\n- sản xuất - Danh từ:\n1. Mô tả: Sự tạo ra hoặc làm ra một cái gì đó.\n2. Ví dụ: Sản xuất đồ chơi giúp trẻ em vui chơi.\n3. Từ đồng nghĩa: chế tạo, sản phẩm.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "quốc gia",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- quốc gia - Danh từ:\n1. Mô tả: Quốc gia là một vùng đất có nhiều người sống và có luật lệ riêng.\n2. Ví dụ: Việt Nam là một quốc gia nơi có nhiều món ăn ngon và phong cảnh đẹp.\n3. Vài từ đồng nghĩa: đất nước, vùng lãnh thổ\n4. Vài từ trái nghĩa: n/a\n\n- quốc gia - Tính từ:\n1. Mô tả: Quốc gia là từ dùng để nói về điều gì đó thuộc về một đất nước.\n2. Ví dụ: Quốc gia Việt Nam có cờ màu đỏ với ngôi sao vàng.\n3. Vài từ đồng nghĩa: n/a\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "khả năng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Khả năng - Danh từ:\n1. Mô tả: Khả năng là điều mà bạn có thể làm tốt hoặc có thể học được.\n2. Ví dụ: Nếu bạn có khả năng vẽ, bạn có thể vẽ những bức tranh đẹp.\n3. Vài từ đồng nghĩa: Năng lực, tài năng.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "quyết định",
+        "categories": [
+            "Động từ",
+            "Tính từ",
+            "Danh từ"
+        ],
+        "prompt": "- quyết định - Động từ:\n1. Mô tả: Là hành động chọn một điều gì đó sau khi suy nghĩ.\n2. Ví dụ: Khi bạn chọn ăn bánh hay kẹo, bạn đang quyết định.\n3. Từ đồng nghĩa: chọn, lựa.\n4. Từ trái nghĩa: n/a.\n\n- quyết định - Tính từ:\n1. Mô tả: Là trạng thái khi bạn đã chọn một điều gì đó rõ ràng.\n2. Ví dụ: Khi bạn nói \"Tôi quyết định chơi bóng\", bạn đang nói rõ ràng về lựa chọn của mình.\n3. Từ đồng nghĩa: rõ ràng, chắc chắn.\n4. Từ trái nghĩa: n/a.\n\n- quyết định - Danh từ:\n1. Mô tả: Là sự lựa chọn mà bạn đã làm sau khi suy nghĩ.\n2. Ví dụ: Quyết định của bạn là đi chơi với bạn bè vào cuối tuần.\n3. Từ đồng nghĩa: lựa chọn, sự chọn lựa.\n4. Từ trái nghĩa: n/a."
+    },
+    {
+        "title": "công ty",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Công ty - Danh từ:\n1. Mô tả: Công ty là nơi mà mọi người làm việc cùng nhau để tạo ra sản phẩm hoặc dịch vụ.\n2. Ví dụ: Như một cửa hàng bán đồ chơi, nơi có nhiều người làm việc để bán đồ chơi cho trẻ em.\n3. Vài từ đồng nghĩa: Doanh nghiệp, xí nghiệp.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "sản phẩm",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Sản phẩm - Danh từ:\n1. Mô tả: Sản phẩm là những đồ vật mà người ta làm ra để bán hoặc sử dụng.\n2. Ví dụ: Một cái bánh kem là một sản phẩm mà bạn có thể ăn trong sinh nhật.\n3. Từ đồng nghĩa: Hàng hóa, đồ vật.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "xã hội",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Xã hội - Danh từ:\n1. Mô tả: Xã hội là nơi mà mọi người sống cùng nhau, giúp đỡ và chơi với nhau.\n2. Ví dụ: Trong lớp học, các bạn học sinh cùng nhau học bài và chơi đùa, đó là một phần của xã hội.\n3. Vài từ đồng nghĩa: Cộng đồng, nhóm.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "chương trình",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Chương trình - Danh từ:\n1. Mô tả: Chương trình là một kế hoạch hoặc một hoạt động mà mọi người làm cùng nhau.\n2. Ví dụ: Một chương trình học ở trường, nơi các bạn học toán, văn và thể dục.\n3. Vài từ đồng nghĩa: Kế hoạch, hoạt động.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "cơ quan",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cơ quan - Danh từ:\n1. Mô tả: Cơ quan là một phần của cơ thể giúp chúng ta làm việc, như tim giúp bơm máu.\n2. Ví dụ: Cơ quan tiêu hóa giúp chúng ta ăn uống và tiêu hóa thức ăn.\n3. Vài từ đồng nghĩa: Bộ phận, tổ chức.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "yêu cầu",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- yêu cầu - Động từ:\n1. Mô tả: Yêu cầu là khi bạn muốn ai đó làm điều gì đó cho bạn.\n2. Ví dụ: Bạn yêu cầu mẹ làm cho bạn một chiếc bánh.\n3. Vài từ đồng nghĩa: Đề nghị, xin.\n4. Vài từ trái nghĩa: N/a\n\n- yêu cầu - Danh từ:\n1. Mô tả: Yêu cầu là một điều bạn muốn hoặc cần từ người khác.\n2. Ví dụ: Yêu cầu của bạn là có một chiếc xe đồ chơi mới.\n3. Vài từ đồng nghĩa: Đề nghị, mong muốn.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "chia sẻ",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Chia sẻ - Động từ:\n1. Mô tả: Chia sẻ là khi bạn cho người khác một phần của cái gì đó mà bạn có.\n2. Ví dụ: Khi bạn có một chiếc bánh, bạn cắt ra một miếng và đưa cho bạn của mình.\n3. Vài từ đồng nghĩa: Phân phát, tặng.\n4. Vài từ trái nghĩa: Giữ lại, giữ riêng."
+    },
+    {
+        "title": "hỗ trợ",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Hỗ trợ - Động từ:\n1. Mô tả: Giúp đỡ ai đó làm điều gì.\n2. Ví dụ: Khi bạn giúp bạn bè làm bài tập, bạn đang hỗ trợ họ.\n3. Vài từ đồng nghĩa: Giúp, ủng hộ.\n4. Vài từ trái nghĩa: Cản trở, ngăn chặn."
+    },
+    {
+        "title": "địa phương",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- địa phương - Danh từ:\n1. Mô tả: Địa phương là một nơi cụ thể, như một làng, một thành phố hay một vùng.\n2. Ví dụ: Quê của bạn là một địa phương có nhiều cánh đồng xanh.\n3. Vài từ đồng nghĩa: khu vực, vùng.\n4. Vài từ trái nghĩa: n/a\n\n- địa phương - Tính từ:\n1. Mô tả: Địa phương là thuộc về một nơi nào đó, như làng hay thành phố.\n2. Ví dụ: Món ăn địa phương ở quê bạn rất ngon và đặc biệt.\n3. Vài từ đồng nghĩa: vùng, khu vực.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "trở thành",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- trở thành - Động từ:\n1. Mô tả: Trở thành nghĩa là thay đổi từ cái này sang cái khác, hoặc phát triển thành một cái gì đó mới.\n2. Ví dụ: Khi bạn lớn lên, bạn sẽ trở thành một người lớn.\n3. Vài từ đồng nghĩa: phát triển, biến thành.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "đơn vị",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Đơn vị - Danh từ:\n1. Mô tả: Đơn vị là một cách để đo lường hoặc tính toán một cái gì đó.\n2. Ví dụ: Một mét là đơn vị để đo chiều dài, như khi đo chiều cao của bạn.\n3. Vài từ đồng nghĩa: Đo lường, kích thước.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "xử lý",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Xử lý - Động từ:\n1. Mô tả: Làm cho một việc gì đó trở nên tốt hơn hoặc giải quyết một vấn đề.\n2. Ví dụ: Khi bạn làm bài tập về nhà, bạn cần xử lý các câu hỏi để tìm ra đáp án đúng.\n3. Vài từ đồng nghĩa: Giải quyết, xử lý.\n4. Vài từ trái nghĩa: Bỏ qua, không quan tâm."
+    },
+    {
+        "title": "liên quan",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Liên quan - Động từ:\n1. Mô tả: Liên quan có nghĩa là có mối liên hệ hoặc kết nối với một cái gì đó.\n2. Ví dụ: Nếu bạn có một bức tranh và một câu chuyện, bức tranh có thể liên quan đến câu chuyện đó.\n3. Vài từ đồng nghĩa: Kết nối, gắn bó.\n4. Vài từ trái nghĩa: Tách rời, không liên quan."
+    },
+    {
+        "title": "làm việc",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- làm việc - Động từ:\n1. Mô tả: Làm việc nghĩa là thực hiện một công việc nào đó để hoàn thành một nhiệm vụ.\n2. Ví dụ: Khi bạn giúp mẹ dọn dẹp nhà cửa, bạn đang làm việc.\n3. Vài từ đồng nghĩa: hoạt động, lao động.\n4. Vài từ trái nghĩa: nghỉ ngơi, thư giãn."
+    },
+    {
+        "title": "kinh doanh",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Kinh doanh - Động từ:\n1. Mô tả: Kinh doanh là việc bán hàng hoặc dịch vụ để kiếm tiền.\n2. Ví dụ: Khi bạn bán bánh kẹo cho bạn bè ở trường, bạn đang kinh doanh.\n3. Vài từ đồng nghĩa: Bán hàng, thương mại.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "quan trọng",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Quan trọng - Tính từ:\n1. Mô tả: Điều gì đó rất cần thiết và có giá trị.\n2. Ví dụ: Việc học bài là rất quan trọng để bạn có thể làm bài kiểm tra tốt.\n3. Từ đồng nghĩa: Cần thiết, thiết yếu.\n4. Từ trái nghĩa: Không quan trọng, không cần thiết."
+    },
+    {
+        "title": "quốc tế",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- quốc tế - Danh từ:\n1. Mô tả: Quốc tế là những điều liên quan đến nhiều nước khác nhau trên thế giới.\n2. Ví dụ: Khi các nước gặp nhau để nói chuyện về hòa bình, đó là một cuộc họp quốc tế.\n3. Từ đồng nghĩa: toàn cầu, thế giới\n4. Từ trái nghĩa: n/a\n\n- quốc tế - Tính từ:\n1. Mô tả: Quốc tế là một từ dùng để nói về điều gì đó liên quan đến nhiều nước.\n2. Ví dụ: Một sự kiện thể thao quốc tế có nhiều đội từ các nước khác nhau tham gia.\n3. Từ đồng nghĩa: toàn cầu, thế giới\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "lực lượng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Lực lượng - Danh từ:\n1. Mô tả: Lực lượng là nhóm người hoặc vật có sức mạnh để làm một việc gì đó.\n2. Ví dụ: Lực lượng cứu hộ giúp tìm kiếm và cứu những người bị nạn trong thiên tai.\n3. Vài từ đồng nghĩa: Sức mạnh, đội ngũ.\n4. Vài từ trái nghĩa: Yếu đuối, yếu kém."
+    },
+    {
+        "title": "cơ sở",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cơ sở - Danh từ:\n1. Mô tả: Cơ sở là nơi mà một việc gì đó được bắt đầu hoặc thực hiện.\n2. Ví dụ: Trường học là cơ sở để học tập và chơi đùa.\n3. Vài từ đồng nghĩa: Nền tảng, cơ sở vật chất.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "kiểm tra",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Kiểm tra - Động từ:\n1. Mô tả: Nhìn xem cái gì đó có đúng hay không.\n2. Ví dụ: Cô giáo kiểm tra bài tập của học sinh.\n3. Vài từ đồng nghĩa: Xem, kiểm soát.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "bảo vệ",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- bảo vệ - Động từ:\n1. Mô tả: Giữ cho ai đó hoặc cái gì đó an toàn.\n2. Ví dụ: Bạn bảo vệ em bé không bị ngã khi chơi.\n3. Vài từ đồng nghĩa: Che chở, giữ gìn.\n4. Vài từ trái nghĩa: Tấn công, bỏ mặc.\n\n- bảo vệ - Danh từ:\n1. Mô tả: Hành động hoặc cách làm để giữ an toàn cho ai đó hoặc cái gì đó.\n2. Ví dụ: Sự bảo vệ của bố mẹ giúp bạn cảm thấy an toàn.\n3. Vài từ đồng nghĩa: Sự che chở, sự giữ gìn.\n4. Vài từ trái nghĩa: Sự tấn công, sự bỏ mặc."
+    },
+    {
+        "title": "triển khai",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Triển khai - Động từ:\n1. Mô tả: Làm cho một kế hoạch hoặc ý tưởng trở thành hiện thực.\n2. Ví dụ: Khi cô giáo dạy các bạn cách làm bánh, cô sẽ triển khai từng bước để các bạn làm theo.\n3. Vài từ đồng nghĩa: Thực hiện, tiến hành.\n4. Vài từ trái nghĩa: Ngừng lại, bỏ qua."
+    },
+    {
+        "title": "ảnh hưởng",
+        "categories": [
+            "Danh từ",
+            "Động từ"
+        ],
+        "prompt": "- Ảnh hưởng - Danh từ:\n1. Mô tả: Ảnh hưởng là sự tác động mà một điều gì đó có lên một điều khác.\n2. Ví dụ: Khi trời mưa, nó có ảnh hưởng đến việc chơi ngoài trời của trẻ em.\n3. Vài từ đồng nghĩa: tác động, ảnh hưởng.\n4. Vài từ trái nghĩa: n/a\n\n- Ảnh hưởng - Động từ:\n1. Mô tả: Ảnh hưởng nghĩa là làm cho một điều gì đó thay đổi hoặc có cảm giác khác.\n2. Ví dụ: Câu chuyện hay có thể ảnh hưởng đến cách mà trẻ em nghĩ về thế giới.\n3. Vài từ đồng nghĩa: tác động, làm ảnh hưởng.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hiệu quả",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Hiệu quả - Danh từ:\n1. Mô tả: Hiệu quả là kết quả tốt mà chúng ta đạt được khi làm một việc gì đó.\n2. Ví dụ: Khi bạn học bài chăm chỉ, bạn sẽ có điểm cao trong bài kiểm tra, đó là hiệu quả của việc học.\n3. Vài từ đồng nghĩa: Kết quả, thành công.\n4. Vài từ trái nghĩa: Thất bại, không hiệu quả."
+    },
+    {
+        "title": "khẳng định",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Khẳng định - Động từ:\n1. Mô tả: Nói điều gì đó là đúng hoặc chắc chắn.\n2. Ví dụ: Khi bạn nói \"Mẹ đang ở nhà\", bạn đang khẳng định rằng mẹ bạn thật sự ở nhà.\n3. Từ đồng nghĩa: Xác nhận, chứng thực.\n4. Từ trái nghĩa: Phủ nhận, không đồng ý."
+    },
+    {
+        "title": "đánh giá",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Đánh giá - Động từ:\n1. Mô tả: Nhìn vào một thứ gì đó và nói xem nó tốt hay xấu.\n2. Ví dụ: Khi cô giáo xem bài tập của bạn, cô ấy đánh giá xem bạn làm đúng hay sai.\n3. Vài từ đồng nghĩa: Xem xét, nhận xét.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "điều tra",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Điều tra - Động từ:\n1. Mô tả: Tìm hiểu và khám phá sự việc để biết rõ hơn.\n2. Ví dụ: Khi bạn tìm kiếm xem ai đã ăn bánh kẹo trong hộp, bạn đang điều tra.\n3. Vài từ đồng nghĩa: Khám phá, tìm hiểu.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "du lịch",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Du lịch - Động từ:\n1. Mô tả: Đi đến nơi khác để khám phá và vui chơi.\n2. Ví dụ: Gia đình bạn đi du lịch biển vào mùa hè.\n3. Từ đồng nghĩa: Đi chơi, khám phá.\n4. Từ trái nghĩa: Nằm nhà, ở lại."
+    },
+    {
+        "title": "chất lượng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Chất lượng - Danh từ:\n1. Mô tả: Chất lượng là cách mà một thứ gì đó tốt hay không tốt.\n2. Ví dụ: Một chiếc bánh ngon có chất lượng tốt, còn một chiếc bánh hỏng thì có chất lượng kém.\n3. Từ đồng nghĩa: Tiêu chuẩn, đặc tính.\n4. Từ trái nghĩa: Kém chất lượng, tồi."
+    },
+    {
+        "title": "lãnh đạo",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- lãnh đạo - Động từ:\n1. Mô tả: Làm cho người khác làm theo ý mình.\n2. Ví dụ: Khi bạn chỉ cho bạn bè cách chơi một trò chơi mới, bạn đang lãnh đạo họ.\n3. Từ đồng nghĩa: dẫn dắt, chỉ huy.\n4. Từ trái nghĩa: n/a.\n\n- lãnh đạo - Danh từ:\n1. Mô tả: Người chỉ huy, dẫn dắt người khác.\n2. Ví dụ: Cô giáo là lãnh đạo của lớp học, giúp các bạn học tập.\n3. Từ đồng nghĩa: người dẫn dắt, người chỉ huy.\n4. Từ trái nghĩa: n/a."
+    },
+    {
+        "title": "kết quả",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Kết quả - Danh từ:\n1. Mô tả: Kết quả là điều xảy ra sau khi làm một việc gì đó.\n2. Ví dụ: Nếu bạn làm bài tập về nhà, kết quả có thể là bạn được điểm tốt.\n3. Vài từ đồng nghĩa: Thành quả, kết thúc.\n4. Vài từ trái nghĩa: Nguyên nhân, khởi đầu."
+    },
+    {
+        "title": "xuất hiện",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Xuất hiện - Động từ:\n1. Mô tả: Xuất hiện nghĩa là có mặt ở đâu đó.\n2. Ví dụ: Khi bạn bật đèn, ánh sáng xuất hiện trong phòng.\n3. Từ đồng nghĩa: Xuất hiện, hiện ra, hiện lên.\n4. Từ trái nghĩa: Biến mất."
+    },
+    {
+        "title": "thời điểm",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thời điểm - Danh từ:\n1. Mô tả: Thời điểm là một khoảng thời gian cụ thể mà chúng ta có thể làm gì đó.\n2. Ví dụ: Khi đồng hồ chỉ 7 giờ sáng, đó là thời điểm để đi học.\n3. Vài từ đồng nghĩa: Khoảng thời gian, thời khắc.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "dịch vụ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Dịch vụ - Danh từ:\n1. Mô tả: Dịch vụ là khi ai đó làm một việc gì đó giúp người khác.\n2. Ví dụ: Khi bạn đi cắt tóc, thợ cắt tóc đang cung cấp dịch vụ cho bạn.\n3. Vài từ đồng nghĩa: Sự phục vụ, dịch vụ hỗ trợ.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "học sinh",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Học sinh - Danh từ:\n1. Mô tả: Học sinh là người đang đi học, thường là ở trường.\n2. Ví dụ: Bạn Nam là học sinh lớp 3, mỗi ngày bạn đi học để học chữ.\n3. Vài từ đồng nghĩa: Sinh viên, trò.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "an toàn",
+        "categories": [
+            "Tính từ",
+            "Danh từ"
+        ],
+        "prompt": "- an toàn - Tính từ:\n1. Mô tả: Không có nguy hiểm, không bị tổn thương.\n2. Ví dụ: Khi đội mũ bảo hiểm, bạn sẽ cảm thấy an toàn khi đi xe đạp.\n3. Từ đồng nghĩa: Bảo vệ, chắc chắn.\n4. Từ trái nghĩa: Nguy hiểm, không an toàn.\n\n- an toàn - Danh từ:\n1. Mô tả: Tình trạng không có nguy hiểm, mọi thứ đều ổn.\n2. Ví dụ: Chơi ở sân chơi có hàng rào là một cách để giữ an toàn.\n3. Từ đồng nghĩa: Sự bảo vệ, sự chắc chắn.\n4. Từ trái nghĩa: Nguy hiểm, sự rủi ro."
+    },
+    {
+        "title": "bắt đầu",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Bắt đầu - Động từ:\n1. Mô tả: Làm một cái gì đó từ lúc đầu.\n2. Ví dụ: Khi con bắt đầu vẽ tranh, con lấy bút và giấy ra.\n3. Vài từ đồng nghĩa: Khởi đầu, mở đầu.\n4. Vài từ trái nghĩa: Kết thúc, dừng lại."
+    },
+    {
+        "title": "nghiên cứu",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Nghiên cứu - Động từ:\n1. Mô tả: Tìm hiểu và học hỏi về một điều gì đó.\n2. Ví dụ: Khi bạn đọc sách để biết thêm về động vật, bạn đang nghiên cứu về chúng.\n3. Vài từ đồng nghĩa: Tìm hiểu, khám phá.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "thay đổi",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thay đổi - Động từ:\n1. Mô tả: Làm cho một cái gì đó khác đi, không còn giống như trước.\n2. Ví dụ: Khi trời lạnh, chúng ta thay đổi từ áo phông sang áo khoác.\n3. Vài từ đồng nghĩa: Biến đổi, sửa đổi.\n4. Vài từ trái nghĩa: Giữ nguyên, không thay đổi."
+    },
+    {
+        "title": "tình trạng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tình trạng - Danh từ:\n1. Mô tả: Tình trạng là cách mà một thứ gì đó đang ở, như là nó tốt hay xấu, vui hay buồn.\n2. Ví dụ: Nếu bạn bị cảm, tình trạng của bạn là không khỏe.\n3. Vài từ đồng nghĩa: Tình hình, trạng thái.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "cán bộ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cán bộ - Danh từ:\n1. Mô tả: Cán bộ là người làm việc cho nhà nước, giúp quản lý và phục vụ cộng đồng.\n2. Ví dụ: Cô giáo là cán bộ giáo dục, giúp dạy học cho các bạn nhỏ.\n3. Từ đồng nghĩa: Nhân viên, công chức.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "phụ nữ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Phụ nữ - Danh từ:\n1. Mô tả: Phụ nữ là những người lớn tuổi, thường là mẹ hoặc cô của chúng ta.\n2. Ví dụ: Mẹ của bạn là một phụ nữ.\n3. Từ đồng nghĩa: Nữ, cô gái\n4. Từ trái nghĩa: Nam, đàn ông"
+    },
+    {
+        "title": "trường hợp",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Trường hợp - Danh từ:\n1. Mô tả: Trường hợp là một tình huống hoặc sự việc xảy ra.\n2. Ví dụ: Khi bạn bị ốm, đó là một trường hợp cần đi bác sĩ.\n3. Vài từ đồng nghĩa: Tình huống, sự việc.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "kế hoạch",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Kế hoạch - Danh từ:\n1. Mô tả: Kế hoạch là một cách để chúng ta nghĩ về những gì sẽ làm trong tương lai.\n2. Ví dụ: Nếu bạn muốn tổ chức sinh nhật, bạn có thể có kế hoạch cho bữa tiệc, như mời bạn bè và chuẩn bị bánh.\n3. Vài từ đồng nghĩa: Dự định, chương trình.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "điều kiện",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Điều kiện - Danh từ:\n1. Mô tả: Điều kiện là những thứ cần có để một việc gì đó xảy ra.\n2. Ví dụ: Để đi chơi, điều kiện là phải hoàn thành bài tập về nhà trước.\n3. Vài từ đồng nghĩa: Yêu cầu, tiêu chí.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "quan hệ",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- Quan hệ - Danh từ:\n1. Mô tả: Quan hệ là cách mà người ta kết nối và tương tác với nhau.\n2. Ví dụ: Bạn và bạn của bạn có quan hệ bạn bè.\n3. Vài từ đồng nghĩa: Mối quan hệ, liên kết.\n4. Vài từ trái nghĩa: n/a\n\n- Quan hệ - Tính từ:\n1. Mô tả: Quan hệ là khi hai người hoặc nhiều người có sự kết nối với nhau.\n2. Ví dụ: Gia đình là những người có quan hệ gần gũi với nhau.\n3. Vài từ đồng nghĩa: Liên quan, kết nối.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hình ảnh",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Hình ảnh - Danh từ:\n1. Mô tả: Hình ảnh là bức tranh hoặc bức ảnh cho thấy một cái gì đó.\n2. Ví dụ: Bức tranh của một con mèo đang chơi đùa.\n3. Vài từ đồng nghĩa: Bức tranh, bức ảnh.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "môi trường",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Môi trường - Danh từ:\n1. Mô tả: Môi trường là tất cả những gì xung quanh chúng ta, như không khí, nước, cây cối và động vật.\n2. Ví dụ: Khi bạn đi ra công viên, bạn thấy cây xanh, hoa nở và nghe tiếng chim hót, đó là môi trường.\n3. Vài từ đồng nghĩa: Thiên nhiên, cảnh vật.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "đối tượng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Đối tượng - Danh từ:\n1. Mô tả: Đối tượng là một người, vật hoặc điều gì đó mà chúng ta có thể nhìn thấy hoặc chạm vào.\n2. Ví dụ: Cái bàn, con mèo, hoặc chiếc xe đạp.\n3. Vài từ đồng nghĩa: Vật, sự vật.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "cá nhân",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- cá nhân - Danh từ:\n1. Mô tả: Cá nhân là một người riêng lẻ, không phải là nhóm hay tập thể.\n2. Ví dụ: Mẹ, bố, và bạn là những cá nhân.\n3. Từ đồng nghĩa: Người, nhân vật.\n4. Từ trái nghĩa: Tập thể, nhóm.\n\n- cá nhân - Tính từ:\n1. Mô tả: Cá nhân là điều gì đó thuộc về một người riêng lẻ.\n2. Ví dụ: Mỗi cá nhân có sở thích riêng, như bạn thích vẽ, còn bạn khác thích chơi bóng.\n3. Từ đồng nghĩa: Riêng lẻ, độc lập.\n4. Từ trái nghĩa: Chung, tập thể."
+    },
+    {
+        "title": "hiện nay",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Hiện nay - Danh từ:\n1. Mô tả: Thời gian mà chúng ta đang sống và trải nghiệm ngay bây giờ.\n2. Ví dụ: Bây giờ là hiện nay, khi chúng ta đang chơi ở công viên.\n3. Vài từ đồng nghĩa: Hiện tại, bây giờ.\n4. Vài từ trái nghĩa: Quá khứ, tương lai."
+    },
+    {
+        "title": "cầu thủ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cầu thủ - Danh từ:\n1. Mô tả: Cầu thủ là người chơi bóng đá.\n2. Ví dụ: Messi là một cầu thủ nổi tiếng, anh ấy đá bóng rất giỏi.\n3. Từ đồng nghĩa: Người chơi bóng, vận động viên bóng đá.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "vị trí",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Vị trí - Danh từ:\n1. Mô tả: Vị trí là nơi mà một cái gì đó nằm ở.\n2. Ví dụ: Cái bàn ở vị trí giữa phòng.\n3. Vài từ đồng nghĩa: Địa điểm, chỗ.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tấn công",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tấn công - Động từ:\n1. Mô tả: Là hành động tấn công hoặc làm hại ai đó hoặc cái gì đó.\n2. Ví dụ: Khi một con chó chạy lại và sủa to vào một người lạ, nó đang tấn công.\n3. Từ đồng nghĩa: Đánh, xô.\n4. Từ trái nghĩa: Bảo vệ, giúp đỡ."
+    },
+    {
+        "title": "giao thông",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Giao thông - Danh từ:\n1. Mô tả: Giao thông là cách mà mọi người và xe cộ di chuyển từ nơi này đến nơi khác.\n2. Ví dụ: Khi bạn đi bộ đến trường hoặc đi xe đạp trong công viên, đó là giao thông.\n3. Vài từ đồng nghĩa: Vận chuyển, di chuyển.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "máy bay",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Máy bay - Danh từ:\n1. Mô tả: Máy bay là một phương tiện giao thông bay trên không, giúp mọi người đi từ nơi này đến nơi khác rất nhanh.\n2. Ví dụ: Khi bạn đi du lịch đến một thành phố xa, bạn có thể đi máy bay để đến đó nhanh hơn.\n3. Từ đồng nghĩa: Phi cơ, máy bay phản lực.\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "khoa học",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- khoa học - Danh từ:\n1. Mô tả: Khoa học là cách mà chúng ta tìm hiểu về thế giới xung quanh và những điều xảy ra trong tự nhiên.\n2. Ví dụ: Khi bạn học về các loài động vật, cây cối hay các hiện tượng như mưa, đó là khoa học.\n3. Vài từ đồng nghĩa: nghiên cứu, tìm hiểu.\n4. Vài từ trái nghĩa: n/a\n\n- khoa học - Tính từ:\n1. Mô tả: Khoa học là những điều liên quan đến việc tìm hiểu và khám phá.\n2. Ví dụ: Một cuốn sách khoa học có thể dạy bạn về các hành tinh trong vũ trụ.\n3. Vài từ đồng nghĩa: nghiên cứu, khám phá.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "công nghệ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Công nghệ - Danh từ:\n1. Mô tả: Công nghệ là cách mà chúng ta sử dụng máy móc và ý tưởng để làm cho cuộc sống dễ dàng hơn.\n2. Ví dụ: Chiếc điện thoại mà bạn dùng để gọi cho bạn bè hoặc chơi game là một sản phẩm của công nghệ.\n3. Từ đồng nghĩa: Kỹ thuật, thiết bị.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "giá trị",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Giá trị - Danh từ:\n1. Mô tả: Giá trị là điều quan trọng hoặc tốt đẹp mà một thứ có.\n2. Ví dụ: Một món quà từ bạn bè có giá trị vì nó thể hiện tình bạn.\n3. Từ đồng nghĩa: Ý nghĩa, giá trị tinh thần.\n4. Từ trái nghĩa: Nonsense, không có giá trị."
+    },
+    {
+        "title": "cung cấp",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Cung cấp - Động từ:\n1. Mô tả: Đưa cho ai đó cái gì đó mà họ cần.\n2. Ví dụ: Mẹ cung cấp cho con bánh mì để ăn sáng.\n3. Vài từ đồng nghĩa: Đưa, phát, tặng.\n4. Vài từ trái nghĩa: Lấy lại, giữ lại, n/a."
+    },
+    {
+        "title": "văn hoá",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Văn hoá - Danh từ:\n1. Mô tả: Văn hoá là những điều mà mọi người làm và tin tưởng, như cách ăn uống, lễ hội, và cách sống.\n2. Ví dụ: Khi gia đình bạn cùng nhau ăn bánh chưng vào Tết, đó là một phần của văn hoá Việt Nam.\n3. Vài từ đồng nghĩa: Nếp sống, phong tục.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "quá trình",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Quá trình - Danh từ:\n1. Mô tả: Quá trình là một chuỗi các bước mà chúng ta làm để hoàn thành một việc gì đó.\n2. Ví dụ: Khi làm bánh, quá trình bao gồm trộn bột, nướng bánh và trang trí.\n3. Vài từ đồng nghĩa: Hành trình, chuỗi.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "trách nhiệm",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Trách nhiệm - Danh từ:\n1. Mô tả: Trách nhiệm là việc mà bạn phải làm và chịu trách nhiệm về nó.\n2. Ví dụ: Nếu bạn có nhiệm vụ dọn dẹp phòng của mình, đó là trách nhiệm của bạn.\n3. Vài từ đồng nghĩa: Nghĩa vụ, bổn phận.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "giải quyết",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Giải quyết - Động từ:\n1. Mô tả: Tìm cách để làm cho một vấn đề biến mất hoặc trở nên tốt hơn.\n2. Ví dụ: Khi bạn có bài toán khó, bạn cần giải quyết nó bằng cách tìm ra cách làm.\n3. Vài từ đồng nghĩa: Xử lý, tìm ra cách.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "khách hàng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Khách hàng - Danh từ:\n1. Mô tả: Khách hàng là người mua đồ hoặc sử dụng dịch vụ.\n2. Ví dụ: Khi bạn đi siêu thị và mua kẹo, bạn là khách hàng của siêu thị đó.\n3. Vài từ đồng nghĩa: Người mua, người tiêu dùng.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tiến hành",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tiến hành - Động từ:\n1. Mô tả: Làm một việc gì đó theo kế hoạch.\n2. Ví dụ: Khi bạn làm bài tập về nhà, bạn đang tiến hành học tập.\n3. Vài từ đồng nghĩa: Thực hiện, thực hành.\n4. Vài từ trái nghĩa: Dừng lại, ngừng."
+    },
+    {
+        "title": "vi phạm",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Vi phạm - Động từ:\n1. Mô tả: Là làm điều gì đó không đúng, không theo quy tắc.\n2. Ví dụ: Nếu bạn không làm bài tập về nhà, bạn đã vi phạm quy định của lớp học.\n3. Vài từ đồng nghĩa: Phạm luật, sai quy tắc.\n4. Vài từ trái nghĩa: Tuân thủ, làm đúng."
+    },
+    {
+        "title": "tập trung",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tập trung - Động từ:\n1. Mô tả: Là khi bạn chú ý vào một việc gì đó và không bị phân tâm.\n2. Ví dụ: Khi bạn làm bài tập về nhà, bạn cần tập trung để làm cho nhanh và đúng.\n3. Vài từ đồng nghĩa: Chú ý, chăm chú.\n4. Vài từ trái nghĩa: Phân tâm, lơ là."
+    },
+    {
+        "title": "cuộc sống",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cuộc sống - Danh từ:\n1. Mô tả: Cuộc sống là thời gian mà chúng ta sống, nơi có nhiều điều thú vị và trải nghiệm.\n2. Ví dụ: Cuộc sống của một đứa trẻ bao gồm đi học, chơi đùa và khám phá thế giới xung quanh.\n3. Vài từ đồng nghĩa: Sinh mệnh, đời sống.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "chính thức",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Chính thức - Tính từ:\n1. Mô tả: Làm việc theo quy tắc, có sự nghiêm túc.\n2. Ví dụ: Khi bạn mặc đồng phục đi học, đó là một cách thể hiện sự chính thức.\n3. Từ đồng nghĩa: Trang trọng, nghiêm túc.\n4. Từ trái nghĩa: Không chính thức, thoải mái."
+    },
+    {
+        "title": "thành viên",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thành viên - Danh từ:\n1. Mô tả: Thành viên là người thuộc về một nhóm hay tổ chức nào đó.\n2. Ví dụ: Trong lớp học, mỗi bạn học sinh đều là thành viên của lớp.\n3. Từ đồng nghĩa: Người tham gia, thành viên nhóm.\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "thiết kế",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thiết kế - Động từ:\n1. Mô tả: Thiết kế là khi bạn nghĩ ra và vẽ ra một cái gì đó mới, như một đồ vật hoặc một hình ảnh.\n2. Ví dụ: Khi bạn vẽ một cái nhà trên giấy, đó là bạn đang thiết kế một cái nhà.\n3. Vài từ đồng nghĩa: Tạo ra, vẽ ra.\n4. Vài từ trái nghĩa: Phá hủy, hủy bỏ."
+    },
+    {
+        "title": "hoàn toàn",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Hoàn toàn - Tính từ:\n1. Mô tả: Hoàn toàn có nghĩa là không thiếu gì, đầy đủ và trọn vẹn.\n2. Ví dụ: Nếu bạn ăn hết cái bánh, bạn đã ăn hoàn toàn cái bánh đó.\n3. Vài từ đồng nghĩa: Toàn bộ, đầy đủ.\n4. Vài từ trái nghĩa: Một phần, không đầy đủ."
+    },
+    {
+        "title": "chính sách",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Chính sách - Danh từ:\n1. Mô tả: Chính sách là những quy định hoặc kế hoạch mà một nhóm người, như trường học hoặc chính phủ, đưa ra để mọi người biết cách hành động.\n2. Ví dụ: Trường học có chính sách không được ăn uống trong lớp học để giữ cho lớp học sạch sẽ.\n3. Vài từ đồng nghĩa: Quy định, kế hoạch.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "quan tâm",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Quan tâm - Động từ:\n1. Mô tả: Chăm sóc và để ý đến người khác hoặc điều gì đó.\n2. Ví dụ: Khi bạn thấy bạn bè buồn, bạn hỏi họ có ổn không, đó là bạn đang quan tâm đến họ.\n3. Vài từ đồng nghĩa: Chăm sóc, để ý.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "phối hợp",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Phối hợp - Động từ:\n1. Mô tả: Làm việc cùng nhau để hoàn thành một việc gì đó.\n2. Ví dụ: Khi bạn và bạn bè cùng nhau chơi bóng đá, mọi người phối hợp để chuyền bóng và ghi bàn.\n3. Vài từ đồng nghĩa: Hợp tác, làm chung.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "nội dung",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cây - Danh từ:\n1. Mô tả: Cây là một loại thực vật có thân, lá và thường có hoa hoặc trái.\n2. Ví dụ: Cây xanh trong công viên nơi trẻ em chơi đùa.\n3. Vài từ đồng nghĩa: Thực vật, cây cối.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "lao động",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- lao động - Động từ:\n1. Mô tả: Làm việc để tạo ra cái gì đó.\n2. Ví dụ: Em giúp mẹ dọn dẹp nhà cửa.\n3. Từ đồng nghĩa: làm việc, hoạt động.\n4. Từ trái nghĩa: nghỉ ngơi.\n\n- lao động - Danh từ:\n1. Mô tả: Công việc mà mọi người làm để kiếm tiền hoặc tạo ra sản phẩm.\n2. Ví dụ: Bố em đi lao động để nuôi gia đình.\n3. Từ đồng nghĩa: công việc, nghề nghiệp.\n4. Từ trái nghĩa: n/a."
+    },
+    {
+        "title": "nước ngoài",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- nước ngoài - Danh từ:\n1. Mô tả: Nước ngoài là những đất nước khác không phải là nơi mình sống.\n2. Ví dụ: Nếu bạn sống ở Việt Nam, thì Mỹ, Nhật Bản là nước ngoài.\n3. Vài từ đồng nghĩa: nước khác, quốc gia khác\n4. Vài từ trái nghĩa: trong nước, quê hương"
+    },
+    {
+        "title": "lĩnh vực",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Lĩnh vực - Danh từ:\n1. Mô tả: Lĩnh vực là một khu vực hoặc một phần của một hoạt động nào đó.\n2. Ví dụ: Lĩnh vực học tập là nơi mà chúng ta học các môn như toán, văn, và khoa học.\n3. Vài từ đồng nghĩa: Ngành, khu vực.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "cơ hội",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- cơ hội - Danh từ:\n1. Mô tả: Cơ hội là lúc mà bạn có thể làm điều gì đó tốt hoặc thú vị.\n2. Ví dụ: Khi bạn có cơ hội chơi trò chơi mới với bạn bè.\n3. Vài từ đồng nghĩa: Dịp, thời điểm.\n4. Vài từ trái nghĩa: n/a\n\n- cơ hội - Tính từ:\n1. Mô tả: Cơ hội là khi có khả năng để làm điều gì đó tốt.\n2. Ví dụ: Một cơ hội tốt là khi bạn được chọn tham gia buổi biểu diễn.\n3. Vài từ đồng nghĩa: n/a\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "địa bàn",
+        "categories": [
+            "Danh từ",
+            "Danh từ"
+        ],
+        "prompt": "- Địa bàn - Danh từ:\n1. Mô tả: Địa bàn là một khu vực hay vùng đất mà người ta sống hoặc làm việc.\n2. Ví dụ: Trường học của con nằm trong địa bàn phường nơi con ở.\n3. Vài từ đồng nghĩa: Khu vực, vùng.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hợp tác",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- Hợp tác - Động từ:\n1. Mô tả: Làm việc cùng nhau với người khác để hoàn thành một việc gì đó.\n2. Ví dụ: Khi các bạn cùng nhau làm bài tập nhóm, các bạn đang hợp tác.\n3. Từ đồng nghĩa: Cộng tác, phối hợp.\n4. Từ trái nghĩa: N/a.\n\n- Hợp tác - Danh từ:\n1. Mô tả: Sự làm việc cùng nhau giữa nhiều người để đạt được mục tiêu chung.\n2. Ví dụ: Trong lớp học, hợp tác giúp các bạn hoàn thành dự án tốt hơn.\n3. Từ đồng nghĩa: Sự cộng tác, sự phối hợp.\n4. Từ trái nghĩa: N/a."
+    },
+    {
+        "title": "nhiệm vụ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nhiệm vụ - Danh từ:\n1. Mô tả: Nhiệm vụ là việc mà bạn cần phải làm.\n2. Ví dụ: Làm bài tập về nhà là một nhiệm vụ của học sinh.\n3. Vài từ đồng nghĩa: Công việc, trách nhiệm.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "công việc",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Công việc - Danh từ:\n1. Mô tả: Công việc là những việc mà người lớn làm để kiếm tiền hoặc giúp đỡ người khác.\n2. Ví dụ: Mẹ bạn làm công việc nấu ăn trong nhà hàng.\n3. Vài từ đồng nghĩa: Nghề nghiệp, công việc làm.\n4. Vài từ trái nghĩa: Nghỉ ngơi, thư giãn."
+    },
+    {
+        "title": "công trình",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- công trình - Danh từ:\n1. Mô tả: Công trình là một cái gì đó được xây dựng lên, như nhà cửa, cầu, hoặc đường.\n2. Ví dụ: Một ngôi nhà mà gia đình bạn sống là một công trình.\n3. Từ đồng nghĩa: xây dựng, kiến trúc.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "phục vụ",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Phục vụ - Động từ:\n1. Mô tả: Làm cho người khác có được những gì họ cần.\n2. Ví dụ: Khi bạn giúp mẹ dọn bàn ăn cho cả gia đình, bạn đang phục vụ.\n3. Vài từ đồng nghĩa: Cung cấp, giúp đỡ.\n4. Vài từ trái nghĩa: Nhận lại, từ chối."
+    },
+    {
+        "title": "báo cáo",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- báo cáo - Động từ:\n1. Mô tả: Nói cho người khác biết thông tin về một điều gì đó.\n2. Ví dụ: Em báo cáo với cô giáo rằng em đã hoàn thành bài tập.\n3. Từ đồng nghĩa: Thông báo, trình bày.\n4. Từ trái nghĩa: N/a.\n\n- báo cáo - Danh từ:\n1. Mô tả: Một tài liệu hoặc thông tin mà người khác cần biết.\n2. Ví dụ: Em viết một báo cáo về con vật mà em yêu thích.\n3. Từ đồng nghĩa: Thông tin, tài liệu.\n4. Từ trái nghĩa: N/a."
+    },
+    {
+        "title": "thể hiện",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thể hiện - Động từ:\n1. Mô tả: Thể hiện nghĩa là cho người khác thấy hoặc biết điều gì đó.\n2. Ví dụ: Khi bạn vẽ một bức tranh, bạn thể hiện cảm xúc của mình qua màu sắc và hình ảnh.\n3. Vài từ đồng nghĩa: Biểu diễn, trình bày.\n4. Vài từ trái nghĩa: Nén lại, giấu kín."
+    },
+    {
+        "title": "tài sản",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tài sản - Danh từ:\n1. Mô tả: Tài sản là những thứ mà bạn sở hữu, có giá trị và có thể dùng hoặc bán.\n2. Ví dụ: Căn nhà của bạn, chiếc xe đạp của bạn hoặc đồ chơi mà bạn có đều là tài sản.\n3. Từ đồng nghĩa: Tài sản, của cải, đồ vật.\n4. Từ trái nghĩa: Nợ, thiếu thốn."
+    },
+    {
+        "title": "khán giả",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Khán giả - Danh từ:\n1. Mô tả: Khán giả là những người đến xem một buổi biểu diễn, như hát, múa hay phim.\n2. Ví dụ: Khi có một buổi hòa nhạc, khán giả là những người ngồi xem và nghe nhạc.\n3. Từ đồng nghĩa: Người xem, người nghe.\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "chuẩn bị",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Chuẩn bị - Động từ:\n1. Mô tả: Làm mọi thứ sẵn sàng trước khi bắt đầu một việc gì đó.\n2. Ví dụ: Trước khi đi học, bạn chuẩn bị sách vở và bút.\n3. Vài từ đồng nghĩa: Sắp xếp, chuẩn bị sẵn.\n4. Vài từ trái nghĩa: Bỏ qua, không chuẩn bị."
+    },
+    {
+        "title": "đề nghị",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- Đề nghị - Động từ:\n1. Mô tả: Đề nghị là khi bạn nói với ai đó rằng bạn muốn họ làm điều gì đó.\n2. Ví dụ: Bạn đề nghị bạn của mình cùng chơi bóng đá.\n3. Vài từ đồng nghĩa: Gợi ý, khuyên.\n4. Vài từ trái nghĩa: N/a.\n\n- Đề nghị - Danh từ:\n1. Mô tả: Đề nghị là một ý kiến hoặc một lời mời để làm điều gì đó.\n2. Ví dụ: Bạn đưa ra một đề nghị để cả lớp cùng đi dã ngoại.\n3. Vài từ đồng nghĩa: Lời gợi ý, lời khuyên.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "phù hợp",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Phù hợp - Động từ:\n1. Mô tả: Làm cho cái gì đó đúng hoặc thích hợp với một điều gì đó khác.\n2. Ví dụ: Mặc áo ấm vào mùa đông là phù hợp để không bị lạnh.\n3. Từ đồng nghĩa: Thích hợp, hợp lý.\n4. Từ trái nghĩa: Không phù hợp, không thích hợp."
+    },
+    {
+        "title": "mục tiêu",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Mục tiêu - Danh từ:\n1. Mô tả: Mục tiêu là điều mà bạn muốn đạt được hoặc hoàn thành.\n2. Ví dụ: Khi bạn muốn học thuộc bài để có điểm tốt trong lớp.\n3. Vài từ đồng nghĩa: Mục đích, kế hoạch.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "đại diện",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- đại diện - Động từ:\n1. Mô tả: Làm thay mặt cho ai đó hoặc cái gì đó.\n2. Ví dụ: Khi bạn nói chuyện với cô giáo thay cho bạn bè, bạn đang đại diện cho họ.\n3. Vài từ đồng nghĩa: Thay mặt, đại diện cho.\n4. Vài từ trái nghĩa: n/a\n\n- đại diện - Danh từ:\n1. Mô tả: Người hoặc vật thay mặt cho người khác.\n2. Ví dụ: Một bạn trong lớp được chọn làm đại diện để nói chuyện với cô giáo.\n3. Vài từ đồng nghĩa: Người thay mặt, người đại diện.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nổi tiếng",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Nổi tiếng - Tính từ:\n1. Mô tả: Là người hoặc điều gì đó được nhiều người biết đến và yêu thích.\n2. Ví dụ: Ca sĩ Sơn Tùng M-TP rất nổi tiếng vì bài hát của anh ấy được nhiều bạn trẻ nghe.\n3. Từ đồng nghĩa: Nổi bật, được biết đến.\n4. Từ trái nghĩa: Nặc danh, không nổi bật."
+    },
+    {
+        "title": "chỉ đạo",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Chỉ đạo - Động từ:\n1. Mô tả: Nói cho ai đó biết phải làm gì.\n2. Ví dụ: Cô giáo chỉ đạo học sinh làm bài tập về nhà.\n3. Vài từ đồng nghĩa: Hướng dẫn, chỉ dẫn.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "ý kiến",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Ý kiến - Danh từ:\n1. Mô tả: Ý kiến là suy nghĩ hoặc cảm nhận của một người về một điều gì đó.\n2. Ví dụ: Khi bạn nghĩ rằng món kem dâu là ngon, đó là ý kiến của bạn.\n3. Vài từ đồng nghĩa: Quan điểm, suy nghĩ.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "thực tế",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- thực tế - Danh từ:\n1. Mô tả: Thực tế là những điều có thật, không phải là tưởng tượng.\n2. Ví dụ: Khi bạn nhìn thấy mặt trời trên bầu trời, đó là thực tế.\n3. Vài từ đồng nghĩa: Sự thật, hiện thực.\n4. Vài từ trái nghĩa: Giả tưởng, ảo tưởng.\n\n- thực tế - Tính từ:\n1. Mô tả: Thực tế là điều gì đó có thật và không phải là mơ mộng.\n2. Ví dụ: Câu chuyện này rất thực tế vì nó xảy ra trong đời sống hàng ngày.\n3. Vài từ đồng nghĩa: Có thật, hiện thực.\n4. Vài từ trái nghĩa: Hư cấu, mơ mộng."
+    },
+    {
+        "title": "công bố",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Công bố - Động từ:\n1. Mô tả: Nói cho mọi người biết một thông tin mới.\n2. Ví dụ: Cô giáo công bố điểm thi cho cả lớp.\n3. Vài từ đồng nghĩa: Thông báo, tuyên bố.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "chuyên gia",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Chuyên gia - Danh từ:\n1. Mô tả: Chuyên gia là người rất giỏi về một lĩnh vực nào đó.\n2. Ví dụ: Bác sĩ là chuyên gia về sức khỏe, giúp mọi người khỏe mạnh.\n3. Từ đồng nghĩa: Người có kinh nghiệm, chuyên viên.\n4. Từ trái nghĩa: Người không biết, người mới."
+    },
+    {
+        "title": "trực tiếp",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Trực tiếp - Tính từ:\n1. Mô tả: Làm điều gì đó ngay lập tức, không chờ đợi.\n2. Ví dụ: Khi bạn hỏi, \"Bạn có muốn ăn bánh không?\" và bạn trả lời ngay lập tức \"Có!\".\n3. Vài từ đồng nghĩa: Ngay lập tức, liền tay.\n4. Vài từ trái nghĩa: Chậm chạp, từ từ."
+    },
+    {
+        "title": "pháp luật",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Pháp luật - Danh từ:\n1. Mô tả: Pháp luật là những quy tắc mà mọi người phải tuân theo để sống chung hòa thuận và công bằng.\n2. Ví dụ: Nếu bạn không được phép lấy đồ chơi của bạn bè mà không xin phép, đó là một quy tắc trong pháp luật.\n3. Vài từ đồng nghĩa: Quy định, luật lệ.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hợp đồng",
+        "categories": [
+            "Danh từ",
+            "Động từ"
+        ],
+        "prompt": "- Hợp đồng - Danh từ:\n1. Mô tả: Hợp đồng là một thỏa thuận giữa hai người hoặc nhiều người về việc làm gì đó.\n2. Ví dụ: Khi bạn hứa với bạn của mình rằng sẽ cùng nhau chơi một trò chơi, đó là một hợp đồng.\n3. Từ đồng nghĩa: Thỏa thuận, cam kết.\n4. Từ trái nghĩa: n/a\n\n- Hợp đồng - Động từ:\n1. Mô tả: Hợp đồng nghĩa là khi bạn đồng ý làm một việc gì đó với người khác.\n2. Ví dụ: Khi bạn hợp đồng với bạn để cùng nhau làm bài tập, bạn đã đồng ý giúp nhau.\n3. Từ đồng nghĩa: Cam kết, thỏa thuận.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hành vi",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Hành vi - Danh từ:\n1. Mô tả: Hành vi là cách mà một người làm hoặc cư xử.\n2. Ví dụ: Khi bạn giúp bạn bè dọn dẹp lớp học, đó là một hành vi tốt.\n3. Vài từ đồng nghĩa: Cách cư xử, hành động.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "trung tâm",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- trung tâm - Danh từ:\n1. Mô tả: Trung tâm là nơi quan trọng nhất trong một khu vực.\n2. Ví dụ: Trường học là trung tâm học tập của các bạn học sinh.\n3. Vài từ đồng nghĩa: Nơi, khu vực.\n4. Vài từ trái nghĩa: Ngoại vi, rìa.\n\n- trung tâm - Tính từ:\n1. Mô tả: Trung tâm có nghĩa là ở giữa hoặc quan trọng nhất.\n2. Ví dụ: Sân chơi là nơi trung tâm để các bạn chơi đùa cùng nhau.\n3. Vài từ đồng nghĩa: Chính, quan trọng.\n4. Vài từ trái nghĩa: Ngoại vi, phụ."
+    },
+    {
+        "title": "bất ngờ",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Bất ngờ - Tính từ:\n1. Mô tả: Là điều mà bạn không nghĩ tới, làm bạn cảm thấy ngạc nhiên.\n2. Ví dụ: Khi bạn mở quà sinh nhật và thấy món đồ chơi mà bạn thích, đó là một bất ngờ!\n3. Từ đồng nghĩa: Ngạc nhiên, kinh ngạc.\n4. Từ trái nghĩa: Dự đoán, quen thuộc."
+    },
+    {
+        "title": "sức khoẻ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Sức khoẻ - Danh từ:\n1. Mô tả: Sức khoẻ là trạng thái cơ thể của chúng ta khi khỏe mạnh và không bị bệnh.\n2. Ví dụ: Khi con chạy nhảy vui vẻ và không thấy mệt, đó là sức khoẻ tốt.\n3. Vài từ đồng nghĩa: Sức khoẻ tốt, thể lực.\n4. Vài từ trái nghĩa: Bệnh tật, ốm yếu."
+    },
+    {
+        "title": "xác định",
+        "categories": [
+            "Động từ",
+            "Tính từ"
+        ],
+        "prompt": "- xác định - Động từ:\n1. Mô tả: Nhìn hoặc tìm ra điều gì đó.\n2. Ví dụ: Khi bạn tìm ra số lượng kẹo trong hộp.\n3. Vài từ đồng nghĩa: tìm, phát hiện.\n4. Vài từ trái nghĩa: n/a\n\n- xác định - Tính từ:\n1. Mô tả: Rõ ràng và chính xác.\n2. Ví dụ: Bức tranh này có màu sắc xác định, dễ nhìn thấy.\n3. Vài từ đồng nghĩa: rõ ràng, chính xác.\n4. Vài từ trái nghĩa: mơ hồ, không rõ."
+    },
+    {
+        "title": "điện thoại",
+        "categories": [
+            "Danh từ",
+            "Động từ"
+        ],
+        "prompt": "- điện thoại - Danh từ:\n1. Mô tả: Là một cái máy giúp chúng ta nói chuyện với nhau từ xa.\n2. Ví dụ: Khi mẹ gọi cho bà ngoại, mẹ dùng điện thoại.\n3. Từ đồng nghĩa: n/a\n4. Từ trái nghĩa: n/a\n\n- điện thoại - Động từ:\n1. Mô tả: Là hành động dùng điện thoại để gọi cho ai đó.\n2. Ví dụ: Con điện thoại cho bạn để rủ đi chơi.\n3. Từ đồng nghĩa: gọi, liên lạc\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nhân dân",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- nhân dân - Danh từ:\n1. Mô tả: Nhân dân là những người sống trong một đất nước, họ cùng nhau tạo nên cộng đồng.\n2. Ví dụ: Trong lớp học, các bạn học sinh là nhân dân của lớp.\n3. Vài từ đồng nghĩa: dân, cộng đồng.\n4. Vài từ trái nghĩa: n/a.\n\n- nhân dân - Tính từ:\n1. Mô tả: Nhân dân dùng để nói về những điều liên quan đến mọi người trong một đất nước.\n2. Ví dụ: Các hoạt động nhân dân như lễ hội, giúp mọi người vui vẻ và gần gũi hơn.\n3. Vài từ đồng nghĩa: cộng đồng, chung.\n4. Vài từ trái nghĩa: n/a."
+    },
+    {
+        "title": "giáo dục",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- giáo dục - Động từ:\n1. Mô tả: Giúp cho ai đó học hỏi và biết nhiều điều mới.\n2. Ví dụ: Cô giáo giáo dục học sinh về toán và tiếng Việt.\n3. Từ đồng nghĩa: Dạy, hướng dẫn.\n4. Từ trái nghĩa: n/a\n\n- giáo dục - Danh từ:\n1. Mô tả: Những kiến thức và kỹ năng mà mọi người học được.\n2. Ví dụ: Giáo dục giúp trẻ em biết đọc, biết viết và hiểu biết về thế giới.\n3. Từ đồng nghĩa: Học vấn, kiến thức.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "trở lại",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- trở lại - Động từ:\n1. Mô tả: Quay về chỗ cũ hoặc nơi đã đi qua.\n2. Ví dụ: Khi chơi ở công viên, bạn có thể trở lại nhà sau khi chơi xong.\n3. Từ đồng nghĩa: quay lại, trở về.\n4. Từ trái nghĩa: đi đi, rời đi."
+    },
+    {
+        "title": "giai đoạn",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Giai đoạn - Danh từ:\n1. Mô tả: Giai đoạn là một khoảng thời gian trong một quá trình nào đó.\n2. Ví dụ: Khi bạn học lớp 1, đó là giai đoạn đầu tiên trong việc đi học.\n3. Vài từ đồng nghĩa: Thời kỳ, bước.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "ngân hàng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Ngân hàng - Danh từ:\n1. Mô tả: Ngân hàng là nơi giữ tiền và cho người khác mượn tiền.\n2. Ví dụ: Khi mẹ cần tiền để mua đồ, mẹ có thể đến ngân hàng để rút tiền ra.\n3. Từ đồng nghĩa: Nơi giữ tiền, quỹ tiền.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tăng cường",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tăng cường - Động từ:\n1. Mô tả: Làm cho cái gì đó mạnh mẽ hơn hoặc tốt hơn.\n2. Ví dụ: Khi bạn tập thể dục, bạn đang tăng cường sức khỏe của mình.\n3. Từ đồng nghĩa: Cải thiện, nâng cao.\n4. Từ trái nghĩa: Giảm bớt, yếu đi."
+    },
+    {
+        "title": "thương mại",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thương mại - Danh từ:\n1. Mô tả: Thương mại là việc mua bán hàng hóa hoặc dịch vụ giữa người với người.\n2. Ví dụ: Khi bạn bán bánh kẹo cho bạn bè ở trường, đó là thương mại.\n3. Vài từ đồng nghĩa: Buôn bán, giao dịch.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "thiết bị",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thiết bị - Danh từ:\n1. Mô tả: Thiết bị là những đồ vật được sử dụng để làm một công việc nào đó.\n2. Ví dụ: Chiếc máy tính là một thiết bị giúp chúng ta học và chơi game.\n3. Vài từ đồng nghĩa: Dụng cụ, máy móc.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "an ninh",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- an ninh - Danh từ:\n1. Mô tả: An ninh là sự an toàn, không có nguy hiểm.\n2. Ví dụ: Khi bạn ở nhà và cửa khóa chặt, bạn cảm thấy an ninh.\n3. Từ đồng nghĩa: an toàn, bảo vệ.\n4. Từ trái nghĩa: nguy hiểm, bất an.\n\n- an ninh - Tính từ:\n1. Mô tả: An ninh là khi mọi thứ an toàn và không có nguy hiểm.\n2. Ví dụ: Khu vực này rất an ninh, nên mọi người có thể chơi thoải mái.\n3. Từ đồng nghĩa: an toàn, bảo đảm.\n4. Từ trái nghĩa: nguy hiểm, không an toàn."
+    },
+    {
+        "title": "nhu cầu",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nhu cầu - Danh từ:\n1. Mô tả: Nhu cầu là những thứ mà chúng ta cần để sống và cảm thấy hạnh phúc.\n2. Ví dụ: Khi bạn đói, nhu cầu của bạn là ăn một cái bánh mì.\n3. Vài từ đồng nghĩa: Sự cần thiết, yêu cầu.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "thường xuyên",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Thường xuyên - Tính từ:\n1. Mô tả: Làm điều gì đó nhiều lần, không phải chỉ một lần.\n2. Ví dụ: Em thường xuyên đi học mỗi ngày.\n3. Vài từ đồng nghĩa: Hay, liên tục.\n4. Vài từ trái nghĩa: Thỉnh thoảng, hiếm khi."
+    },
+    {
+        "title": "diện tích",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Diện tích - Danh từ:\n1. Mô tả: Diện tích là không gian mà một vật hoặc một vùng đất chiếm giữ.\n2. Ví dụ: Một tấm thảm trải sàn có diện tích lớn hơn một tấm thảm nhỏ.\n3. Vài từ đồng nghĩa: Kích thước, bề mặt.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "diễn viên",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Diễn viên - Danh từ:\n1. Mô tả: Diễn viên là người đóng vai trong phim hoặc kịch.\n2. Ví dụ: Khi xem phim hoạt hình, các nhân vật như mèo và chuột là do diễn viên lồng ghép giọng nói.\n3. Vài từ đồng nghĩa: Nghệ sĩ, người biểu diễn.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "lựa chọn",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Lựa chọn - Động từ:\n1. Mô tả: Chọn một thứ từ nhiều thứ khác.\n2. Ví dụ: Khi bạn có nhiều kẹo và bạn chọn một cái để ăn.\n3. Từ đồng nghĩa: Chọn, quyết định.\n4. Từ trái nghĩa: Bỏ qua, từ chối."
+    },
+    {
+        "title": "đào tạo",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Đào tạo - Động từ:\n1. Mô tả: Làm cho ai đó học hỏi và trở nên giỏi hơn trong một việc gì đó.\n2. Ví dụ: Thầy giáo đào tạo học sinh để họ biết đọc và viết.\n3. Vài từ đồng nghĩa: Huấn luyện, dạy dỗ.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "bao gồm",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Bao gồm - Động từ:\n1. Mô tả: Bao gồm có nghĩa là chứa đựng hoặc có trong một nhóm.\n2. Ví dụ: Trong một bữa tiệc sinh nhật, bánh kem và quà tặng bao gồm những món mà bạn sẽ nhận được.\n3. Từ đồng nghĩa: Chứa, có.\n4. Từ trái nghĩa: N/a."
+    },
+    {
+        "title": "chính quyền",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Chính quyền - Danh từ:\n1. Mô tả: Chính quyền là nhóm người điều hành và quản lý đất nước, giúp mọi người sống tốt hơn.\n2. Ví dụ: Khi bạn thấy các cô chú trong bộ phận công an hay chính quyền địa phương giúp đỡ mọi người, đó là chính quyền.\n3. Vài từ đồng nghĩa: Chính phủ, nhà nước.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "sinh viên",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Sinh viên - Danh từ:\n1. Mô tả: Sinh viên là người đang học ở trường đại học hoặc cao đẳng.\n2. Ví dụ: Anh Nam là sinh viên trường đại học, anh ấy học về máy tính.\n3. Từ đồng nghĩa: Học sinh lớn, người học.\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "nhân viên",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nhân viên - Danh từ:\n1. Mô tả: Nhân viên là người làm việc cho một công ty hoặc tổ chức.\n2. Ví dụ: Cô giáo là nhân viên của trường học.\n3. Từ đồng nghĩa: Người làm, công nhân.\n4. Từ trái nghĩa: Chủ, ông chủ."
+    },
+    {
+        "title": "đàn ông",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Đàn ông - Danh từ:\n1. Mô tả: Đàn ông là người lớn có giới tính nam, thường là cha hoặc người bảo vệ trong gia đình.\n2. Ví dụ: Bố của bạn là một người đàn ông.\n3. Vài từ đồng nghĩa: Nam, người đàn ông.\n4. Vài từ trái nghĩa: Phụ nữ, con gái."
+    },
+    {
+        "title": "thông qua",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thông qua - Động từ:\n1. Mô tả: Làm cho một cái gì đó được chấp nhận hoặc được thực hiện.\n2. Ví dụ: Bạn thông qua ý tưởng của mình để cô giáo biết bạn muốn làm gì trong lớp.\n3. Vài từ đồng nghĩa: Qua, bằng cách.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "thông báo",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- Thông báo - Động từ:\n1. Mô tả: Nói cho người khác biết một điều gì đó quan trọng.\n2. Ví dụ: Cô giáo thông báo cho lớp biết ngày mai có kiểm tra.\n3. Từ đồng nghĩa: Thông tin, báo tin.\n4. Từ trái nghĩa: N/a\n\n- Thông báo - Danh từ:\n1. Mô tả: Một tin tức hoặc thông tin quan trọng mà mọi người cần biết.\n2. Ví dụ: Cô giáo phát thông báo về buổi dã ngoại sắp tới.\n3. Từ đồng nghĩa: Tin tức, thông tin.\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "kiểm soát",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Kiểm soát - Động từ:\n1. Mô tả: Làm cho một cái gì đó không bị mất kiểm soát, giữ cho nó trong tầm tay.\n2. Ví dụ: Khi bạn lái xe, bạn phải kiểm soát vô lăng để xe đi đúng đường.\n3. Vài từ đồng nghĩa: Quản lý, điều khiển.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "một cách",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Một cách - Danh từ:\n1. Mô tả: Một cách là một phương pháp hoặc cách làm gì đó.\n2. Ví dụ: Khi bạn vẽ tranh, bạn có thể vẽ bằng bút màu hoặc bằng màu nước, đó là hai cách khác nhau để vẽ.\n3. Vài từ đồng nghĩa: Phương pháp, cách thức.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hoàn thành",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Hoàn thành - Động từ:\n1. Mô tả: Làm xong một việc gì đó.\n2. Ví dụ: Em hoàn thành bài tập về nhà của mình.\n3. Vài từ đồng nghĩa: Xong, làm xong.\n4. Vài từ trái nghĩa: Bắt đầu, chưa xong."
+    },
+    {
+        "title": "thi đấu",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thi đấu - Động từ:\n1. Mô tả: Thi đấu là khi hai hoặc nhiều người chơi cùng nhau để xem ai thắng.\n2. Ví dụ: Trong một trận bóng đá, các đội thi đấu để ghi bàn và giành chiến thắng.\n3. Vài từ đồng nghĩa: Cạnh tranh, tranh tài.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "tuyên bố",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- Tuyên bố - Động từ:\n1. Mô tả: Nói ra điều gì đó để mọi người biết.\n2. Ví dụ: Em tuyên bố rằng em đã hoàn thành bài tập về nhà.\n3. Từ đồng nghĩa: Thông báo, công bố.\n4. Từ trái nghĩa: N/a.\n\n- Tuyên bố - Danh từ:\n1. Mô tả: Một câu nói hoặc thông tin mà ai đó nói ra.\n2. Ví dụ: Tuyên bố của thầy giáo về buổi đi dã ngoại rất thú vị.\n3. Từ đồng nghĩa: Thông báo, công bố.\n4. Từ trái nghĩa: N/a."
+    },
+    {
+        "title": "thí sinh",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thí sinh - Danh từ:\n1. Mô tả: Là người tham gia vào một cuộc thi.\n2. Ví dụ: Bạn là thí sinh trong cuộc thi vẽ tranh ở trường.\n3. Từ đồng nghĩa: Người dự thi, thí dụ.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "lịch sử",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- lịch sử - Danh từ:\n1. Mô tả: Lịch sử là câu chuyện về những điều đã xảy ra trong quá khứ.\n2. Ví dụ: Lịch sử của đất nước ta có nhiều anh hùng và sự kiện quan trọng.\n3. Từ đồng nghĩa: quá khứ, sử học\n4. Từ trái nghĩa: tương lai\n\n- lịch sử - Tính từ:\n1. Mô tả: Lịch sử là những điều liên quan đến quá khứ.\n2. Ví dụ: Những bức tranh lịch sử giúp chúng ta hiểu về cuộc sống xưa kia.\n3. Từ đồng nghĩa: cổ xưa, truyền thống\n4. Từ trái nghĩa: hiện đại"
+    },
+    {
+        "title": "bóng đá",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Bóng đá - Danh từ:\n1. Mô tả: Bóng đá là một trò chơi mà hai đội dùng chân để đá một quả bóng vào khung thành đối phương.\n2. Ví dụ: Khi bạn chơi bóng đá với bạn bè trong công viên, bạn cố gắng ghi bàn vào gôn của đội bạn.\n3. Vài từ đồng nghĩa: đá bóng, chơi bóng\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hành động",
+        "categories": [
+            "Danh từ",
+            "Động từ"
+        ],
+        "prompt": "- hành động - Danh từ:\n1. Mô tả: Hành động là việc làm gì đó.\n2. Ví dụ: Khi bạn nhảy, đó là một hành động.\n3. Từ đồng nghĩa: việc làm, hoạt động\n4. Từ trái nghĩa: n/a\n\n- hành động - Động từ:\n1. Mô tả: Hành động là làm một việc gì đó.\n2. Ví dụ: Bạn hành động khi bạn chạy hoặc chơi.\n3. Từ đồng nghĩa: làm, thực hiện\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "đô thị",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Đô thị - Danh từ:\n1. Mô tả: Đô thị là một khu vực có nhiều nhà cửa, đường phố và người sống cùng nhau.\n2. Ví dụ: Hà Nội và TP.HCM là những đô thị lớn ở Việt Nam.\n3. Vài từ đồng nghĩa: Thành phố, khu phố.\n4. Vài từ trái nghĩa: Nông thôn, làng quê."
+    },
+    {
+        "title": "sở hữu",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- sở hữu - Động từ:\n1. Mô tả: Có cái gì đó thuộc về mình.\n2. Ví dụ: Con có sở hữu một cái xe đạp màu đỏ.\n3. Vài từ đồng nghĩa: Có, nắm giữ.\n4. Vài từ trái nghĩa: N/a.\n\n- sở hữu - Danh từ:\n1. Mô tả: Những thứ mà mình có.\n2. Ví dụ: Sở hữu của con là một cái búp bê và một cái xe ô tô.\n3. Vài từ đồng nghĩa: Tài sản, đồ vật.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "thực phẩm",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thực phẩm - Danh từ:\n1. Mô tả: Thực phẩm là những thứ chúng ta ăn để có sức khỏe và năng lượng.\n2. Ví dụ: Cơm, bánh mì, trái cây.\n3. Từ đồng nghĩa: Đồ ăn, thức ăn.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tài chính",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tài chính - Danh từ:\n1. Mô tả: Tài chính là cách mà người ta quản lý tiền bạc để mua sắm và chi tiêu.\n2. Ví dụ: Khi bạn có tiền tiêu vặt, bạn có thể dùng nó để mua kẹo hoặc đồ chơi.\n3. Vài từ đồng nghĩa: Tiền bạc, ngân sách.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "thu hút",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thu hút - Động từ:\n1. Mô tả: Làm cho người khác chú ý hoặc thích thú.\n2. Ví dụ: Cô giáo thu hút sự chú ý của học sinh khi kể chuyện thú vị.\n3. Từ đồng nghĩa: Hấp dẫn, lôi cuốn.\n4. Từ trái nghĩa: Nản lòng, chán."
+    },
+    {
+        "title": "tình hình",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tình hình - Danh từ:\n1. Mô tả: Tình hình là cách mà mọi thứ đang diễn ra hoặc đang xảy ra.\n2. Ví dụ: Nếu trời mưa, tình hình là ẩm ướt và có thể cần mang ô.\n3. Vài từ đồng nghĩa: Tình trạng, hoàn cảnh.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "vai trò",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Vai trò - Danh từ:\n1. Mô tả: Vai trò là công việc hoặc nhiệm vụ mà một người hoặc một vật phải làm trong một tình huống nào đó.\n2. Ví dụ: Trong một vở kịch, vai trò của bạn là diễn viên, bạn phải diễn theo nhân vật mà bạn được giao.\n3. Vài từ đồng nghĩa: Nhiệm vụ, chức năng.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "cuối cùng",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Cuối cùng - Tính từ:\n1. Mô tả: Cuối cùng có nghĩa là cái gì đó xảy ra sau cùng, không còn gì nữa.\n2. Ví dụ: Sau khi chơi hết tất cả các trò chơi, chúng ta đã ăn bánh và cuối cùng là đi ngủ.\n3. Vài từ đồng nghĩa: Sau cùng, cuối, chót.\n4. Vài từ trái nghĩa: Đầu tiên, ban đầu, trước."
+    },
+    {
+        "title": "cộng đồng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cộng đồng - Danh từ:\n1. Mô tả: Cộng đồng là một nhóm người sống gần nhau và thường giúp đỡ nhau.\n2. Ví dụ: Trong lớp học, các bạn học sinh là một cộng đồng vì họ cùng học và chơi với nhau.\n3. Vài từ đồng nghĩa: Xã hội, nhóm, tập thể.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "khai thác",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Khai thác - Động từ:\n1. Mô tả: Lấy ra hoặc sử dụng cái gì đó để có lợi.\n2. Ví dụ: Khi bạn lấy nước từ giếng để uống, bạn đang khai thác nước.\n3. Vài từ đồng nghĩa: Lấy, sử dụng.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "phương tiện",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Phương tiện - Danh từ:\n1. Mô tả: Phương tiện là những thứ giúp chúng ta di chuyển từ nơi này đến nơi khác.\n2. Ví dụ: Xe đạp, ô tô, xe buýt là những phương tiện mà chúng ta thường sử dụng để đi học hoặc đi chơi.\n3. Vài từ đồng nghĩa: Phương tiện giao thông, phương tiện di chuyển.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "biện pháp",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Biện pháp - Danh từ:\n1. Mô tả: Biện pháp là cách làm để giải quyết một vấn đề.\n2. Ví dụ: Khi trời mưa, biện pháp để không ướt là mang ô hoặc mặc áo mưa.\n3. Vài từ đồng nghĩa: Cách, phương pháp.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "đăng ký",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Đăng ký - Động từ:\n1. Mô tả: Đăng ký là khi bạn ghi tên mình vào một danh sách để tham gia hoặc nhận cái gì đó.\n2. Ví dụ: Khi bạn muốn tham gia lớp học vẽ, bạn cần đăng ký tên mình với cô giáo.\n3. Từ đồng nghĩa: ghi danh, đăng ký tham gia.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "giải pháp",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Giải pháp - Danh từ:\n1. Mô tả: Giải pháp là cách để giải quyết một vấn đề.\n2. Ví dụ: Nếu bạn không tìm thấy đồ chơi của mình, giải pháp có thể là hỏi mẹ hoặc tìm quanh nhà.\n3. Vài từ đồng nghĩa: Cách giải quyết, phương án.\n4. Vài từ trái nghĩa: Vấn đề, khó khăn."
+    },
+    {
+        "title": "liên tục",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Liên tục - Tính từ:\n1. Mô tả: Không ngừng lại, diễn ra mãi mãi.\n2. Ví dụ: Khi bạn chạy không nghỉ, bạn đang chạy liên tục.\n3. Vài từ đồng nghĩa: Không ngừng, liên hồi.\n4. Vài từ trái nghĩa: Ngắt quãng, gián đoạn."
+    },
+    {
+        "title": "tích cực",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Tích cực - Tính từ:\n1. Mô tả: Làm cho mọi thứ trở nên tốt đẹp hơn, vui vẻ hơn.\n2. Ví dụ: Khi bạn giúp bạn bè, bạn đang có một hành động tích cực.\n3. Từ đồng nghĩa: Lạc quan, vui vẻ.\n4. Từ trái nghĩa: Tiêu cực."
+    },
+    {
+        "title": "ủng hộ",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- ủng hộ - Động từ:\n1. Mô tả: Giúp đỡ hoặc khuyến khích ai đó làm điều gì đó.\n2. Ví dụ: Khi bạn vỗ tay cho bạn mình khi bạn ấy biểu diễn, bạn đang ủng hộ bạn ấy.\n3. Vài từ đồng nghĩa: hỗ trợ, khuyến khích.\n4. Vài từ trái nghĩa: phản đối, cản trở."
+    },
+    {
+        "title": "cơ thể",
+        "categories": [
+            "Danh từ",
+            "Danh từ"
+        ],
+        "prompt": "- Cơ thể - Danh từ:\n1. Mô tả: Cơ thể là phần bên ngoài và bên trong của con người, giúp chúng ta hoạt động và sống.\n2. Ví dụ: Khi bạn chạy, nhảy hoặc ăn, bạn đang sử dụng cơ thể của mình.\n3. Vài từ đồng nghĩa: Thân thể, hình thể.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nguyên nhân",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nguyên nhân - Danh từ:\n1. Mô tả: Nguyên nhân là lý do tại sao một điều gì đó xảy ra.\n2. Ví dụ: Nếu trời mưa, nguyên nhân là vì có mây và nước trong không khí.\n3. Vài từ đồng nghĩa: Lý do, động lực.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "áp dụng",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Áp dụng - Động từ:\n1. Mô tả: Sử dụng một cái gì đó để làm điều gì đó.\n2. Ví dụ: Khi bạn dùng bút để vẽ tranh.\n3. Vài từ đồng nghĩa: Sử dụng, thực hiện.\n4. Vài từ trái nghĩa: Ngừng, bỏ qua."
+    },
+    {
+        "title": "hồ sơ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Hồ sơ - Danh từ:\n1. Mô tả: Hồ sơ là một tập hợp thông tin về một người hoặc một việc gì đó.\n2. Ví dụ: Hồ sơ của bạn ở trường có thể chứa điểm số và thông tin về bạn.\n3. Vài từ đồng nghĩa: tài liệu, hồ sơ cá nhân.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nạn nhân",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nạn nhân - Danh từ:\n1. Mô tả: Nạn nhân là người bị tổn thương hoặc gặp khó khăn do một sự việc nào đó.\n2. Ví dụ: Nếu một bạn bị ngã xe đạp và bị đau, bạn đó là nạn nhân của vụ tai nạn.\n3. Vài từ đồng nghĩa: Người bị hại, người chịu thiệt hại.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "chức năng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Chức năng - Danh từ:\n1. Mô tả: Chức năng là cách mà một cái gì đó hoạt động hoặc làm việc.\n2. Ví dụ: Chiếc xe đạp có chức năng giúp chúng ta đi từ nơi này đến nơi khác.\n3. Vài từ đồng nghĩa: Nhiệm vụ, vai trò.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "thực sự",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Thực sự - Tính từ:\n1. Mô tả: Thực sự có nghĩa là điều gì đó là thật, không phải giả.\n2. Ví dụ: \"Cái bánh này thực sự rất ngon!\" \n3. Từ đồng nghĩa: Thật, đúng\n4. Từ trái nghĩa: Giả, không thật"
+    },
+    {
+        "title": "truyền thống",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- truyền thống - Danh từ:\n1. Mô tả: Truyền thống là những điều mà mọi người làm theo từ lâu đời, như phong tục tập quán.\n2. Ví dụ: Tết Nguyên Đán là một truyền thống của người Việt Nam, mọi người thường sum họp gia đình và ăn bánh chưng.\n3. Vài từ đồng nghĩa: phong tục, tập quán.\n4. Vài từ trái nghĩa: n/a.\n\n- truyền thống - Tính từ:\n1. Mô tả: Truyền thống là những điều cũ mà mọi người vẫn giữ gìn và làm theo.\n2. Ví dụ: Mặc áo dài trong ngày cưới là một phong cách truyền thống của người Việt Nam.\n3. Vài từ đồng nghĩa: cổ truyền, lâu đời.\n4. Vài từ trái nghĩa: hiện đại."
+    },
+    {
+        "title": "bản thân",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Bản thân - Danh từ:\n1. Mô tả: Bản thân là chính mình, là người mà bạn là.\n2. Ví dụ: Khi bạn nhìn vào gương, bạn thấy bản thân mình.\n3. Từ đồng nghĩa: Chính mình, cá nhân.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "ô tô",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Ô tô - Danh từ:\n1. Mô tả: Ô tô là một loại xe có bánh, dùng để chở người và đồ vật.\n2. Ví dụ: Ô tô chở gia đình đi chơi vào cuối tuần.\n3. Từ đồng nghĩa: Xe hơi, xe ô tô.\n4. Từ trái nghĩa: Xe đạp, xe máy."
+    },
+    {
+        "title": "bác sĩ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Bác sĩ - Danh từ:\n1. Mô tả: Bác sĩ là người giúp mọi người khỏe mạnh và chữa bệnh.\n2. Ví dụ: Khi con bị ốm, con sẽ đi gặp bác sĩ để được khám và chữa trị.\n3. Vài từ đồng nghĩa: Thầy thuốc, người chữa bệnh.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nguy cơ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nguy cơ - Danh từ:\n1. Mô tả: Nguy cơ là điều có thể xảy ra và gây ra rủi ro hoặc nguy hiểm.\n2. Ví dụ: Nếu bạn không đội mũ bảo hiểm khi đi xe đạp, có nguy cơ bạn sẽ bị ngã và bị thương.\n3. Vài từ đồng nghĩa: Rủi ro, mối nguy.\n4. Vài từ trái nghĩa: An toàn, chắc chắn."
+    },
+    {
+        "title": "vụ việc",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Vụ việc - Danh từ:\n1. Mô tả: Vụ việc là một chuyện xảy ra, có thể là tốt hoặc xấu.\n2. Ví dụ: Một vụ việc có thể là khi bạn tìm thấy một con mèo bị lạc và giúp nó về nhà.\n3. Vài từ đồng nghĩa: Sự việc, chuyện.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "con người",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Con người - Danh từ:\n1. Mô tả: Con người là một sinh vật sống, biết suy nghĩ và cảm nhận.\n2. Ví dụ: Mẹ và bố của con là con người.\n3. Vài từ đồng nghĩa: Người, cá nhân.\n4. Vài từ trái nghĩa: N/A"
+    },
+    {
+        "title": "chú ý",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Chú ý - Động từ:\n1. Mô tả: Nhìn và lắng nghe thật kỹ để hiểu điều gì đó.\n2. Ví dụ: Khi cô giáo giảng bài, các bạn cần chú ý để hiểu bài học.\n3. Từ đồng nghĩa: Quan sát, tập trung.\n4. Từ trái nghĩa: Bỏ qua, lơ là."
+    },
+    {
+        "title": "bệnh viện",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Bệnh viện - Danh từ:\n1. Mô tả: Nơi mà mọi người đến khi họ bị ốm hoặc cần giúp đỡ về sức khỏe.\n2. Ví dụ: Khi con bị sốt, mẹ sẽ đưa con đến bệnh viện để bác sĩ khám và cho thuốc.\n3. Từ đồng nghĩa: Nha khoa, phòng khám.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "toàn bộ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Toàn bộ - Danh từ:\n1. Mô tả: Toàn bộ có nghĩa là tất cả mọi thứ, không thiếu cái gì.\n2. Ví dụ: Trong một chiếc hộp có toàn bộ đồ chơi của con, như ô tô, búp bê và bóng.\n3. Vài từ đồng nghĩa: Tất cả, mọi thứ.\n4. Vài từ trái nghĩa: Một phần, một chút."
+    },
+    {
+        "title": "thành lập",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Thành lập - Động từ:\n1. Mô tả: Làm ra hoặc tạo ra một cái gì đó mới.\n2. Ví dụ: Khi bạn cùng bạn bè mở một câu lạc bộ chơi bóng, bạn đã thành lập câu lạc bộ đó.\n3. Vài từ đồng nghĩa: Tạo ra, lập nên.\n4. Vài từ trái nghĩa: Phá hủy, giải tán."
+    },
+    {
+        "title": "ca sĩ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Ca sĩ - Danh từ:\n1. Mô tả: Ca sĩ là người hát những bài hát.\n2. Ví dụ: Chị Hương là một ca sĩ nổi tiếng, chị ấy hát rất hay.\n3. Từ đồng nghĩa: Nghệ sĩ, người hát.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nhanh chóng",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Nhanh chóng - Tính từ:\n1. Mô tả: Làm việc gì đó rất nhanh, không mất nhiều thời gian.\n2. Ví dụ: Chó chạy nhanh chóng để bắt bóng.\n3. Từ đồng nghĩa: Nhanh, lẹ.\n4. Từ trái nghĩa: Chậm chạp."
+    },
+    {
+        "title": "nỗ lực",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- nỗ lực - Động từ:\n1. Mô tả: Là cố gắng làm điều gì đó thật tốt.\n2. Ví dụ: Khi bạn học bài, bạn nỗ lực để nhớ bài tốt hơn.\n3. Từ đồng nghĩa: cố gắng, phấn đấu.\n4. Từ trái nghĩa: n/a\n\n- nỗ lực - Danh từ:\n1. Mô tả: Là sự cố gắng để làm điều gì đó.\n2. Ví dụ: Sự nỗ lực của bạn trong việc học sẽ giúp bạn có điểm cao.\n3. Từ đồng nghĩa: cố gắng, sự phấn đấu.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "sự kiện",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Sự kiện - Danh từ:\n1. Mô tả: Sự kiện là một điều gì đó quan trọng hoặc đặc biệt xảy ra.\n2. Ví dụ: Sinh nhật của bạn là một sự kiện vui vẻ.\n3. Vài từ đồng nghĩa: Chuyện, sự việc.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "chi phí",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- chi phí - Động từ:\n1. Mô tả: Chi phí là khi bạn phải trả tiền để mua một cái gì đó.\n2. Ví dụ: Khi bạn mua kẹo, bạn phải chi phí một ít tiền để có được nó.\n3. Từ đồng nghĩa: n/a\n4. Từ trái nghĩa: n/a\n\n- chi phí - Danh từ:\n1. Mô tả: Chi phí là số tiền bạn cần để mua một cái gì đó.\n2. Ví dụ: Chi phí để mua một cái bánh là 10.000 đồng.\n3. Từ đồng nghĩa: Giá, tiền.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tên lửa",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tên lửa - Danh từ:\n1. Mô tả: Tên lửa là một loại phương tiện bay rất nhanh, có thể bay lên trời hoặc vào không gian.\n2. Ví dụ: Khi xem phim hoạt hình, bạn thấy tên lửa bay lên để khám phá vũ trụ.\n3. Từ đồng nghĩa: N/a\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "điều trị",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- điều trị - Động từ:\n1. Mô tả: Làm cho người bệnh khỏe lại bằng cách dùng thuốc hoặc phương pháp khác.\n2. Ví dụ: Khi bạn bị cảm, bác sĩ sẽ cho bạn thuốc để điều trị và giúp bạn khỏi bệnh.\n3. Vài từ đồng nghĩa: chữa bệnh, phục hồi.\n4. Vài từ trái nghĩa: làm bệnh nặng hơn, gây bệnh."
+    },
+    {
+        "title": "ứng dụng",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- Ứng dụng - Động từ:\n1. Mô tả: Sử dụng một cái gì đó để làm việc gì đó.\n2. Ví dụ: Con ứng dụng bút để vẽ tranh.\n3. Vài từ đồng nghĩa: Sử dụng, áp dụng.\n4. Vài từ trái nghĩa: n/a\n\n- Ứng dụng - Danh từ:\n1. Mô tả: Một chương trình hoặc công cụ giúp làm việc gì đó dễ hơn.\n2. Ví dụ: Con có thể tải ứng dụng học toán trên điện thoại.\n3. Vài từ đồng nghĩa: Phần mềm, chương trình.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "giao dịch",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Giao dịch - Động từ:\n1. Mô tả: Là khi bạn đổi đồ vật hoặc tiền bạc với người khác.\n2. Ví dụ: Khi bạn đổi một cái kẹo với bạn của mình để lấy một cái bánh quy.\n3. Vài từ đồng nghĩa: Đổi chác, trao đổi.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "cụ thể",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Cụ thể - Tính từ:\n1. Mô tả: Cụ thể có nghĩa là rõ ràng, không mơ hồ, dễ hiểu.\n2. Ví dụ: Khi bạn nói \"cụ thể là tôi muốn ăn táo\", bạn đang nói rõ ràng về điều bạn muốn.\n3. Vài từ đồng nghĩa: Rõ ràng, chi tiết.\n4. Vài từ trái nghĩa: Mơ hồ, chung chung."
+    },
+    {
+        "title": "đất nước",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Đất nước - Danh từ:\n1. Mô tả: Đất nước là nơi mà mọi người sống, có nhà cửa, trường học và nhiều thứ khác.\n2. Ví dụ: Việt Nam là một đất nước có nhiều món ăn ngon và phong cảnh đẹp.\n3. Từ đồng nghĩa: Quốc gia, vùng đất.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "bệnh nhân",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Bệnh nhân - Danh từ:\n1. Mô tả: Bệnh nhân là người đang bị ốm và cần đi khám bác sĩ để chữa bệnh.\n2. Ví dụ: Khi bạn bị sốt, bạn sẽ trở thành bệnh nhân khi đi đến bệnh viện.\n3. Vài từ đồng nghĩa: Người ốm, người bệnh.\n4. Vài từ trái nghĩa: Người khỏe, người bình thường."
+    },
+    {
+        "title": "trả lời",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Chạy - Động từ:\n1. Mô tả: Di chuyển nhanh bằng chân.\n2. Ví dụ: Em chạy nhanh ra sân chơi.\n3. Vài từ đồng nghĩa: Tăng tốc, lao.\n4. Vài từ trái nghĩa: Đi, đứng."
+    },
+    {
+        "title": "số lượng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Số lượng - Danh từ:\n1. Mô tả: Số lượng là cách chúng ta đếm hoặc biết có bao nhiêu thứ.\n2. Ví dụ: Có 3 quả táo trên bàn.\n3. Vài từ đồng nghĩa: Số đếm, số lượng.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "mở rộng",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Mở rộng - Động từ:\n1. Mô tả: Làm cho cái gì đó lớn hơn hoặc nhiều hơn.\n2. Ví dụ: Khi bạn mở rộng một bức tranh, bạn có thể thêm nhiều màu sắc và hình ảnh vào đó.\n3. Vài từ đồng nghĩa: Phát triển, gia tăng.\n4. Vài từ trái nghĩa: Thu hẹp, giảm bớt."
+    },
+    {
+        "title": "lý do",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Lý do - Danh từ:\n1. Mô tả: Lý do là nguyên nhân hoặc điều khiến cho một việc gì đó xảy ra.\n2. Ví dụ: Nếu bạn không làm bài tập về nhà, lý do có thể là bạn quên hoặc bạn bận chơi.\n3. Vài từ đồng nghĩa: Nguyên nhân, động lực.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "chiến thắng",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- chiến thắng - Động từ:\n1. Mô tả: Là khi bạn đánh bại ai đó hoặc đạt được điều gì đó mà bạn muốn.\n2. Ví dụ: Khi bạn chạy nhanh hơn bạn bè trong cuộc đua, bạn đã chiến thắng.\n3. Vài từ đồng nghĩa: thắng, vượt qua.\n4. Vài từ trái nghĩa: thua, thất bại.\n\n- chiến thắng - Danh từ:\n1. Mô tả: Là kết quả của việc đánh bại ai đó hoặc đạt được điều gì đó mà bạn muốn.\n2. Ví dụ: Giải thưởng mà bạn nhận được khi bạn thắng trong cuộc thi là một chiến thắng.\n3. Vài từ đồng nghĩa: thắng lợi, thành công.\n4. Vài từ trái nghĩa: thất bại, thua cuộc."
+    },
+    {
+        "title": "nhà nước",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nhà nước - Danh từ:\n1. Mô tả: Nhà nước là một tổ chức lớn giúp quản lý và bảo vệ đất nước, giống như một gia đình lớn có nhiều người sống chung.\n2. Ví dụ: Nhà nước giúp xây dựng trường học, bệnh viện và đường xá để mọi người có cuộc sống tốt hơn.\n3. Vài từ đồng nghĩa: Chính phủ, quốc gia.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "quân sự",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- quân sự - Danh từ:\n1. Mô tả: Quân sự là liên quan đến quân đội và việc bảo vệ đất nước.\n2. Ví dụ: Khi có một cuộc tập trận, đó là hoạt động quân sự để chuẩn bị cho việc bảo vệ đất nước.\n3. Từ đồng nghĩa: n/a\n4. Từ trái nghĩa: n/a\n\n- quân sự - Tính từ:\n1. Mô tả: Quân sự là tính từ dùng để chỉ những điều liên quan đến quân đội.\n2. Ví dụ: Một chiếc xe quân sự là xe của quân đội, dùng để di chuyển trong các hoạt động bảo vệ đất nước.\n3. Từ đồng nghĩa: n/a\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "bổ sung",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Bổ sung - Động từ:\n1. Mô tả: Thêm vào cái gì đó để nó đầy đủ hơn.\n2. Ví dụ: Khi bạn ăn bánh, nếu bạn thích, bạn có thể bổ sung thêm kem lên bánh.\n3. Vài từ đồng nghĩa: Thêm, gia tăng.\n4. Vài từ trái nghĩa: Giảm, bớt."
+    },
+    {
+        "title": "cảnh sát",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Cảnh sát - Danh từ:\n1. Mô tả: Cảnh sát là người giúp bảo vệ mọi người và giữ cho thành phố an toàn.\n2. Ví dụ: Khi có ai đó làm điều xấu, cảnh sát sẽ đến giúp đỡ và giải quyết vấn đề.\n3. Vài từ đồng nghĩa: Công an, người bảo vệ.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tinh thần",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tinh thần - Danh từ:\n1. Mô tả: Tinh thần là cảm giác vui vẻ, mạnh mẽ và quyết tâm trong lòng.\n2. Ví dụ: Khi bạn chơi một trò chơi và cố gắng hết sức, bạn có tinh thần chiến thắng.\n3. Vài từ đồng nghĩa: Sự quyết tâm, tinh thần phấn chấn.\n4. Vài từ trái nghĩa: Nỗi buồn, sự chán nản."
+    },
+    {
+        "title": "chủ yếu",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Chủ yếu - Tính từ:\n1. Mô tả: Chủ yếu nghĩa là cái gì đó quan trọng nhất hoặc nhiều nhất.\n2. Ví dụ: Trong một bữa ăn, cơm là món ăn chủ yếu mà mọi người thường ăn.\n3. Vài từ đồng nghĩa: Quan trọng, chính, chủ yếu.\n4. Vài từ trái nghĩa: Phụ, không quan trọng, ít."
+    },
+    {
+        "title": "tai nạn",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tai nạn - Danh từ:\n1. Mô tả: Tai nạn là khi có điều không may xảy ra, khiến ai đó bị thương hoặc hư hỏng.\n2. Ví dụ: Khi bạn ngã xe đạp và bị trầy xước chân, đó là một tai nạn.\n3. Vài từ đồng nghĩa: Sự cố, rủi ro.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "quân đội",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Quân đội - Danh từ:\n1. Mô tả: Quân đội là nhóm người được huấn luyện để bảo vệ đất nước và giữ gìn hòa bình.\n2. Ví dụ: Khi có nguy hiểm, quân đội sẽ giúp đỡ và bảo vệ mọi người.\n3. Vài từ đồng nghĩa: Lực lượng vũ trang, binh lính.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "vô cùng",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Vô cùng - Tính từ:\n1. Mô tả: Rất, rất nhiều, không có giới hạn.\n2. Ví dụ: \"Cô ấy vui vô cùng khi nhận được quà sinh nhật.\"\n3. Từ đồng nghĩa: Rất, cực kỳ.\n4. Từ trái nghĩa: Hơi, ít."
+    },
+    {
+        "title": "chính trị",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- chính trị - Danh từ:\n1. Mô tả: Chính trị là cách mà mọi người quyết định và quản lý cuộc sống chung của họ.\n2. Ví dụ: Khi lớp học bầu chọn người đại diện cho lớp, đó là một hoạt động chính trị.\n3. Từ đồng nghĩa: Quản lý, điều hành.\n4. Từ trái nghĩa: n/a\n\n- chính trị - Tính từ:\n1. Mô tả: Chính trị là liên quan đến việc quản lý và quyết định cho mọi người.\n2. Ví dụ: Một cuộc họp chính trị trong trường có thể là khi các bạn thảo luận về cách tổ chức ngày hội.\n3. Từ đồng nghĩa: Quản lý, điều hành.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "chăm sóc",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Chăm sóc - Động từ:\n1. Mô tả: Làm cho ai đó hoặc cái gì đó khỏe mạnh và hạnh phúc.\n2. Ví dụ: Mẹ chăm sóc em bé bằng cách cho em ăn và chơi cùng em.\n3. Vài từ đồng nghĩa: Nuôi dưỡng, bảo vệ.\n4. Vài từ trái nghĩa: Bỏ rơi, làm tổn thương."
+    },
+    {
+        "title": "vợ chồng",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Vợ chồng - Danh từ:\n1. Mô tả: Vợ chồng là hai người đã kết hôn và sống cùng nhau như một gia đình.\n2. Ví dụ: Bố và mẹ của con là vợ chồng.\n3. Từ đồng nghĩa: N/a\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "giới thiệu",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Giới thiệu - Động từ:\n1. Mô tả: Nói cho người khác biết về một điều gì đó mới mẻ.\n2. Ví dụ: Khi bạn gặp bạn mới, bạn có thể giới thiệu tên của mình.\n3. Vài từ đồng nghĩa: Trình bày, nói về.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "kinh nghiệm",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Kinh nghiệm - Danh từ:\n1. Mô tả: Kinh nghiệm là những điều mà chúng ta học được từ việc làm hoặc trải qua điều gì đó.\n2. Ví dụ: Khi bạn học đi xe đạp, bạn có kinh nghiệm khi bạn đã ngã và đứng dậy để đi tiếp.\n3. Vài từ đồng nghĩa: Kiến thức, hiểu biết.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "dự kiến",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- Dự kiến - Động từ:\n1. Mô tả: Dự kiến là khi mình nghĩ về điều gì sẽ xảy ra trong tương lai.\n2. Ví dụ: Mẹ dự kiến sẽ đưa con đi chơi vào cuối tuần.\n3. Vài từ đồng nghĩa: Dự đoán, mong đợi.\n4. Vài từ trái nghĩa: N/a.\n\n- Dự kiến - Danh từ:\n1. Mô tả: Dự kiến là kế hoạch hoặc ý tưởng về điều gì sẽ xảy ra.\n2. Ví dụ: Dự kiến của lớp mình là tổ chức một buổi picnic.\n3. Vài từ đồng nghĩa: Kế hoạch, ý tưởng.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "góp phần",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Góp phần - Động từ:\n1. Mô tả: Góp phần nghĩa là giúp đỡ hoặc đóng góp vào một việc gì đó.\n2. Ví dụ: Khi bạn giúp bạn bè làm bài tập, bạn đang góp phần vào việc học của họ.\n3. Vài từ đồng nghĩa: Đóng góp, giúp đỡ.\n4. Vài từ trái nghĩa: N/a."
+    },
+    {
+        "title": "hạnh phúc",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- hạnh phúc - Danh từ:\n1. Mô tả: Hạnh phúc là cảm giác vui vẻ và thoải mái trong lòng.\n2. Ví dụ: Khi bạn chơi với bạn bè và cười đùa, bạn cảm thấy hạnh phúc.\n3. Từ đồng nghĩa: niềm vui, sự vui vẻ.\n4. Từ trái nghĩa: nỗi buồn.\n\n- hạnh phúc - Tính từ:\n1. Mô tả: Hạnh phúc là khi bạn cảm thấy vui vẻ và thoải mái.\n2. Ví dụ: Khi nhận được món quà bất ngờ, bạn cảm thấy hạnh phúc.\n3. Từ đồng nghĩa: vui vẻ, phấn khởi.\n4. Từ trái nghĩa: buồn bã."
+    },
+    {
+        "title": "trẻ em",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- trẻ em - Danh từ:\n1. Mô tả: Trẻ em là những người còn nhỏ, chưa lớn.\n2. Ví dụ: Trẻ em thường chơi đùa và đi học.\n3. Vài từ đồng nghĩa: bé, thiếu nhi\n4. Vài từ trái nghĩa: người lớn, người trưởng thành"
+    },
+    {
+        "title": "công an",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Công an - Danh từ:\n1. Mô tả: Là người giúp bảo vệ an toàn cho mọi người và giữ trật tự trong xã hội.\n2. Ví dụ: Khi có ai đó làm điều xấu, công an sẽ đến giúp đỡ và ngăn chặn.\n3. Từ đồng nghĩa: Cảnh sát, lực lượng bảo vệ.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nghệ thuật",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nghệ thuật - Danh từ:\n1. Mô tả: Nghệ thuật là cách mà mọi người thể hiện ý tưởng và cảm xúc của mình qua tranh, nhạc, hoặc múa.\n2. Ví dụ: Khi bạn vẽ một bức tranh hoặc hát một bài hát, đó là bạn đang làm nghệ thuật.\n3. Vài từ đồng nghĩa: Mỹ thuật, sáng tạo.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "công nghiệp",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Công nghiệp - Danh từ:\n1. Mô tả: Công nghiệp là việc sản xuất ra nhiều đồ vật, như đồ chơi, quần áo, hay thực phẩm, để mọi người sử dụng.\n2. Ví dụ: Nhà máy sản xuất bánh kẹo làm ra nhiều loại kẹo mà trẻ em thích ăn.\n3. Vài từ đồng nghĩa: Sản xuất, chế tạo.\n4. Vài từ trái nghĩa: Nông nghiệp, thủ công."
+    },
+    {
+        "title": "dân tộc",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Dân tộc - Danh từ:\n1. Mô tả: Dân tộc là một nhóm người có chung văn hóa, ngôn ngữ và phong tục tập quán.\n2. Ví dụ: Người Kinh, người Thái, người Mông là những dân tộc khác nhau ở Việt Nam.\n3. Từ đồng nghĩa: Bộ tộc, nhóm người.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "hiện tại",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Hiện tại - Danh từ:\n1. Mô tả: Thời gian mà chúng ta đang sống và làm việc ngay bây giờ.\n2. Ví dụ: Hôm nay là thứ Bảy, chúng ta đang chơi ở công viên.\n3. Vài từ đồng nghĩa: Thời điểm, bây giờ.\n4. Vài từ trái nghĩa: Quá khứ, tương lai."
+    },
+    {
+        "title": "đáp ứng",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Đáp ứng - Động từ:\n1. Mô tả: Làm theo yêu cầu hoặc mong muốn của ai đó.\n2. Ví dụ: Khi bạn hỏi mẹ cho bạn một miếng bánh, mẹ sẽ đáp ứng bằng cách đưa cho bạn bánh.\n3. Vài từ đồng nghĩa: Phục vụ, trả lời.\n4. Vài từ trái nghĩa: Bỏ qua, từ chối."
+    },
+    {
+        "title": "câu chuyện",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Câu chuyện - Danh từ:\n1. Mô tả: Câu chuyện là một điều gì đó mà người ta kể để cho người khác nghe, thường có nhân vật và sự kiện.\n2. Ví dụ: \"Câu chuyện về cô bé quàng khăn đỏ đi thăm bà.\"\n3. Vài từ đồng nghĩa: Truyện, chuyện.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tương lai",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tương lai - Danh từ:\n1. Mô tả: Tương lai là thời gian sẽ xảy ra sau hiện tại, khi mà chúng ta chưa biết điều gì sẽ đến.\n2. Ví dụ: Ngày mai, chúng ta sẽ đi chơi, đó là một phần của tương lai.\n3. Vài từ đồng nghĩa: Thời gian tới, thời gian sau.\n4. Vài từ trái nghĩa: Quá khứ."
+    },
+    {
+        "title": "tìm kiếm",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tìm kiếm - Động từ:\n1. Mô tả: Tìm cái gì đó mà mình muốn biết hoặc muốn có.\n2. Ví dụ: Em tìm kiếm món đồ chơi mà em đã đánh rơi.\n3. Vài từ đồng nghĩa: Tìm, tra cứu.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "trở nên",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- trở nên - Động từ:\n1. Mô tả: Trở thành một cái gì đó khác, thường là tốt hơn.\n2. Ví dụ: Khi bạn học giỏi, bạn trở nên thông minh hơn.\n3. Vài từ đồng nghĩa: trở thành, phát triển.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tham dự",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tham dự - Động từ:\n1. Mô tả: Tham dự nghĩa là đi đến một nơi nào đó để cùng làm gì đó với mọi người.\n2. Ví dụ: Em tham dự buổi sinh nhật của bạn để cùng chơi và ăn bánh.\n3. Vài từ đồng nghĩa: Tham gia, góp mặt.\n4. Vài từ trái nghĩa: Rời khỏi, không tham gia."
+    },
+    {
+        "title": "tỷ lệ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tỷ lệ - Danh từ:\n1. Mô tả: Tỷ lệ là cách so sánh giữa hai số hoặc hai phần của một cái gì đó.\n2. Ví dụ: Nếu trong một lớp học có 10 bạn trai và 5 bạn gái, tỷ lệ bạn trai và bạn gái là 10:5.\n3. Vài từ đồng nghĩa: Tỉ số, phần trăm.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "tốc độ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Tốc độ - Danh từ:\n1. Mô tả: Tốc độ là cách mà một vật di chuyển nhanh hay chậm.\n2. Ví dụ: Khi bạn chạy nhanh hơn bạn bè, bạn có tốc độ cao hơn.\n3. Vài từ đồng nghĩa: Nhịp độ, vận tốc.\n4. Vài từ trái nghĩa: Chậm chạp, lề mề."
+    },
+    {
+        "title": "hiện đại",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Hiện đại - Tính từ:\n1. Mô tả: Là những thứ mới, tiên tiến và thường được sử dụng trong thời gian gần đây.\n2. Ví dụ: Chiếc điện thoại thông minh mà bạn sử dụng để chơi game là một đồ vật hiện đại.\n3. Từ đồng nghĩa: Mới, tiên tiến.\n4. Từ trái nghĩa: Cổ điển, lỗi thời."
+    },
+    {
+        "title": "du khách",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Du khách - Danh từ:\n1. Mô tả: Người đi đến một nơi khác để tham quan, khám phá.\n2. Ví dụ: Khi gia đình bạn đi biển và thấy nhiều người khác cũng đến chơi, họ là du khách.\n3. Vài từ đồng nghĩa: Khách du lịch, người tham quan.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "trang bị",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- trang bị - Động từ:\n1. Mô tả: Làm cho ai đó có những thứ cần thiết để làm việc gì đó.\n2. Ví dụ: Mẹ trang bị cho con áo mưa để con không bị ướt khi trời mưa.\n3. Vài từ đồng nghĩa: Cung cấp, chuẩn bị.\n4. Vài từ trái nghĩa: N/a\n\n- trang bị - Danh từ:\n1. Mô tả: Những thứ cần thiết để làm việc gì đó.\n2. Ví dụ: Bộ trang bị thể thao của con gồm giày, bóng và áo.\n3. Vài từ đồng nghĩa: Dụng cụ, thiết bị.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "xuất khẩu",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Xuất khẩu - Động từ:\n1. Mô tả: Xuất khẩu là khi một nước bán hàng hóa cho nước khác.\n2. Ví dụ: Việt Nam xuất khẩu gạo sang nước ngoài để người dân ở đó có thể ăn.\n3. Vài từ đồng nghĩa: Bán ra, chuyển đi.\n4. Vài từ trái nghĩa: Nhập khẩu."
+    },
+    {
+        "title": "văn bản",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Văn bản - Danh từ:\n1. Mô tả: Văn bản là một tập hợp các chữ viết hoặc chữ in để truyền đạt thông tin.\n2. Ví dụ: Một cuốn sách hay một bức thư mà bạn gửi cho bạn bè.\n3. Vài từ đồng nghĩa: Tài liệu, chữ viết.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nhấn mạnh",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Nhấn mạnh - Động từ:\n1. Mô tả: Nói hoặc làm điều gì đó để cho người khác chú ý hơn.\n2. Ví dụ: Khi cô giáo muốn mọi người nghe, cô ấy nhấn mạnh điều quan trọng trong bài học.\n3. Vài từ đồng nghĩa: Nói to, nhấn mạnh.\n4. Vài từ trái nghĩa: Bỏ qua, lờ đi."
+    },
+    {
+        "title": "tăng trưởng",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Tăng trưởng - Động từ:\n1. Mô tả: Tăng trưởng nghĩa là trở nên lớn hơn hoặc phát triển hơn.\n2. Ví dụ: Cây trồng lớn lên mỗi ngày khi có nước và ánh sáng mặt trời.\n3. Vài từ đồng nghĩa: Phát triển, lớn lên.\n4. Vài từ trái nghĩa: Giảm, nhỏ lại."
+    },
+    {
+        "title": "nghiêm trọng",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Nghiêm trọng - Tính từ:\n1. Mô tả: Điều gì đó rất quan trọng và cần được chú ý.\n2. Ví dụ: Nếu bạn bị đau bụng và không thể chơi, đó là một tình huống nghiêm trọng.\n3. Từ đồng nghĩa: Quan trọng, nghiêm túc.\n4. Từ trái nghĩa: Nhẹ nhàng, vui vẻ."
+    },
+    {
+        "title": "báo chí",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Báo chí - Danh từ:\n1. Mô tả: Là nơi viết và nói về tin tức, giúp mọi người biết chuyện gì đang xảy ra xung quanh.\n2. Ví dụ: Khi bạn đọc báo hoặc xem tin tức trên TV về một trận bóng đá, đó là báo chí.\n3. Vài từ đồng nghĩa: Tin tức, thông tin.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "chính phủ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Chính phủ - Danh từ:\n1. Mô tả: Chính phủ là nhóm người điều hành và quản lý đất nước, giúp cho mọi người sống tốt hơn.\n2. Ví dụ: Khi có luật mới về an toàn giao thông, chính phủ là người đưa ra luật đó để mọi người đi lại an toàn hơn.\n3. Vài từ đồng nghĩa: Nhà nước, chính quyền.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "ra mắt",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Ra mắt - Động từ:\n1. Mô tả: Là khi một cái gì đó mới được giới thiệu cho mọi người biết.\n2. Ví dụ: Khi một bộ phim mới được chiếu lần đầu tiên, người ta gọi là ra mắt bộ phim.\n3. Vài từ đồng nghĩa: giới thiệu, trình làng.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "thủ tục",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Thủ tục - Danh từ:\n1. Mô tả: Thủ tục là các bước mà chúng ta cần làm theo để hoàn thành một việc gì đó.\n2. Ví dụ: Khi bạn muốn làm bánh, thủ tục là bạn cần chuẩn bị nguyên liệu, trộn bột, nướng bánh và để nguội.\n3. Vài từ đồng nghĩa: Quy trình, cách làm.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "giám sát",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- Giám sát - Động từ:\n1. Mô tả: Nhìn và kiểm tra để biết mọi thứ đang diễn ra như thế nào.\n2. Ví dụ: Cô giáo giám sát học sinh trong lớp để đảm bảo mọi người đều học bài.\n3. Từ đồng nghĩa: Theo dõi, quan sát.\n4. Từ trái nghĩa: n/a\n\n- Giám sát - Danh từ:\n1. Mô tả: Hành động nhìn và kiểm tra để biết mọi thứ có ổn không.\n2. Ví dụ: Giám sát trong lớp học giúp cô giáo biết ai đang làm bài và ai không.\n3. Từ đồng nghĩa: Sự theo dõi, sự quan sát.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "xem xét",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Xem xét - Động từ:\n1. Mô tả: Nhìn hoặc nghĩ về một cái gì đó thật kỹ để hiểu rõ hơn.\n2. Ví dụ: Khi bạn xem xét bức tranh, bạn sẽ nhìn vào từng chi tiết của nó.\n3. Vài từ đồng nghĩa: Kiểm tra, quan sát.\n4. Vài từ trái nghĩa: Bỏ qua, lờ đi."
+    },
+    {
+        "title": "thoả thuận",
+        "categories": [
+            "Động từ",
+            "Danh từ"
+        ],
+        "prompt": "- thoả thuận - Động từ:\n1. Mô tả: Quyết định cùng nhau về một điều gì đó.\n2. Ví dụ: Hai bạn cùng thoả thuận chơi trò chơi nào.\n3. Vài từ đồng nghĩa: đồng ý, hứa hẹn.\n4. Vài từ trái nghĩa: không đồng ý, phản đối.\n\n- thoả thuận - Danh từ:\n1. Mô tả: Một sự đồng ý giữa hai người hoặc nhiều người.\n2. Ví dụ: Hai bạn có một thoả thuận là sẽ chia sẻ đồ chơi với nhau.\n3. Vài từ đồng nghĩa: sự đồng ý, hợp đồng.\n4. Vài từ trái nghĩa: n/a."
+    },
+    {
+        "title": "hình thức",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- Hình thức - Danh từ:\n1. Mô tả: Hình thức là cách mà một vật hoặc người trông như thế nào.\n2. Ví dụ: Hình thức của một chiếc bánh sinh nhật là tròn và có nhiều màu sắc.\n3. Vài từ đồng nghĩa: Dạng, kiểu.\n4. Vài từ trái nghĩa: N/a.\n\n- Hình thức - Tính từ:\n1. Mô tả: Hình thức là từ dùng để nói về vẻ ngoài của một vật hoặc người.\n2. Ví dụ: Chiếc áo này có hình thức đẹp và sáng màu.\n3. Vài từ đồng nghĩa: Đẹp, thu hút.\n4. Vài từ trái nghĩa: Xấu, tầm thường."
+    },
+    {
+        "title": "sẵn sàng",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Sẵn sàng - Tính từ:\n1. Mô tả: Đã chuẩn bị để làm một việc gì đó.\n2. Ví dụ: Khi bạn đã xếp ba lô và chuẩn bị đi học, bạn sẵn sàng để ra khỏi nhà.\n3. Từ đồng nghĩa: Chuẩn bị, sẵn sàng.\n4. Từ trái nghĩa: Không sẵn sàng, chưa chuẩn bị."
+    },
+    {
+        "title": "có mặt",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Có mặt - Động từ:\n1. Mô tả: Xuất hiện ở một nơi nào đó.\n2. Ví dụ: Khi bạn đến lớp học, bạn có mặt ở đó.\n3. Vài từ đồng nghĩa: Có mặt, hiện diện.\n4. Vài từ trái nghĩa: Vắng mặt."
+    },
+    {
+        "title": "điều chỉnh",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Điều chỉnh - Động từ:\n1. Mô tả: Làm cho cái gì đó thay đổi để tốt hơn hoặc phù hợp hơn.\n2. Ví dụ: Khi chiếc áo của bạn quá chật, mẹ có thể điều chỉnh nó cho vừa hơn.\n3. Vài từ đồng nghĩa: Sửa đổi, thay đổi.\n4. Vài từ trái nghĩa: Giữ nguyên, không thay đổi."
+    },
+    {
+        "title": "ấn tượng",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- ấn tượng - Danh từ:\n1. Mô tả: Ấn tượng là cảm giác đặc biệt mà chúng ta có khi thấy hoặc nghe một điều gì đó.\n2. Ví dụ: Khi bạn nhìn thấy một bức tranh đẹp, bạn có thể cảm thấy ấn tượng với nó.\n3. Vài từ đồng nghĩa: Ảnh hưởng, cảm xúc.\n4. Vài từ trái nghĩa: n/a\n\n- ấn tượng - Tính từ:\n1. Mô tả: Ấn tượng là khi một điều gì đó làm cho chúng ta cảm thấy thích thú hoặc ngạc nhiên.\n2. Ví dụ: Bức tranh đó rất ấn tượng, khiến mọi người đều khen ngợi.\n3. Vài từ đồng nghĩa: Đặc sắc, nổi bật.\n4. Vài từ trái nghĩa: Bình thường, tầm thường."
+    },
+    {
+        "title": "hành chính",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Hành chính - Tính từ:\n1. Mô tả: Liên quan đến việc quản lý và tổ chức công việc trong một nơi như trường học hoặc thành phố.\n2. Ví dụ: Cô giáo có nhiệm vụ hành chính khi ghi sổ điểm và sắp xếp lớp học.\n3. Từ đồng nghĩa: Quản lý, tổ chức.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "kết hợp",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Kết hợp - Động từ:\n1. Mô tả: Kết hợp nghĩa là ghép hai hoặc nhiều thứ lại với nhau.\n2. Ví dụ: Khi bạn trộn bột và nước để làm bánh, bạn đang kết hợp chúng lại.\n3. Vài từ đồng nghĩa: Ghép, trộn.\n4. Vài từ trái nghĩa: Tách rời, phân chia."
+    },
+    {
+        "title": "thanh niên",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- thanh niên - Danh từ:\n1. Mô tả: Thanh niên là những người trẻ tuổi, thường từ 18 đến 30.\n2. Ví dụ: Các bạn học sinh lớp 12 sắp tốt nghiệp và trở thành thanh niên.\n3. Từ đồng nghĩa: Người trẻ, thanh niên.\n4. Từ trái nghĩa: Người già, người lớn tuổi.\n\n- thanh niên - Tính từ:\n1. Mô tả: Thanh niên nghĩa là trẻ trung, năng động và đầy sức sống.\n2. Ví dụ: Một buổi tiệc sinh nhật của các bạn thanh niên rất vui vẻ và sôi động.\n3. Từ đồng nghĩa: Trẻ trung, năng động.\n4. Từ trái nghĩa: Già, chậm chạp."
+    },
+    {
+        "title": "đại học",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Đại học - Danh từ:\n1. Mô tả: Là nơi mà người lớn học để biết nhiều điều hơn và có nghề nghiệp.\n2. Ví dụ: Giống như khi bạn học ở trường nhưng là cho người lớn, để họ có thể trở thành bác sĩ, kỹ sư hay giáo viên.\n3. Vài từ đồng nghĩa: Trường cao đẳng, viện nghiên cứu.\n4. Vài từ trái nghĩa: Trường tiểu học, trường trung học."
+    },
+    {
+        "title": "nguy hiểm",
+        "categories": [
+            "Tính từ",
+            "Danh từ"
+        ],
+        "prompt": "- Nguy hiểm - Tính từ:\n1. Mô tả: Có thể gây ra rủi ro hoặc tổn thương.\n2. Ví dụ: Chạy gần đường lớn là nguy hiểm vì xe có thể va chạm.\n3. Từ đồng nghĩa: Rủi ro, mạo hiểm.\n4. Từ trái nghĩa: An toàn.\n\n- Nguy hiểm - Danh từ:\n1. Mô tả: Tình huống có thể gây ra tổn thương hoặc thiệt hại.\n2. Ví dụ: Nhảy từ trên cao xuống là một nguy hiểm có thể làm đau.\n3. Từ đồng nghĩa: Rủi ro, mạo hiểm.\n4. Từ trái nghĩa: An toàn."
+    },
+    {
+        "title": "mạnh mẽ",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Mạnh mẽ - Tính từ:\n1. Mô tả: Có sức mạnh, có khả năng làm việc gì đó tốt.\n2. Ví dụ: Một người bạn có thể nâng được một cái bàn nặng, bạn ấy rất mạnh mẽ!\n3. Từ đồng nghĩa: Khỏe, cường tráng.\n4. Từ trái nghĩa: Yếu, mỏng manh."
+    },
+    {
+        "title": "giáo viên",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Giáo viên - Danh từ:\n1. Mô tả: Người dạy học cho trẻ em.\n2. Ví dụ: Cô giáo dạy chúng em toán và tiếng Việt.\n3. Vài từ đồng nghĩa: Người dạy, thầy cô.\n4. Vài từ trái nghĩa: Học sinh, trò."
+    },
+    {
+        "title": "đề xuất",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Đề xuất - Động từ:\n1. Mô tả: Đề xuất là khi bạn đưa ra một ý tưởng hoặc một cách làm gì đó cho người khác.\n2. Ví dụ: Bạn đề xuất chơi trò chơi mới với bạn bè.\n3. Vài từ đồng nghĩa: Gợi ý, khuyên.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "đơn giản",
+        "categories": [
+            "Tính từ",
+            "Động từ"
+        ],
+        "prompt": "- Đơn giản - Tính từ:\n1. Mô tả: Dễ hiểu, không phức tạp.\n2. Ví dụ: Bài toán này rất đơn giản, chỉ cần cộng hai số lại với nhau.\n3. Từ đồng nghĩa: Dễ, nhẹ nhàng.\n4. Từ trái nghĩa: Phức tạp, khó khăn.\n\n- Đơn giản - Động từ:\n1. Mô tả: Làm cho cái gì đó dễ hơn, không khó khăn.\n2. Ví dụ: Mẹ giúp con đơn giản hóa bài tập về nhà.\n3. Từ đồng nghĩa: Giảm bớt, làm nhẹ.\n4. Từ trái nghĩa: Phức tạp hóa, làm khó."
+    },
+    {
+        "title": "y tế",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Y tế - Danh từ:\n1. Mô tả: Y tế là những việc liên quan đến sức khỏe và chữa bệnh cho mọi người.\n2. Ví dụ: Khi bạn bị cảm, bạn đi bác sĩ để được khám và chữa trị, đó là y tế.\n3. Vài từ đồng nghĩa: Sức khỏe, chăm sóc sức khỏe.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "cần thiết",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Cần thiết - Tính từ:\n1. Mô tả: Là thứ mà chúng ta phải có hoặc phải làm, không thể thiếu.\n2. Ví dụ: Nước là cần thiết để chúng ta sống.\n3. Vài từ đồng nghĩa: Quan trọng, thiết yếu.\n4. Vài từ trái nghĩa: Không cần, thừa thãi."
+    },
+    {
+        "title": "mong muốn",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Mong muốn - Động từ:\n1. Mô tả: Mong muốn là khi bạn rất muốn có hoặc làm điều gì đó.\n2. Ví dụ: Bạn mong muốn có một chiếc bánh kem ngon vào sinh nhật.\n3. Vài từ đồng nghĩa: Muốn, khao khát.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "xe máy",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Xe máy - Danh từ:\n1. Mô tả: Xe máy là một loại phương tiện giao thông có hai bánh, dùng để di chuyển.\n2. Ví dụ: Bố mẹ thường đi xe máy để đưa con đi học.\n3. Vài từ đồng nghĩa: Xe mô tô, xe tay ga.\n4. Vài từ trái nghĩa: Xe đạp, ô tô."
+    },
+    {
+        "title": "nghệ sĩ",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Nghệ sĩ - Danh từ:\n1. Mô tả: Nghệ sĩ là người sáng tạo ra những tác phẩm đẹp như tranh, nhạc, hay múa.\n2. Ví dụ: Một họa sĩ vẽ tranh hoặc một nhạc sĩ chơi nhạc cho mọi người nghe.\n3. Từ đồng nghĩa: Họa sĩ, nhạc sĩ, diễn viên.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "vũ khí",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Vũ khí - Danh từ:\n1. Mô tả: Vũ khí là những đồ vật được dùng để bảo vệ hoặc tấn công.\n2. Ví dụ: Một cái súng hoặc một cái gậy có thể được coi là vũ khí.\n3. Từ đồng nghĩa: Công cụ, dụng cụ.\n4. Từ trái nghĩa: N/a"
+    },
+    {
+        "title": "chắc chắn",
+        "categories": [
+            "Tính từ",
+            "Tính từ",
+            "Động từ"
+        ],
+        "prompt": "- chắc chắn - Tính từ:\n1. Mô tả: Chắc chắn có nghĩa là điều gì đó không thể sai, rất đúng.\n2. Ví dụ: Khi bạn nói \"Tôi chắc chắn rằng hôm nay trời sẽ nắng\", có nghĩa là bạn tin chắc điều đó sẽ xảy ra.\n3. Từ đồng nghĩa: đảm bảo, tin tưởng.\n4. Từ trái nghĩa: không chắc chắn, nghi ngờ.\n\n- chắc chắn - Động từ:\n1. Mô tả: Chắc chắn có nghĩa là làm cho ai đó tin rằng điều gì đó là đúng.\n2. Ví dụ: Khi bạn nói \"Tôi chắc chắn với bạn rằng bạn sẽ làm tốt bài kiểm tra\", bạn đang làm cho bạn của mình cảm thấy tự tin.\n3. Từ đồng nghĩa: đảm bảo, khẳng định.\n4. Từ trái nghĩa: n/a."
+    },
+    {
+        "title": "chiến lược",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- chiến lược - Danh từ:\n1. Mô tả: Chiến lược là kế hoạch để làm một việc gì đó tốt hơn.\n2. Ví dụ: Khi chơi cờ vua, bạn cần có chiến lược để đánh bại đối thủ.\n3. Từ đồng nghĩa: Kế hoạch, phương pháp.\n4. Từ trái nghĩa: n/a\n\n- chiến lược - Tính từ:\n1. Mô tả: Chiến lược là cách mà bạn nghĩ ra để làm điều gì đó thông minh.\n2. Ví dụ: Một cách chơi game chiến lược là bạn phải suy nghĩ trước khi di chuyển nhân vật.\n3. Từ đồng nghĩa: Thông minh, khôn ngoan.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "đầy đủ",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Đầy đủ - Tính từ:\n1. Mô tả: Đầy đủ có nghĩa là có tất cả những gì cần thiết, không thiếu thứ gì.\n2. Ví dụ: Bữa ăn của con có cơm, thịt, rau và trái cây, như vậy là đầy đủ.\n3. Vài từ đồng nghĩa: Trọn vẹn, hoàn chỉnh.\n4. Vài từ trái nghĩa: Thiếu, không đủ."
+    },
+    {
+        "title": "tình cảm",
+        "categories": [
+            "Danh từ",
+            "Tính từ"
+        ],
+        "prompt": "- tình cảm - Danh từ:\n1. Mô tả: Tình cảm là cảm xúc mà chúng ta có với người khác, như yêu thương, quý mến.\n2. Ví dụ: Khi bạn ôm mẹ, bạn cảm thấy tình cảm ấm áp.\n3. Từ đồng nghĩa: tình yêu, sự quý mến.\n4. Từ trái nghĩa: n/a\n\n- tình cảm - Tính từ:\n1. Mô tả: Tình cảm là khi bạn cảm thấy yêu thương và gần gũi với ai đó.\n2. Ví dụ: Bạn cảm thấy vui vẻ khi ở bên bạn bè, đó là tình cảm tốt đẹp.\n3. Từ đồng nghĩa: yêu thương, thân thiết.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "bị cáo",
+        "categories": [
+            "Danh từ"
+        ],
+        "prompt": "- Bị cáo - Danh từ:\n1. Mô tả: Người bị buộc tội vì đã làm điều sai trái.\n2. Ví dụ: Trong một phiên tòa, bị cáo là người mà mọi người đang xem xét xem có làm điều xấu hay không.\n3. Vài từ đồng nghĩa: Người bị buộc tội, người bị xử án.\n4. Vài từ trái nghĩa: N/a"
+    },
+    {
+        "title": "vô địch",
+        "categories": [
+            "Tính từ",
+            "Danh từ"
+        ],
+        "prompt": "- vô địch - Tính từ:\n1. Mô tả: Là người hoặc đội giỏi nhất trong một cuộc thi.\n2. Ví dụ: Đội bóng của bạn đã vô địch giải đấu, nghĩa là họ là đội mạnh nhất.\n3. Từ đồng nghĩa: Giỏi nhất, số một.\n4. Từ trái nghĩa: Thua cuộc.\n\n- vô địch - Danh từ:\n1. Mô tả: Người hoặc đội đã thắng trong một cuộc thi.\n2. Ví dụ: Đội bóng của bạn là vô địch của giải đấu năm nay.\n3. Từ đồng nghĩa: Nhà vô địch, người thắng cuộc.\n4. Từ trái nghĩa: Người thua cuộc."
+    },
+    {
+        "title": "bình thường",
+        "categories": [
+            "Tính từ"
+        ],
+        "prompt": "- Bình thường - Tính từ:\n1. Mô tả: Là điều không có gì đặc biệt, giống như mọi khi.\n2. Ví dụ: Hôm nay trời bình thường, không mưa cũng không nắng.\n3. Từ đồng nghĩa: Thông thường, thông lệ.\n4. Từ trái nghĩa: Khác thường, đặc biệt."
+    },
+    {
+        "title": "hướng dẫn",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Hướng dẫn - Động từ:\n1. Mô tả: Hướng dẫn nghĩa là chỉ cho ai đó cách làm một việc gì đó.\n2. Ví dụ: Nếu bạn không biết cách vẽ, mình sẽ hướng dẫn bạn từng bước để vẽ một bức tranh.\n3. Vài từ đồng nghĩa: chỉ dẫn, dạy bảo.\n4. Vài từ trái nghĩa: n/a"
+    },
+    {
+        "title": "nhập khẩu",
+        "categories": [
+            "Động từ"
+        ],
+        "prompt": "- Nhập khẩu - Động từ:\n1. Mô tả: Nhập khẩu là khi một nước mua đồ từ nước khác về.\n2. Ví dụ: Việt Nam nhập khẩu trái cây từ Thái Lan, nghĩa là Việt Nam mua trái cây từ Thái Lan để bán ở đây.\n3. Từ đồng nghĩa: Mua vào, nhập hàng.\n4. Từ trái nghĩa: Xuất khẩu."
+    },
+    {
+        "title": "đại biểu",
+        "categories": [
+            "Danh từ",
+            "Động từ"
+        ],
+        "prompt": "- đại biểu - Danh từ:\n1. Mô tả: Người đại diện cho một nhóm người.\n2. Ví dụ: Cô giáo chọn một bạn làm đại biểu lớp để nói chuyện với hiệu trưởng.\n3. Từ đồng nghĩa: Người đại diện, đại diện.\n4. Từ trái nghĩa: n/a\n\n- đại biểu - Động từ:\n1. Mô tả: Hành động đại diện cho ai đó hoặc một nhóm.\n2. Ví dụ: Bạn ấy đại biểu cho lớp mình trong cuộc thi thể thao.\n3. Từ đồng nghĩa: Đại diện, thay mặt.\n4. Từ trái nghĩa: n/a"
+    },
+    {
+        "title": "bảo đảm",
+        "categories": [
+            "Động từ",
+            "Tính từ",
+            "Danh từ"
+        ],
+        "prompt": "- bảo đảm - Động từ:\n1. Mô tả: Làm cho điều gì đó chắc chắn sẽ xảy ra.\n2. Ví dụ: Mẹ bảo đảm rằng con sẽ có bánh sinh nhật vào ngày sinh nhật của con.\n3. Vài từ đồng nghĩa: chắc chắn, cam kết.\n4. Vài từ trái nghĩa: n/a.\n\n- bảo đảm - Tính từ:\n1. Mô tả: Chắc chắn và an toàn.\n2. Ví dụ: Chiếc ghế này rất bảo đảm, con có thể ngồi lên mà không sợ ngã.\n3. Vài từ đồng nghĩa: an toàn, chắc chắn.\n4. Vài từ trái nghĩa: không an toàn, không chắc chắn.\n\n- bảo đảm - Danh từ:\n1. Mô tả: Sự chắc chắn về điều gì đó sẽ xảy ra.\n2. Ví dụ: Có bảo đảm rằng con sẽ được đi chơi vào cuối tuần.\n3. Vài từ đồng nghĩa: sự chắc chắn, sự cam kết.\n4. Vài từ trái nghĩa: n/a."
+    }
+]
