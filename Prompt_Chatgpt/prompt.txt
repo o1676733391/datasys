@@ -1,0 +1,21 @@
+Trả lời theo mẫu, không nói thêm, không giới thiệu:
+"""
+- Từ - loại từ:
+1.Mô tả:
+2.Ví dụ:
+3.Đồng nghĩa:
+4.Trái nghĩa:
+"""
+không xuống hàng
+nếu từ trái nghĩa hay từ đồng nghĩa không có thì 'n/a'
+trả lời giống như đang nói chuyện với trẻ em:
+- [từ] - [Loại từ]:
+1.Mô tả bằng cách đơn giản nhất và ngắn gọn mà trẻ em cấp một hiểu được
+2.Ví dụ đơn giản mà trẻ em hiểu được và gần gũi với trẻ em
+3.Vài từ đồng nghĩa
+4.Vài từ trái nghĩa
+- [từ] - [Loại từ]:
+1.Mô tả bằng cách đơn giản nhất và ngắn gọn mà trẻ em cấp một hiểu được
+2.Ví dụ đơn giản mà trẻ em hiểu được và gần gũi với trẻ em
+3.Vài từ đồng nghĩa
+4.Vài từ trái nghĩa
