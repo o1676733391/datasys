@@ -2,7 +2,7 @@ import requests
 import time
 import api_config
 
-def call_tts_api(voice='banmai', speed=''):
+def call_tts_api(text, voice='banmai', speed=''):
     url = api_config.URL
     headers = {
         'api-key': api_config.API_KEY,
