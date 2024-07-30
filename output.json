@@ -20,7 +20,7 @@
             "antonym": "N/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Một nhóm người làm việc cùng nhau để đạt được một mục tiêu.",
             "example": "Trường học là một tổ chức nơi học sinh học tập.",
             "synonym": "Nhóm, hiệp hội.",
@@ -42,7 +42,7 @@
     {
         "word": "thời gian",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thời gian là khoảng thời gian mà chúng ta sống và trải nghiệm mọi thứ.",
             "example": "Khi bạn đi học từ sáng đến chiều, đó là thời gian bạn học.",
             "synonym": "Khoảng thời gian, Thời điểm.",
@@ -111,7 +111,7 @@
     {
         "word": "khu vực",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Khu vực là một phần của không gian hoặc đất đai mà chúng ta có thể nhìn thấy hoặc sử dụng.",
             "example": "Khu vực sân chơi là nơi mà trẻ em có thể chơi đùa và vui vẻ.",
             "synonym": "Khu, vùng, địa điểm.",
@@ -122,7 +122,7 @@
     {
         "word": "gia đình",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Gia đình là những người sống cùng nhau và yêu thương nhau, như bố, mẹ, anh chị em.",
             "example": "Trong gia đình, có bố, mẹ và em gái của con.",
             "synonym": "Nhà, tổ ấm.",
@@ -140,7 +140,7 @@
     {
         "word": "dự án",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Dự án là một kế hoạch mà mọi người làm để hoàn thành một việc gì đó.",
             "example": "Khi lớp học của bạn lên kế hoạch làm một buổi biểu diễn văn nghệ, đó là một dự án.",
             "synonym": "Kế hoạch, công việc.",
@@ -151,7 +151,7 @@
     {
         "word": "một số",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Một số nghĩa là nhiều hơn một nhưng không phải là tất cả.",
             "example": "Có một số quả táo trên bàn.",
             "synonym": "Một vài, một ít.",
@@ -162,7 +162,7 @@
     {
         "word": "đầu tiên",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Là cái gì đó xảy ra trước hết, là cái bắt đầu.",
             "example": "Khi bạn làm bài tập, câu hỏi đầu tiên là câu hỏi bạn phải trả lời trước.",
             "synonym": "cái trước, cái khởi đầu",
@@ -198,7 +198,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Điều gì đó mà chúng ta biết hoặc được nghe.",
             "example": "Con nhận được thông tin về ngày sinh nhật của bạn.",
             "synonym": "tin tức, dữ liệu",
@@ -209,7 +209,7 @@
     {
         "word": "thế giới",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thế giới là nơi mà chúng ta sống, có nhiều đất nước, con người, động vật và cây cối.",
             "example": "Khi bạn đi du lịch đến một nơi mới, bạn đang khám phá một phần của thế giới.",
             "synonym": "Trái đất, hành tinh.",
@@ -238,7 +238,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Một tổ chức hoặc nhóm người làm việc cùng nhau để bán hàng hoặc cung cấp dịch vụ.",
             "example": "Cửa hàng bán đồ chơi mà bạn thường đến chơi.",
             "synonym": "Công ty, cửa hàng.",
@@ -249,7 +249,7 @@
     {
         "word": "thành phố",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thành phố là nơi có nhiều nhà cửa, đường phố và người sống cùng nhau.",
             "example": "Hà Nội là một thành phố lớn với nhiều người và xe cộ.",
             "synonym": "Khu đô thị, thị xã.",
@@ -260,7 +260,7 @@
     {
         "word": "vấn đề",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Vấn đề là một điều khó khăn mà chúng ta cần phải giải quyết.",
             "example": "Khi bạn không tìm thấy đồ chơi của mình, đó là một vấn đề.",
             "synonym": "Khó khăn, rắc rối.",
@@ -271,12 +271,7 @@
     {
         "word": "thị trường",
         "voice": "n/a",
-        "verb": {
-            "desc": "Thị trường là nơi mọi người mua và bán đồ vật hoặc dịch vụ.",
-            "example": "Chợ là một loại thị trường, nơi bạn có thể mua rau, quả và đồ chơi.",
-            "img": "n/a"
-        },
-        "adj": {
+        "noun": {
             "desc": "Chợ, nơi buôn bán.",
             "example": "n/a",
             "img": "n/a"
@@ -285,7 +280,7 @@
     {
         "word": "kinh tế",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Kinh tế là cách mà mọi người làm ra và sử dụng tiền, hàng hóa và dịch vụ.",
             "example": "Khi bạn bán bánh kẹo ở trường, đó là một phần của kinh tế.",
             "synonym": "N/a",
@@ -303,7 +298,7 @@
     {
         "word": "đặc biệt",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Là điều gì đó khác biệt và quan trọng hơn những điều khác.",
             "example": "Sinh nhật của bạn là một ngày đặc biệt vì bạn nhận quà và có bánh kem.",
             "synonym": "Khác biệt, nổi bật.",
@@ -314,14 +309,14 @@
     {
         "word": "công tác",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Công việc mà mọi người làm để giúp đỡ hoặc hoàn thành một nhiệm vụ nào đó.",
             "example": "Khi các bạn tham gia dọn dẹp lớp học, đó là công tác của các bạn.",
             "synonym": "Nhiệm vụ, công việc.",
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Làm việc để hoàn thành một nhiệm vụ hoặc giúp đỡ ai đó.",
             "example": "Các bạn công tác để giúp đỡ bạn bị ốm bằng cách mang đồ ăn đến cho bạn.",
             "synonym": "Làm việc, thực hiện.",
@@ -332,14 +327,14 @@
     {
         "word": "hệ thống",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hệ thống là một nhóm các phần làm việc cùng nhau để hoàn thành một nhiệm vụ.",
             "example": "Một hệ thống trường học gồm có giáo viên, học sinh và sách vở để dạy và học.",
             "synonym": "Cấu trúc, tổ chức.",
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Hệ thống là hành động sắp xếp các phần để chúng làm việc cùng nhau.",
             "example": "Khi bạn sắp xếp đồ chơi theo loại, bạn đang hệ thống chúng.",
             "synonym": "Sắp xếp, tổ chức.",
@@ -357,7 +352,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Sự tạo ra hoặc làm ra một cái gì đó.",
             "example": "Sản xuất đồ chơi giúp trẻ em vui chơi.",
             "synonym": "chế tạo, sản phẩm.",
@@ -368,7 +363,7 @@
     {
         "word": "quốc gia",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Quốc gia là một vùng đất có nhiều người sống và có luật lệ riêng.",
             "example": "Việt Nam là một quốc gia nơi có nhiều món ăn ngon và phong cảnh đẹp.",
             "synonym": "đất nước, vùng lãnh thổ",
@@ -386,7 +381,7 @@
     {
         "word": "khả năng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Khả năng là điều mà bạn có thể làm tốt hoặc có thể học được.",
             "example": "Nếu bạn có khả năng vẽ, bạn có thể vẽ những bức tranh đẹp.",
             "synonym": "Năng lực, tài năng.",
@@ -422,7 +417,7 @@
     {
         "word": "công ty",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Công ty là nơi mà mọi người làm việc cùng nhau để tạo ra sản phẩm hoặc dịch vụ.",
             "example": "Như một cửa hàng bán đồ chơi, nơi có nhiều người làm việc để bán đồ chơi cho trẻ em.",
             "synonym": "Doanh nghiệp, xí nghiệp.",
@@ -433,7 +428,7 @@
     {
         "word": "sản phẩm",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Sản phẩm là những đồ vật mà người ta làm ra để bán hoặc sử dụng.",
             "example": "Một cái bánh kem là một sản phẩm mà bạn có thể ăn trong sinh nhật.",
             "synonym": "Hàng hóa, đồ vật.",
@@ -444,7 +439,7 @@
     {
         "word": "xã hội",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Xã hội là nơi mà mọi người sống cùng nhau, giúp đỡ và chơi với nhau.",
             "example": "Trong lớp học, các bạn học sinh cùng nhau học bài và chơi đùa, đó là một phần của xã hội.",
             "synonym": "Cộng đồng, nhóm.",
@@ -455,7 +450,7 @@
     {
         "word": "chương trình",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chương trình là một kế hoạch hoặc một hoạt động mà mọi người làm cùng nhau.",
             "example": "Một chương trình học ở trường, nơi các bạn học toán, văn và thể dục.",
             "synonym": "Kế hoạch, hoạt động.",
@@ -466,7 +461,7 @@
     {
         "word": "cơ quan",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cơ quan là một phần của cơ thể giúp chúng ta làm việc, như tim giúp bơm máu.",
             "example": "Cơ quan tiêu hóa giúp chúng ta ăn uống và tiêu hóa thức ăn.",
             "synonym": "Bộ phận, tổ chức.",
@@ -484,7 +479,7 @@
             "antonym": "N/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Yêu cầu là một điều bạn muốn hoặc cần từ người khác.",
             "example": "Yêu cầu của bạn là có một chiếc xe đồ chơi mới.",
             "synonym": "Đề nghị, mong muốn.",
@@ -517,7 +512,7 @@
     {
         "word": "địa phương",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Địa phương là một nơi cụ thể, như một làng, một thành phố hay một vùng.",
             "example": "Quê của bạn là một địa phương có nhiều cánh đồng xanh.",
             "synonym": "khu vực, vùng.",
@@ -546,7 +541,7 @@
     {
         "word": "đơn vị",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Đơn vị là một cách để đo lường hoặc tính toán một cái gì đó.",
             "example": "Một mét là đơn vị để đo chiều dài, như khi đo chiều cao của bạn.",
             "synonym": "Đo lường, kích thước.",
@@ -601,7 +596,7 @@
     {
         "word": "quan trọng",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Điều gì đó rất cần thiết và có giá trị.",
             "example": "Việc học bài là rất quan trọng để bạn có thể làm bài kiểm tra tốt.",
             "synonym": "Cần thiết, thiết yếu.",
@@ -612,7 +607,7 @@
     {
         "word": "quốc tế",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Quốc tế là những điều liên quan đến nhiều nước khác nhau trên thế giới.",
             "example": "Khi các nước gặp nhau để nói chuyện về hòa bình, đó là một cuộc họp quốc tế.",
             "synonym": "toàn cầu, thế giới",
@@ -630,7 +625,7 @@
     {
         "word": "lực lượng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Lực lượng là nhóm người hoặc vật có sức mạnh để làm một việc gì đó.",
             "example": "Lực lượng cứu hộ giúp tìm kiếm và cứu những người bị nạn trong thiên tai.",
             "synonym": "Sức mạnh, đội ngũ.",
@@ -641,7 +636,7 @@
     {
         "word": "cơ sở",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cơ sở là nơi mà một việc gì đó được bắt đầu hoặc thực hiện.",
             "example": "Trường học là cơ sở để học tập và chơi đùa.",
             "synonym": "Nền tảng, cơ sở vật chất.",
@@ -670,7 +665,7 @@
             "antonym": "Tấn công, bỏ mặc.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Hành động hoặc cách làm để giữ an toàn cho ai đó hoặc cái gì đó.",
             "example": "Sự bảo vệ của bố mẹ giúp bạn cảm thấy an toàn.",
             "synonym": "Sự che chở, sự giữ gìn.",
@@ -692,14 +687,14 @@
     {
         "word": "ảnh hưởng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Ảnh hưởng là sự tác động mà một điều gì đó có lên một điều khác.",
             "example": "Khi trời mưa, nó có ảnh hưởng đến việc chơi ngoài trời của trẻ em.",
             "synonym": "tác động, ảnh hưởng.",
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Ảnh hưởng nghĩa là làm cho một điều gì đó thay đổi hoặc có cảm giác khác.",
             "example": "Câu chuyện hay có thể ảnh hưởng đến cách mà trẻ em nghĩ về thế giới.",
             "synonym": "tác động, làm ảnh hưởng.",
@@ -710,7 +705,7 @@
     {
         "word": "hiệu quả",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hiệu quả là kết quả tốt mà chúng ta đạt được khi làm một việc gì đó.",
             "example": "Khi bạn học bài chăm chỉ, bạn sẽ có điểm cao trong bài kiểm tra, đó là hiệu quả của việc học.",
             "synonym": "Kết quả, thành công.",
@@ -765,7 +760,7 @@
     {
         "word": "chất lượng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chất lượng là cách mà một thứ gì đó tốt hay không tốt.",
             "example": "Một chiếc bánh ngon có chất lượng tốt, còn một chiếc bánh hỏng thì có chất lượng kém.",
             "synonym": "Tiêu chuẩn, đặc tính.",
@@ -783,7 +778,7 @@
             "antonym": "n/a.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Người chỉ huy, dẫn dắt người khác.",
             "example": "Cô giáo là lãnh đạo của lớp học, giúp các bạn học tập.",
             "synonym": "người dẫn dắt, người chỉ huy.",
@@ -794,7 +789,7 @@
     {
         "word": "kết quả",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Kết quả là điều xảy ra sau khi làm một việc gì đó.",
             "example": "Nếu bạn làm bài tập về nhà, kết quả có thể là bạn được điểm tốt.",
             "synonym": "Thành quả, kết thúc.",
@@ -816,7 +811,7 @@
     {
         "word": "thời điểm",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thời điểm là một khoảng thời gian cụ thể mà chúng ta có thể làm gì đó.",
             "example": "Khi đồng hồ chỉ 7 giờ sáng, đó là thời điểm để đi học.",
             "synonym": "Khoảng thời gian, thời khắc.",
@@ -827,7 +822,7 @@
     {
         "word": "dịch vụ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Dịch vụ là khi ai đó làm một việc gì đó giúp người khác.",
             "example": "Khi bạn đi cắt tóc, thợ cắt tóc đang cung cấp dịch vụ cho bạn.",
             "synonym": "Sự phục vụ, dịch vụ hỗ trợ.",
@@ -838,7 +833,7 @@
     {
         "word": "học sinh",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Học sinh là người đang đi học, thường là ở trường.",
             "example": "Bạn Nam là học sinh lớp 3, mỗi ngày bạn đi học để học chữ.",
             "synonym": "Sinh viên, trò.",
@@ -849,14 +844,14 @@
     {
         "word": "an toàn",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Không có nguy hiểm, không bị tổn thương.",
             "example": "Khi đội mũ bảo hiểm, bạn sẽ cảm thấy an toàn khi đi xe đạp.",
             "synonym": "Bảo vệ, chắc chắn.",
             "antonym": "Nguy hiểm, không an toàn.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Tình trạng không có nguy hiểm, mọi thứ đều ổn.",
             "example": "Chơi ở sân chơi có hàng rào là một cách để giữ an toàn.",
             "synonym": "Sự bảo vệ, sự chắc chắn.",
@@ -900,7 +895,7 @@
     {
         "word": "tình trạng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tình trạng là cách mà một thứ gì đó đang ở, như là nó tốt hay xấu, vui hay buồn.",
             "example": "Nếu bạn bị cảm, tình trạng của bạn là không khỏe.",
             "synonym": "Tình hình, trạng thái.",
@@ -911,7 +906,7 @@
     {
         "word": "cán bộ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cán bộ là người làm việc cho nhà nước, giúp quản lý và phục vụ cộng đồng.",
             "example": "Cô giáo là cán bộ giáo dục, giúp dạy học cho các bạn nhỏ.",
             "synonym": "Nhân viên, công chức.",
@@ -922,7 +917,7 @@
     {
         "word": "phụ nữ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Phụ nữ là những người lớn tuổi, thường là mẹ hoặc cô của chúng ta.",
             "example": "Mẹ của bạn là một phụ nữ.",
             "synonym": "Nữ, cô gái",
@@ -933,7 +928,7 @@
     {
         "word": "trường hợp",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Trường hợp là một tình huống hoặc sự việc xảy ra.",
             "example": "Khi bạn bị ốm, đó là một trường hợp cần đi bác sĩ.",
             "synonym": "Tình huống, sự việc.",
@@ -944,7 +939,7 @@
     {
         "word": "kế hoạch",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Kế hoạch là một cách để chúng ta nghĩ về những gì sẽ làm trong tương lai.",
             "example": "Nếu bạn muốn tổ chức sinh nhật, bạn có thể có kế hoạch cho bữa tiệc, như mời bạn bè và chuẩn bị bánh.",
             "synonym": "Dự định, chương trình.",
@@ -955,7 +950,7 @@
     {
         "word": "điều kiện",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Điều kiện là những thứ cần có để một việc gì đó xảy ra.",
             "example": "Để đi chơi, điều kiện là phải hoàn thành bài tập về nhà trước.",
             "synonym": "Yêu cầu, tiêu chí.",
@@ -966,7 +961,7 @@
     {
         "word": "quan hệ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Quan hệ là cách mà người ta kết nối và tương tác với nhau.",
             "example": "Bạn và bạn của bạn có quan hệ bạn bè.",
             "synonym": "Mối quan hệ, liên kết.",
@@ -984,7 +979,7 @@
     {
         "word": "hình ảnh",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hình ảnh là bức tranh hoặc bức ảnh cho thấy một cái gì đó.",
             "example": "Bức tranh của một con mèo đang chơi đùa.",
             "synonym": "Bức tranh, bức ảnh.",
@@ -995,7 +990,7 @@
     {
         "word": "môi trường",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Môi trường là tất cả những gì xung quanh chúng ta, như không khí, nước, cây cối và động vật.",
             "example": "Khi bạn đi ra công viên, bạn thấy cây xanh, hoa nở và nghe tiếng chim hót, đó là môi trường.",
             "synonym": "Thiên nhiên, cảnh vật.",
@@ -1006,7 +1001,7 @@
     {
         "word": "đối tượng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Đối tượng là một người, vật hoặc điều gì đó mà chúng ta có thể nhìn thấy hoặc chạm vào.",
             "example": "Cái bàn, con mèo, hoặc chiếc xe đạp.",
             "synonym": "Vật, sự vật.",
@@ -1017,7 +1012,7 @@
     {
         "word": "cá nhân",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cá nhân là một người riêng lẻ, không phải là nhóm hay tập thể.",
             "example": "Mẹ, bố, và bạn là những cá nhân.",
             "synonym": "Người, nhân vật.",
@@ -1035,7 +1030,7 @@
     {
         "word": "hiện nay",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thời gian mà chúng ta đang sống và trải nghiệm ngay bây giờ.",
             "example": "Bây giờ là hiện nay, khi chúng ta đang chơi ở công viên.",
             "synonym": "Hiện tại, bây giờ.",
@@ -1046,7 +1041,7 @@
     {
         "word": "cầu thủ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cầu thủ là người chơi bóng đá.",
             "example": "Messi là một cầu thủ nổi tiếng, anh ấy đá bóng rất giỏi.",
             "synonym": "Người chơi bóng, vận động viên bóng đá.",
@@ -1057,7 +1052,7 @@
     {
         "word": "vị trí",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Vị trí là nơi mà một cái gì đó nằm ở.",
             "example": "Cái bàn ở vị trí giữa phòng.",
             "synonym": "Địa điểm, chỗ.",
@@ -1079,7 +1074,7 @@
     {
         "word": "giao thông",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Giao thông là cách mà mọi người và xe cộ di chuyển từ nơi này đến nơi khác.",
             "example": "Khi bạn đi bộ đến trường hoặc đi xe đạp trong công viên, đó là giao thông.",
             "synonym": "Vận chuyển, di chuyển.",
@@ -1090,7 +1085,7 @@
     {
         "word": "máy bay",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Máy bay là một phương tiện giao thông bay trên không, giúp mọi người đi từ nơi này đến nơi khác rất nhanh.",
             "example": "Khi bạn đi du lịch đến một thành phố xa, bạn có thể đi máy bay để đến đó nhanh hơn.",
             "synonym": "Phi cơ, máy bay phản lực.",
@@ -1101,7 +1096,7 @@
     {
         "word": "khoa học",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Khoa học là cách mà chúng ta tìm hiểu về thế giới xung quanh và những điều xảy ra trong tự nhiên.",
             "example": "Khi bạn học về các loài động vật, cây cối hay các hiện tượng như mưa, đó là khoa học.",
             "synonym": "nghiên cứu, tìm hiểu.",
@@ -1119,7 +1114,7 @@
     {
         "word": "công nghệ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Công nghệ là cách mà chúng ta sử dụng máy móc và ý tưởng để làm cho cuộc sống dễ dàng hơn.",
             "example": "Chiếc điện thoại mà bạn dùng để gọi cho bạn bè hoặc chơi game là một sản phẩm của công nghệ.",
             "synonym": "Kỹ thuật, thiết bị.",
@@ -1130,7 +1125,7 @@
     {
         "word": "giá trị",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Giá trị là điều quan trọng hoặc tốt đẹp mà một thứ có.",
             "example": "Một món quà từ bạn bè có giá trị vì nó thể hiện tình bạn.",
             "synonym": "Ý nghĩa, giá trị tinh thần.",
@@ -1152,7 +1147,7 @@
     {
         "word": "văn hoá",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Văn hoá là những điều mà mọi người làm và tin tưởng, như cách ăn uống, lễ hội, và cách sống.",
             "example": "Khi gia đình bạn cùng nhau ăn bánh chưng vào Tết, đó là một phần của văn hoá Việt Nam.",
             "synonym": "Nếp sống, phong tục.",
@@ -1163,7 +1158,7 @@
     {
         "word": "quá trình",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Quá trình là một chuỗi các bước mà chúng ta làm để hoàn thành một việc gì đó.",
             "example": "Khi làm bánh, quá trình bao gồm trộn bột, nướng bánh và trang trí.",
             "synonym": "Hành trình, chuỗi.",
@@ -1174,7 +1169,7 @@
     {
         "word": "trách nhiệm",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Trách nhiệm là việc mà bạn phải làm và chịu trách nhiệm về nó.",
             "example": "Nếu bạn có nhiệm vụ dọn dẹp phòng của mình, đó là trách nhiệm của bạn.",
             "synonym": "Nghĩa vụ, bổn phận.",
@@ -1196,7 +1191,7 @@
     {
         "word": "khách hàng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Khách hàng là người mua đồ hoặc sử dụng dịch vụ.",
             "example": "Khi bạn đi siêu thị và mua kẹo, bạn là khách hàng của siêu thị đó.",
             "synonym": "Người mua, người tiêu dùng.",
@@ -1240,7 +1235,7 @@
     {
         "word": "cuộc sống",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cuộc sống là thời gian mà chúng ta sống, nơi có nhiều điều thú vị và trải nghiệm.",
             "example": "Cuộc sống của một đứa trẻ bao gồm đi học, chơi đùa và khám phá thế giới xung quanh.",
             "synonym": "Sinh mệnh, đời sống.",
@@ -1251,7 +1246,7 @@
     {
         "word": "chính thức",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Làm việc theo quy tắc, có sự nghiêm túc.",
             "example": "Khi bạn mặc đồng phục đi học, đó là một cách thể hiện sự chính thức.",
             "synonym": "Trang trọng, nghiêm túc.",
@@ -1262,7 +1257,7 @@
     {
         "word": "thành viên",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thành viên là người thuộc về một nhóm hay tổ chức nào đó.",
             "example": "Trong lớp học, mỗi bạn học sinh đều là thành viên của lớp.",
             "synonym": "Người tham gia, thành viên nhóm.",
@@ -1284,7 +1279,7 @@
     {
         "word": "hoàn toàn",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Hoàn toàn có nghĩa là không thiếu gì, đầy đủ và trọn vẹn.",
             "example": "Nếu bạn ăn hết cái bánh, bạn đã ăn hoàn toàn cái bánh đó.",
             "synonym": "Toàn bộ, đầy đủ.",
@@ -1295,7 +1290,7 @@
     {
         "word": "chính sách",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chính sách là những quy định hoặc kế hoạch mà một nhóm người, như trường học hoặc chính phủ, đưa ra để mọi người biết cách hành động.",
             "example": "Trường học có chính sách không được ăn uống trong lớp học để giữ cho lớp học sạch sẽ.",
             "synonym": "Quy định, kế hoạch.",
@@ -1328,7 +1323,7 @@
     {
         "word": "nội dung",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cây là một loại thực vật có thân, lá và thường có hoa hoặc trái.",
             "example": "Cây xanh trong công viên nơi trẻ em chơi đùa.",
             "synonym": "Thực vật, cây cối.",
@@ -1346,7 +1341,7 @@
             "antonym": "nghỉ ngơi.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Công việc mà mọi người làm để kiếm tiền hoặc tạo ra sản phẩm.",
             "example": "Bố em đi lao động để nuôi gia đình.",
             "synonym": "công việc, nghề nghiệp.",
@@ -1357,7 +1352,7 @@
     {
         "word": "nước ngoài",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nước ngoài là những đất nước khác không phải là nơi mình sống.",
             "example": "Nếu bạn sống ở Việt Nam, thì Mỹ, Nhật Bản là nước ngoài.",
             "synonym": "nước khác, quốc gia khác",
@@ -1368,7 +1363,7 @@
     {
         "word": "lĩnh vực",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Lĩnh vực là một khu vực hoặc một phần của một hoạt động nào đó.",
             "example": "Lĩnh vực học tập là nơi mà chúng ta học các môn như toán, văn, và khoa học.",
             "synonym": "Ngành, khu vực.",
@@ -1379,7 +1374,7 @@
     {
         "word": "cơ hội",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cơ hội là lúc mà bạn có thể làm điều gì đó tốt hoặc thú vị.",
             "example": "Khi bạn có cơ hội chơi trò chơi mới với bạn bè.",
             "synonym": "Dịp, thời điểm.",
@@ -1397,12 +1392,7 @@
     {
         "word": "địa bàn",
         "voice": "n/a",
-        "verb": {
-            "desc": "Địa bàn là một khu vực hay vùng đất mà người ta sống hoặc làm việc.",
-            "example": "Trường học của con nằm trong địa bàn phường nơi con ở.",
-            "img": "n/a"
-        },
-        "adj": {
+        "noun": {
             "desc": "Khu vực, vùng.",
             "example": "n/a",
             "img": "n/a"
@@ -1418,7 +1408,7 @@
             "antonym": "N/a.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Sự làm việc cùng nhau giữa nhiều người để đạt được mục tiêu chung.",
             "example": "Trong lớp học, hợp tác giúp các bạn hoàn thành dự án tốt hơn.",
             "synonym": "Sự cộng tác, sự phối hợp.",
@@ -1429,7 +1419,7 @@
     {
         "word": "nhiệm vụ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nhiệm vụ là việc mà bạn cần phải làm.",
             "example": "Làm bài tập về nhà là một nhiệm vụ của học sinh.",
             "synonym": "Công việc, trách nhiệm.",
@@ -1440,7 +1430,7 @@
     {
         "word": "công việc",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Công việc là những việc mà người lớn làm để kiếm tiền hoặc giúp đỡ người khác.",
             "example": "Mẹ bạn làm công việc nấu ăn trong nhà hàng.",
             "synonym": "Nghề nghiệp, công việc làm.",
@@ -1451,7 +1441,7 @@
     {
         "word": "công trình",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Công trình là một cái gì đó được xây dựng lên, như nhà cửa, cầu, hoặc đường.",
             "example": "Một ngôi nhà mà gia đình bạn sống là một công trình.",
             "synonym": "xây dựng, kiến trúc.",
@@ -1480,7 +1470,7 @@
             "antonym": "N/a.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Một tài liệu hoặc thông tin mà người khác cần biết.",
             "example": "Em viết một báo cáo về con vật mà em yêu thích.",
             "synonym": "Thông tin, tài liệu.",
@@ -1502,7 +1492,7 @@
     {
         "word": "tài sản",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tài sản là những thứ mà bạn sở hữu, có giá trị và có thể dùng hoặc bán.",
             "example": "Căn nhà của bạn, chiếc xe đạp của bạn hoặc đồ chơi mà bạn có đều là tài sản.",
             "synonym": "Tài sản, của cải, đồ vật.",
@@ -1513,7 +1503,7 @@
     {
         "word": "khán giả",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Khán giả là những người đến xem một buổi biểu diễn, như hát, múa hay phim.",
             "example": "Khi có một buổi hòa nhạc, khán giả là những người ngồi xem và nghe nhạc.",
             "synonym": "Người xem, người nghe.",
@@ -1542,7 +1532,7 @@
             "antonym": "N/a.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Đề nghị là một ý kiến hoặc một lời mời để làm điều gì đó.",
             "example": "Bạn đưa ra một đề nghị để cả lớp cùng đi dã ngoại.",
             "synonym": "Lời gợi ý, lời khuyên.",
@@ -1564,7 +1554,7 @@
     {
         "word": "mục tiêu",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Mục tiêu là điều mà bạn muốn đạt được hoặc hoàn thành.",
             "example": "Khi bạn muốn học thuộc bài để có điểm tốt trong lớp.",
             "synonym": "Mục đích, kế hoạch.",
@@ -1582,7 +1572,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Người hoặc vật thay mặt cho người khác.",
             "example": "Một bạn trong lớp được chọn làm đại diện để nói chuyện với cô giáo.",
             "synonym": "Người thay mặt, người đại diện.",
@@ -1593,7 +1583,7 @@
     {
         "word": "nổi tiếng",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Là người hoặc điều gì đó được nhiều người biết đến và yêu thích.",
             "example": "Ca sĩ Sơn Tùng M-TP rất nổi tiếng vì bài hát của anh ấy được nhiều bạn trẻ nghe.",
             "synonym": "Nổi bật, được biết đến.",
@@ -1615,7 +1605,7 @@
     {
         "word": "ý kiến",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Ý kiến là suy nghĩ hoặc cảm nhận của một người về một điều gì đó.",
             "example": "Khi bạn nghĩ rằng món kem dâu là ngon, đó là ý kiến của bạn.",
             "synonym": "Quan điểm, suy nghĩ.",
@@ -1626,7 +1616,7 @@
     {
         "word": "thực tế",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thực tế là những điều có thật, không phải là tưởng tượng.",
             "example": "Khi bạn nhìn thấy mặt trời trên bầu trời, đó là thực tế.",
             "synonym": "Sự thật, hiện thực.",
@@ -1655,7 +1645,7 @@
     {
         "word": "chuyên gia",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chuyên gia là người rất giỏi về một lĩnh vực nào đó.",
             "example": "Bác sĩ là chuyên gia về sức khỏe, giúp mọi người khỏe mạnh.",
             "synonym": "Người có kinh nghiệm, chuyên viên.",
@@ -1666,7 +1656,7 @@
     {
         "word": "trực tiếp",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Làm điều gì đó ngay lập tức, không chờ đợi.",
             "example": "Khi bạn hỏi, \"Bạn có muốn ăn bánh không?\" và bạn trả lời ngay lập tức \"Có!\".",
             "synonym": "Ngay lập tức, liền tay.",
@@ -1677,7 +1667,7 @@
     {
         "word": "pháp luật",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Pháp luật là những quy tắc mà mọi người phải tuân theo để sống chung hòa thuận và công bằng.",
             "example": "Nếu bạn không được phép lấy đồ chơi của bạn bè mà không xin phép, đó là một quy tắc trong pháp luật.",
             "synonym": "Quy định, luật lệ.",
@@ -1688,14 +1678,14 @@
     {
         "word": "hợp đồng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hợp đồng là một thỏa thuận giữa hai người hoặc nhiều người về việc làm gì đó.",
             "example": "Khi bạn hứa với bạn của mình rằng sẽ cùng nhau chơi một trò chơi, đó là một hợp đồng.",
             "synonym": "Thỏa thuận, cam kết.",
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Hợp đồng nghĩa là khi bạn đồng ý làm một việc gì đó với người khác.",
             "example": "Khi bạn hợp đồng với bạn để cùng nhau làm bài tập, bạn đã đồng ý giúp nhau.",
             "synonym": "Cam kết, thỏa thuận.",
@@ -1706,7 +1696,7 @@
     {
         "word": "hành vi",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hành vi là cách mà một người làm hoặc cư xử.",
             "example": "Khi bạn giúp bạn bè dọn dẹp lớp học, đó là một hành vi tốt.",
             "synonym": "Cách cư xử, hành động.",
@@ -1717,7 +1707,7 @@
     {
         "word": "trung tâm",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Trung tâm là nơi quan trọng nhất trong một khu vực.",
             "example": "Trường học là trung tâm học tập của các bạn học sinh.",
             "synonym": "Nơi, khu vực.",
@@ -1735,7 +1725,7 @@
     {
         "word": "bất ngờ",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Là điều mà bạn không nghĩ tới, làm bạn cảm thấy ngạc nhiên.",
             "example": "Khi bạn mở quà sinh nhật và thấy món đồ chơi mà bạn thích, đó là một bất ngờ!",
             "synonym": "Ngạc nhiên, kinh ngạc.",
@@ -1746,7 +1736,7 @@
     {
         "word": "sức khoẻ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Sức khoẻ là trạng thái cơ thể của chúng ta khi khỏe mạnh và không bị bệnh.",
             "example": "Khi con chạy nhảy vui vẻ và không thấy mệt, đó là sức khoẻ tốt.",
             "synonym": "Sức khoẻ tốt, thể lực.",
@@ -1775,14 +1765,14 @@
     {
         "word": "điện thoại",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Là một cái máy giúp chúng ta nói chuyện với nhau từ xa.",
             "example": "Khi mẹ gọi cho bà ngoại, mẹ dùng điện thoại.",
             "synonym": "n/a",
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Là hành động dùng điện thoại để gọi cho ai đó.",
             "example": "Con điện thoại cho bạn để rủ đi chơi.",
             "synonym": "gọi, liên lạc",
@@ -1793,7 +1783,7 @@
     {
         "word": "nhân dân",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nhân dân là những người sống trong một đất nước, họ cùng nhau tạo nên cộng đồng.",
             "example": "Trong lớp học, các bạn học sinh là nhân dân của lớp.",
             "synonym": "dân, cộng đồng.",
@@ -1818,7 +1808,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Những kiến thức và kỹ năng mà mọi người học được.",
             "example": "Giáo dục giúp trẻ em biết đọc, biết viết và hiểu biết về thế giới.",
             "synonym": "Học vấn, kiến thức.",
@@ -1840,7 +1830,7 @@
     {
         "word": "giai đoạn",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Giai đoạn là một khoảng thời gian trong một quá trình nào đó.",
             "example": "Khi bạn học lớp 1, đó là giai đoạn đầu tiên trong việc đi học.",
             "synonym": "Thời kỳ, bước.",
@@ -1851,7 +1841,7 @@
     {
         "word": "ngân hàng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Ngân hàng là nơi giữ tiền và cho người khác mượn tiền.",
             "example": "Khi mẹ cần tiền để mua đồ, mẹ có thể đến ngân hàng để rút tiền ra.",
             "synonym": "Nơi giữ tiền, quỹ tiền.",
@@ -1873,7 +1863,7 @@
     {
         "word": "thương mại",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thương mại là việc mua bán hàng hóa hoặc dịch vụ giữa người với người.",
             "example": "Khi bạn bán bánh kẹo cho bạn bè ở trường, đó là thương mại.",
             "synonym": "Buôn bán, giao dịch.",
@@ -1884,7 +1874,7 @@
     {
         "word": "thiết bị",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thiết bị là những đồ vật được sử dụng để làm một công việc nào đó.",
             "example": "Chiếc máy tính là một thiết bị giúp chúng ta học và chơi game.",
             "synonym": "Dụng cụ, máy móc.",
@@ -1895,7 +1885,7 @@
     {
         "word": "an ninh",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "An ninh là sự an toàn, không có nguy hiểm.",
             "example": "Khi bạn ở nhà và cửa khóa chặt, bạn cảm thấy an ninh.",
             "synonym": "an toàn, bảo vệ.",
@@ -1913,7 +1903,7 @@
     {
         "word": "nhu cầu",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nhu cầu là những thứ mà chúng ta cần để sống và cảm thấy hạnh phúc.",
             "example": "Khi bạn đói, nhu cầu của bạn là ăn một cái bánh mì.",
             "synonym": "Sự cần thiết, yêu cầu.",
@@ -1924,7 +1914,7 @@
     {
         "word": "thường xuyên",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Làm điều gì đó nhiều lần, không phải chỉ một lần.",
             "example": "Em thường xuyên đi học mỗi ngày.",
             "synonym": "Hay, liên tục.",
@@ -1935,7 +1925,7 @@
     {
         "word": "diện tích",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Diện tích là không gian mà một vật hoặc một vùng đất chiếm giữ.",
             "example": "Một tấm thảm trải sàn có diện tích lớn hơn một tấm thảm nhỏ.",
             "synonym": "Kích thước, bề mặt.",
@@ -1946,7 +1936,7 @@
     {
         "word": "diễn viên",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Diễn viên là người đóng vai trong phim hoặc kịch.",
             "example": "Khi xem phim hoạt hình, các nhân vật như mèo và chuột là do diễn viên lồng ghép giọng nói.",
             "synonym": "Nghệ sĩ, người biểu diễn.",
@@ -1990,7 +1980,7 @@
     {
         "word": "chính quyền",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chính quyền là nhóm người điều hành và quản lý đất nước, giúp mọi người sống tốt hơn.",
             "example": "Khi bạn thấy các cô chú trong bộ phận công an hay chính quyền địa phương giúp đỡ mọi người, đó là chính quyền.",
             "synonym": "Chính phủ, nhà nước.",
@@ -2001,7 +1991,7 @@
     {
         "word": "sinh viên",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Sinh viên là người đang học ở trường đại học hoặc cao đẳng.",
             "example": "Anh Nam là sinh viên trường đại học, anh ấy học về máy tính.",
             "synonym": "Học sinh lớn, người học.",
@@ -2012,7 +2002,7 @@
     {
         "word": "nhân viên",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nhân viên là người làm việc cho một công ty hoặc tổ chức.",
             "example": "Cô giáo là nhân viên của trường học.",
             "synonym": "Người làm, công nhân.",
@@ -2023,7 +2013,7 @@
     {
         "word": "đàn ông",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Đàn ông là người lớn có giới tính nam, thường là cha hoặc người bảo vệ trong gia đình.",
             "example": "Bố của bạn là một người đàn ông.",
             "synonym": "Nam, người đàn ông.",
@@ -2052,7 +2042,7 @@
             "antonym": "N/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Một tin tức hoặc thông tin quan trọng mà mọi người cần biết.",
             "example": "Cô giáo phát thông báo về buổi dã ngoại sắp tới.",
             "synonym": "Tin tức, thông tin.",
@@ -2074,7 +2064,7 @@
     {
         "word": "một cách",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Một cách là một phương pháp hoặc cách làm gì đó.",
             "example": "Khi bạn vẽ tranh, bạn có thể vẽ bằng bút màu hoặc bằng màu nước, đó là hai cách khác nhau để vẽ.",
             "synonym": "Phương pháp, cách thức.",
@@ -2114,7 +2104,7 @@
             "antonym": "N/a.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Một câu nói hoặc thông tin mà ai đó nói ra.",
             "example": "Tuyên bố của thầy giáo về buổi đi dã ngoại rất thú vị.",
             "synonym": "Thông báo, công bố.",
@@ -2125,7 +2115,7 @@
     {
         "word": "thí sinh",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Là người tham gia vào một cuộc thi.",
             "example": "Bạn là thí sinh trong cuộc thi vẽ tranh ở trường.",
             "synonym": "Người dự thi, thí dụ.",
@@ -2136,7 +2126,7 @@
     {
         "word": "lịch sử",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Lịch sử là câu chuyện về những điều đã xảy ra trong quá khứ.",
             "example": "Lịch sử của đất nước ta có nhiều anh hùng và sự kiện quan trọng.",
             "synonym": "quá khứ, sử học",
@@ -2154,7 +2144,7 @@
     {
         "word": "bóng đá",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Bóng đá là một trò chơi mà hai đội dùng chân để đá một quả bóng vào khung thành đối phương.",
             "example": "Khi bạn chơi bóng đá với bạn bè trong công viên, bạn cố gắng ghi bàn vào gôn của đội bạn.",
             "synonym": "đá bóng, chơi bóng",
@@ -2165,14 +2155,14 @@
     {
         "word": "hành động",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hành động là việc làm gì đó.",
             "example": "Khi bạn nhảy, đó là một hành động.",
             "synonym": "việc làm, hoạt động",
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Hành động là làm một việc gì đó.",
             "example": "Bạn hành động khi bạn chạy hoặc chơi.",
             "synonym": "làm, thực hiện",
@@ -2183,7 +2173,7 @@
     {
         "word": "đô thị",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Đô thị là một khu vực có nhiều nhà cửa, đường phố và người sống cùng nhau.",
             "example": "Hà Nội và TP.HCM là những đô thị lớn ở Việt Nam.",
             "synonym": "Thành phố, khu phố.",
@@ -2201,7 +2191,7 @@
             "antonym": "N/a.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Những thứ mà mình có.",
             "example": "Sở hữu của con là một cái búp bê và một cái xe ô tô.",
             "synonym": "Tài sản, đồ vật.",
@@ -2212,7 +2202,7 @@
     {
         "word": "thực phẩm",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thực phẩm là những thứ chúng ta ăn để có sức khỏe và năng lượng.",
             "example": "Cơm, bánh mì, trái cây.",
             "synonym": "Đồ ăn, thức ăn.",
@@ -2223,7 +2213,7 @@
     {
         "word": "tài chính",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tài chính là cách mà người ta quản lý tiền bạc để mua sắm và chi tiêu.",
             "example": "Khi bạn có tiền tiêu vặt, bạn có thể dùng nó để mua kẹo hoặc đồ chơi.",
             "synonym": "Tiền bạc, ngân sách.",
@@ -2245,7 +2235,7 @@
     {
         "word": "tình hình",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tình hình là cách mà mọi thứ đang diễn ra hoặc đang xảy ra.",
             "example": "Nếu trời mưa, tình hình là ẩm ướt và có thể cần mang ô.",
             "synonym": "Tình trạng, hoàn cảnh.",
@@ -2256,7 +2246,7 @@
     {
         "word": "vai trò",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Vai trò là công việc hoặc nhiệm vụ mà một người hoặc một vật phải làm trong một tình huống nào đó.",
             "example": "Trong một vở kịch, vai trò của bạn là diễn viên, bạn phải diễn theo nhân vật mà bạn được giao.",
             "synonym": "Nhiệm vụ, chức năng.",
@@ -2267,7 +2257,7 @@
     {
         "word": "cuối cùng",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Cuối cùng có nghĩa là cái gì đó xảy ra sau cùng, không còn gì nữa.",
             "example": "Sau khi chơi hết tất cả các trò chơi, chúng ta đã ăn bánh và cuối cùng là đi ngủ.",
             "synonym": "Sau cùng, cuối, chót.",
@@ -2278,7 +2268,7 @@
     {
         "word": "cộng đồng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cộng đồng là một nhóm người sống gần nhau và thường giúp đỡ nhau.",
             "example": "Trong lớp học, các bạn học sinh là một cộng đồng vì họ cùng học và chơi với nhau.",
             "synonym": "Xã hội, nhóm, tập thể.",
@@ -2300,7 +2290,7 @@
     {
         "word": "phương tiện",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Phương tiện là những thứ giúp chúng ta di chuyển từ nơi này đến nơi khác.",
             "example": "Xe đạp, ô tô, xe buýt là những phương tiện mà chúng ta thường sử dụng để đi học hoặc đi chơi.",
             "synonym": "Phương tiện giao thông, phương tiện di chuyển.",
@@ -2311,7 +2301,7 @@
     {
         "word": "biện pháp",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Biện pháp là cách làm để giải quyết một vấn đề.",
             "example": "Khi trời mưa, biện pháp để không ướt là mang ô hoặc mặc áo mưa.",
             "synonym": "Cách, phương pháp.",
@@ -2333,7 +2323,7 @@
     {
         "word": "giải pháp",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Giải pháp là cách để giải quyết một vấn đề.",
             "example": "Nếu bạn không tìm thấy đồ chơi của mình, giải pháp có thể là hỏi mẹ hoặc tìm quanh nhà.",
             "synonym": "Cách giải quyết, phương án.",
@@ -2344,7 +2334,7 @@
     {
         "word": "liên tục",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Không ngừng lại, diễn ra mãi mãi.",
             "example": "Khi bạn chạy không nghỉ, bạn đang chạy liên tục.",
             "synonym": "Không ngừng, liên hồi.",
@@ -2355,7 +2345,7 @@
     {
         "word": "tích cực",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Làm cho mọi thứ trở nên tốt đẹp hơn, vui vẻ hơn.",
             "example": "Khi bạn giúp bạn bè, bạn đang có một hành động tích cực.",
             "synonym": "Lạc quan, vui vẻ.",
@@ -2377,12 +2367,7 @@
     {
         "word": "cơ thể",
         "voice": "n/a",
-        "verb": {
-            "desc": "Cơ thể là phần bên ngoài và bên trong của con người, giúp chúng ta hoạt động và sống.",
-            "example": "Khi bạn chạy, nhảy hoặc ăn, bạn đang sử dụng cơ thể của mình.",
-            "img": "n/a"
-        },
-        "adj": {
+        "noun": {
             "desc": "Thân thể, hình thể.",
             "example": "n/a",
             "img": "n/a"
@@ -2391,7 +2376,7 @@
     {
         "word": "nguyên nhân",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nguyên nhân là lý do tại sao một điều gì đó xảy ra.",
             "example": "Nếu trời mưa, nguyên nhân là vì có mây và nước trong không khí.",
             "synonym": "Lý do, động lực.",
@@ -2413,7 +2398,7 @@
     {
         "word": "hồ sơ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hồ sơ là một tập hợp thông tin về một người hoặc một việc gì đó.",
             "example": "Hồ sơ của bạn ở trường có thể chứa điểm số và thông tin về bạn.",
             "synonym": "tài liệu, hồ sơ cá nhân.",
@@ -2424,7 +2409,7 @@
     {
         "word": "nạn nhân",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nạn nhân là người bị tổn thương hoặc gặp khó khăn do một sự việc nào đó.",
             "example": "Nếu một bạn bị ngã xe đạp và bị đau, bạn đó là nạn nhân của vụ tai nạn.",
             "synonym": "Người bị hại, người chịu thiệt hại.",
@@ -2435,7 +2420,7 @@
     {
         "word": "chức năng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chức năng là cách mà một cái gì đó hoạt động hoặc làm việc.",
             "example": "Chiếc xe đạp có chức năng giúp chúng ta đi từ nơi này đến nơi khác.",
             "synonym": "Nhiệm vụ, vai trò.",
@@ -2446,7 +2431,7 @@
     {
         "word": "thực sự",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Thực sự có nghĩa là điều gì đó là thật, không phải giả.",
             "example": "\"Cái bánh này thực sự rất ngon!\" ",
             "synonym": "Thật, đúng",
@@ -2457,7 +2442,7 @@
     {
         "word": "truyền thống",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Truyền thống là những điều mà mọi người làm theo từ lâu đời, như phong tục tập quán.",
             "example": "Tết Nguyên Đán là một truyền thống của người Việt Nam, mọi người thường sum họp gia đình và ăn bánh chưng.",
             "synonym": "phong tục, tập quán.",
@@ -2475,7 +2460,7 @@
     {
         "word": "bản thân",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Bản thân là chính mình, là người mà bạn là.",
             "example": "Khi bạn nhìn vào gương, bạn thấy bản thân mình.",
             "synonym": "Chính mình, cá nhân.",
@@ -2486,7 +2471,7 @@
     {
         "word": "ô tô",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Ô tô là một loại xe có bánh, dùng để chở người và đồ vật.",
             "example": "Ô tô chở gia đình đi chơi vào cuối tuần.",
             "synonym": "Xe hơi, xe ô tô.",
@@ -2497,7 +2482,7 @@
     {
         "word": "bác sĩ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Bác sĩ là người giúp mọi người khỏe mạnh và chữa bệnh.",
             "example": "Khi con bị ốm, con sẽ đi gặp bác sĩ để được khám và chữa trị.",
             "synonym": "Thầy thuốc, người chữa bệnh.",
@@ -2508,7 +2493,7 @@
     {
         "word": "nguy cơ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nguy cơ là điều có thể xảy ra và gây ra rủi ro hoặc nguy hiểm.",
             "example": "Nếu bạn không đội mũ bảo hiểm khi đi xe đạp, có nguy cơ bạn sẽ bị ngã và bị thương.",
             "synonym": "Rủi ro, mối nguy.",
@@ -2519,7 +2504,7 @@
     {
         "word": "vụ việc",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Vụ việc là một chuyện xảy ra, có thể là tốt hoặc xấu.",
             "example": "Một vụ việc có thể là khi bạn tìm thấy một con mèo bị lạc và giúp nó về nhà.",
             "synonym": "Sự việc, chuyện.",
@@ -2530,7 +2515,7 @@
     {
         "word": "con người",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Con người là một sinh vật sống, biết suy nghĩ và cảm nhận.",
             "example": "Mẹ và bố của con là con người.",
             "synonym": "Người, cá nhân.",
@@ -2552,7 +2537,7 @@
     {
         "word": "bệnh viện",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nơi mà mọi người đến khi họ bị ốm hoặc cần giúp đỡ về sức khỏe.",
             "example": "Khi con bị sốt, mẹ sẽ đưa con đến bệnh viện để bác sĩ khám và cho thuốc.",
             "synonym": "Nha khoa, phòng khám.",
@@ -2563,7 +2548,7 @@
     {
         "word": "toàn bộ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Toàn bộ có nghĩa là tất cả mọi thứ, không thiếu cái gì.",
             "example": "Trong một chiếc hộp có toàn bộ đồ chơi của con, như ô tô, búp bê và bóng.",
             "synonym": "Tất cả, mọi thứ.",
@@ -2585,7 +2570,7 @@
     {
         "word": "ca sĩ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Ca sĩ là người hát những bài hát.",
             "example": "Chị Hương là một ca sĩ nổi tiếng, chị ấy hát rất hay.",
             "synonym": "Nghệ sĩ, người hát.",
@@ -2596,7 +2581,7 @@
     {
         "word": "nhanh chóng",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Làm việc gì đó rất nhanh, không mất nhiều thời gian.",
             "example": "Chó chạy nhanh chóng để bắt bóng.",
             "synonym": "Nhanh, lẹ.",
@@ -2614,7 +2599,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Là sự cố gắng để làm điều gì đó.",
             "example": "Sự nỗ lực của bạn trong việc học sẽ giúp bạn có điểm cao.",
             "synonym": "cố gắng, sự phấn đấu.",
@@ -2625,7 +2610,7 @@
     {
         "word": "sự kiện",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Sự kiện là một điều gì đó quan trọng hoặc đặc biệt xảy ra.",
             "example": "Sinh nhật của bạn là một sự kiện vui vẻ.",
             "synonym": "Chuyện, sự việc.",
@@ -2643,7 +2628,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Chi phí là số tiền bạn cần để mua một cái gì đó.",
             "example": "Chi phí để mua một cái bánh là 10.000 đồng.",
             "synonym": "Giá, tiền.",
@@ -2654,7 +2639,7 @@
     {
         "word": "tên lửa",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tên lửa là một loại phương tiện bay rất nhanh, có thể bay lên trời hoặc vào không gian.",
             "example": "Khi xem phim hoạt hình, bạn thấy tên lửa bay lên để khám phá vũ trụ.",
             "synonym": "N/a",
@@ -2683,7 +2668,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Một chương trình hoặc công cụ giúp làm việc gì đó dễ hơn.",
             "example": "Con có thể tải ứng dụng học toán trên điện thoại.",
             "synonym": "Phần mềm, chương trình.",
@@ -2705,7 +2690,7 @@
     {
         "word": "cụ thể",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Cụ thể có nghĩa là rõ ràng, không mơ hồ, dễ hiểu.",
             "example": "Khi bạn nói \"cụ thể là tôi muốn ăn táo\", bạn đang nói rõ ràng về điều bạn muốn.",
             "synonym": "Rõ ràng, chi tiết.",
@@ -2716,7 +2701,7 @@
     {
         "word": "đất nước",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Đất nước là nơi mà mọi người sống, có nhà cửa, trường học và nhiều thứ khác.",
             "example": "Việt Nam là một đất nước có nhiều món ăn ngon và phong cảnh đẹp.",
             "synonym": "Quốc gia, vùng đất.",
@@ -2727,7 +2712,7 @@
     {
         "word": "bệnh nhân",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Bệnh nhân là người đang bị ốm và cần đi khám bác sĩ để chữa bệnh.",
             "example": "Khi bạn bị sốt, bạn sẽ trở thành bệnh nhân khi đi đến bệnh viện.",
             "synonym": "Người ốm, người bệnh.",
@@ -2749,7 +2734,7 @@
     {
         "word": "số lượng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Số lượng là cách chúng ta đếm hoặc biết có bao nhiêu thứ.",
             "example": "Có 3 quả táo trên bàn.",
             "synonym": "Số đếm, số lượng.",
@@ -2771,7 +2756,7 @@
     {
         "word": "lý do",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Lý do là nguyên nhân hoặc điều khiến cho một việc gì đó xảy ra.",
             "example": "Nếu bạn không làm bài tập về nhà, lý do có thể là bạn quên hoặc bạn bận chơi.",
             "synonym": "Nguyên nhân, động lực.",
@@ -2789,7 +2774,7 @@
             "antonym": "thua, thất bại.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Là kết quả của việc đánh bại ai đó hoặc đạt được điều gì đó mà bạn muốn.",
             "example": "Giải thưởng mà bạn nhận được khi bạn thắng trong cuộc thi là một chiến thắng.",
             "synonym": "thắng lợi, thành công.",
@@ -2800,7 +2785,7 @@
     {
         "word": "nhà nước",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nhà nước là một tổ chức lớn giúp quản lý và bảo vệ đất nước, giống như một gia đình lớn có nhiều người sống chung.",
             "example": "Nhà nước giúp xây dựng trường học, bệnh viện và đường xá để mọi người có cuộc sống tốt hơn.",
             "synonym": "Chính phủ, quốc gia.",
@@ -2811,7 +2796,7 @@
     {
         "word": "quân sự",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Quân sự là liên quan đến quân đội và việc bảo vệ đất nước.",
             "example": "Khi có một cuộc tập trận, đó là hoạt động quân sự để chuẩn bị cho việc bảo vệ đất nước.",
             "synonym": "n/a",
@@ -2840,7 +2825,7 @@
     {
         "word": "cảnh sát",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Cảnh sát là người giúp bảo vệ mọi người và giữ cho thành phố an toàn.",
             "example": "Khi có ai đó làm điều xấu, cảnh sát sẽ đến giúp đỡ và giải quyết vấn đề.",
             "synonym": "Công an, người bảo vệ.",
@@ -2851,7 +2836,7 @@
     {
         "word": "tinh thần",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tinh thần là cảm giác vui vẻ, mạnh mẽ và quyết tâm trong lòng.",
             "example": "Khi bạn chơi một trò chơi và cố gắng hết sức, bạn có tinh thần chiến thắng.",
             "synonym": "Sự quyết tâm, tinh thần phấn chấn.",
@@ -2862,7 +2847,7 @@
     {
         "word": "chủ yếu",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Chủ yếu nghĩa là cái gì đó quan trọng nhất hoặc nhiều nhất.",
             "example": "Trong một bữa ăn, cơm là món ăn chủ yếu mà mọi người thường ăn.",
             "synonym": "Quan trọng, chính, chủ yếu.",
@@ -2873,7 +2858,7 @@
     {
         "word": "tai nạn",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tai nạn là khi có điều không may xảy ra, khiến ai đó bị thương hoặc hư hỏng.",
             "example": "Khi bạn ngã xe đạp và bị trầy xước chân, đó là một tai nạn.",
             "synonym": "Sự cố, rủi ro.",
@@ -2884,7 +2869,7 @@
     {
         "word": "quân đội",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Quân đội là nhóm người được huấn luyện để bảo vệ đất nước và giữ gìn hòa bình.",
             "example": "Khi có nguy hiểm, quân đội sẽ giúp đỡ và bảo vệ mọi người.",
             "synonym": "Lực lượng vũ trang, binh lính.",
@@ -2895,7 +2880,7 @@
     {
         "word": "vô cùng",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Rất, rất nhiều, không có giới hạn.",
             "example": "\"Cô ấy vui vô cùng khi nhận được quà sinh nhật.\"",
             "synonym": "Rất, cực kỳ.",
@@ -2906,7 +2891,7 @@
     {
         "word": "chính trị",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chính trị là cách mà mọi người quyết định và quản lý cuộc sống chung của họ.",
             "example": "Khi lớp học bầu chọn người đại diện cho lớp, đó là một hoạt động chính trị.",
             "synonym": "Quản lý, điều hành.",
@@ -2935,7 +2920,7 @@
     {
         "word": "vợ chồng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Vợ chồng là hai người đã kết hôn và sống cùng nhau như một gia đình.",
             "example": "Bố và mẹ của con là vợ chồng.",
             "synonym": "N/a",
@@ -2957,7 +2942,7 @@
     {
         "word": "kinh nghiệm",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Kinh nghiệm là những điều mà chúng ta học được từ việc làm hoặc trải qua điều gì đó.",
             "example": "Khi bạn học đi xe đạp, bạn có kinh nghiệm khi bạn đã ngã và đứng dậy để đi tiếp.",
             "synonym": "Kiến thức, hiểu biết.",
@@ -2975,7 +2960,7 @@
             "antonym": "N/a.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Dự kiến là kế hoạch hoặc ý tưởng về điều gì sẽ xảy ra.",
             "example": "Dự kiến của lớp mình là tổ chức một buổi picnic.",
             "synonym": "Kế hoạch, ý tưởng.",
@@ -2997,7 +2982,7 @@
     {
         "word": "hạnh phúc",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hạnh phúc là cảm giác vui vẻ và thoải mái trong lòng.",
             "example": "Khi bạn chơi với bạn bè và cười đùa, bạn cảm thấy hạnh phúc.",
             "synonym": "niềm vui, sự vui vẻ.",
@@ -3015,7 +3000,7 @@
     {
         "word": "trẻ em",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Trẻ em là những người còn nhỏ, chưa lớn.",
             "example": "Trẻ em thường chơi đùa và đi học.",
             "synonym": "bé, thiếu nhi",
@@ -3026,7 +3011,7 @@
     {
         "word": "công an",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Là người giúp bảo vệ an toàn cho mọi người và giữ trật tự trong xã hội.",
             "example": "Khi có ai đó làm điều xấu, công an sẽ đến giúp đỡ và ngăn chặn.",
             "synonym": "Cảnh sát, lực lượng bảo vệ.",
@@ -3037,7 +3022,7 @@
     {
         "word": "nghệ thuật",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nghệ thuật là cách mà mọi người thể hiện ý tưởng và cảm xúc của mình qua tranh, nhạc, hoặc múa.",
             "example": "Khi bạn vẽ một bức tranh hoặc hát một bài hát, đó là bạn đang làm nghệ thuật.",
             "synonym": "Mỹ thuật, sáng tạo.",
@@ -3048,7 +3033,7 @@
     {
         "word": "công nghiệp",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Công nghiệp là việc sản xuất ra nhiều đồ vật, như đồ chơi, quần áo, hay thực phẩm, để mọi người sử dụng.",
             "example": "Nhà máy sản xuất bánh kẹo làm ra nhiều loại kẹo mà trẻ em thích ăn.",
             "synonym": "Sản xuất, chế tạo.",
@@ -3059,7 +3044,7 @@
     {
         "word": "dân tộc",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Dân tộc là một nhóm người có chung văn hóa, ngôn ngữ và phong tục tập quán.",
             "example": "Người Kinh, người Thái, người Mông là những dân tộc khác nhau ở Việt Nam.",
             "synonym": "Bộ tộc, nhóm người.",
@@ -3070,7 +3055,7 @@
     {
         "word": "hiện tại",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thời gian mà chúng ta đang sống và làm việc ngay bây giờ.",
             "example": "Hôm nay là thứ Bảy, chúng ta đang chơi ở công viên.",
             "synonym": "Thời điểm, bây giờ.",
@@ -3092,7 +3077,7 @@
     {
         "word": "câu chuyện",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Câu chuyện là một điều gì đó mà người ta kể để cho người khác nghe, thường có nhân vật và sự kiện.",
             "example": "\"Câu chuyện về cô bé quàng khăn đỏ đi thăm bà.\"",
             "synonym": "Truyện, chuyện.",
@@ -3103,7 +3088,7 @@
     {
         "word": "tương lai",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tương lai là thời gian sẽ xảy ra sau hiện tại, khi mà chúng ta chưa biết điều gì sẽ đến.",
             "example": "Ngày mai, chúng ta sẽ đi chơi, đó là một phần của tương lai.",
             "synonym": "Thời gian tới, thời gian sau.",
@@ -3147,7 +3132,7 @@
     {
         "word": "tỷ lệ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tỷ lệ là cách so sánh giữa hai số hoặc hai phần của một cái gì đó.",
             "example": "Nếu trong một lớp học có 10 bạn trai và 5 bạn gái, tỷ lệ bạn trai và bạn gái là 10:Tỉ số, phần trăm.",
             "synonym": "n/a",
@@ -3157,7 +3142,7 @@
     {
         "word": "tốc độ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tốc độ là cách mà một vật di chuyển nhanh hay chậm.",
             "example": "Khi bạn chạy nhanh hơn bạn bè, bạn có tốc độ cao hơn.",
             "synonym": "Nhịp độ, vận tốc.",
@@ -3168,7 +3153,7 @@
     {
         "word": "hiện đại",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Là những thứ mới, tiên tiến và thường được sử dụng trong thời gian gần đây.",
             "example": "Chiếc điện thoại thông minh mà bạn sử dụng để chơi game là một đồ vật hiện đại.",
             "synonym": "Mới, tiên tiến.",
@@ -3179,7 +3164,7 @@
     {
         "word": "du khách",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Người đi đến một nơi khác để tham quan, khám phá.",
             "example": "Khi gia đình bạn đi biển và thấy nhiều người khác cũng đến chơi, họ là du khách.",
             "synonym": "Khách du lịch, người tham quan.",
@@ -3197,7 +3182,7 @@
             "antonym": "N/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Những thứ cần thiết để làm việc gì đó.",
             "example": "Bộ trang bị thể thao của con gồm giày, bóng và áo.",
             "synonym": "Dụng cụ, thiết bị.",
@@ -3219,7 +3204,7 @@
     {
         "word": "văn bản",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Văn bản là một tập hợp các chữ viết hoặc chữ in để truyền đạt thông tin.",
             "example": "Một cuốn sách hay một bức thư mà bạn gửi cho bạn bè.",
             "synonym": "Tài liệu, chữ viết.",
@@ -3252,7 +3237,7 @@
     {
         "word": "nghiêm trọng",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Điều gì đó rất quan trọng và cần được chú ý.",
             "example": "Nếu bạn bị đau bụng và không thể chơi, đó là một tình huống nghiêm trọng.",
             "synonym": "Quan trọng, nghiêm túc.",
@@ -3263,7 +3248,7 @@
     {
         "word": "báo chí",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Là nơi viết và nói về tin tức, giúp mọi người biết chuyện gì đang xảy ra xung quanh.",
             "example": "Khi bạn đọc báo hoặc xem tin tức trên TV về một trận bóng đá, đó là báo chí.",
             "synonym": "Tin tức, thông tin.",
@@ -3274,7 +3259,7 @@
     {
         "word": "chính phủ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chính phủ là nhóm người điều hành và quản lý đất nước, giúp cho mọi người sống tốt hơn.",
             "example": "Khi có luật mới về an toàn giao thông, chính phủ là người đưa ra luật đó để mọi người đi lại an toàn hơn.",
             "synonym": "Nhà nước, chính quyền.",
@@ -3296,7 +3281,7 @@
     {
         "word": "thủ tục",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thủ tục là các bước mà chúng ta cần làm theo để hoàn thành một việc gì đó.",
             "example": "Khi bạn muốn làm bánh, thủ tục là bạn cần chuẩn bị nguyên liệu, trộn bột, nướng bánh và để nguội.",
             "synonym": "Quy trình, cách làm.",
@@ -3314,7 +3299,7 @@
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Hành động nhìn và kiểm tra để biết mọi thứ có ổn không.",
             "example": "Giám sát trong lớp học giúp cô giáo biết ai đang làm bài và ai không.",
             "synonym": "Sự theo dõi, sự quan sát.",
@@ -3343,7 +3328,7 @@
             "antonym": "không đồng ý, phản đối.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Một sự đồng ý giữa hai người hoặc nhiều người.",
             "example": "Hai bạn có một thoả thuận là sẽ chia sẻ đồ chơi với nhau.",
             "synonym": "sự đồng ý, hợp đồng.",
@@ -3354,7 +3339,7 @@
     {
         "word": "hình thức",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Hình thức là cách mà một vật hoặc người trông như thế nào.",
             "example": "Hình thức của một chiếc bánh sinh nhật là tròn và có nhiều màu sắc.",
             "synonym": "Dạng, kiểu.",
@@ -3372,7 +3357,7 @@
     {
         "word": "sẵn sàng",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Đã chuẩn bị để làm một việc gì đó.",
             "example": "Khi bạn đã xếp ba lô và chuẩn bị đi học, bạn sẵn sàng để ra khỏi nhà.",
             "synonym": "Chuẩn bị, sẵn sàng.",
@@ -3405,7 +3390,7 @@
     {
         "word": "ấn tượng",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Ấn tượng là cảm giác đặc biệt mà chúng ta có khi thấy hoặc nghe một điều gì đó.",
             "example": "Khi bạn nhìn thấy một bức tranh đẹp, bạn có thể cảm thấy ấn tượng với nó.",
             "synonym": "Ảnh hưởng, cảm xúc.",
@@ -3423,7 +3408,7 @@
     {
         "word": "hành chính",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Liên quan đến việc quản lý và tổ chức công việc trong một nơi như trường học hoặc thành phố.",
             "example": "Cô giáo có nhiệm vụ hành chính khi ghi sổ điểm và sắp xếp lớp học.",
             "synonym": "Quản lý, tổ chức.",
@@ -3445,7 +3430,7 @@
     {
         "word": "thanh niên",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Thanh niên là những người trẻ tuổi, thường từ 18 đến 3Các bạn học sinh lớp 12 sắp tốt nghiệp và trở thành thanh niên.",
             "example": "Người trẻ, thanh niên.",
             "synonym": "Người già, người lớn tuổi.",
@@ -3461,7 +3446,7 @@
     {
         "word": "đại học",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Là nơi mà người lớn học để biết nhiều điều hơn và có nghề nghiệp.",
             "example": "Giống như khi bạn học ở trường nhưng là cho người lớn, để họ có thể trở thành bác sĩ, kỹ sư hay giáo viên.",
             "synonym": "Trường cao đẳng, viện nghiên cứu.",
@@ -3472,14 +3457,14 @@
     {
         "word": "nguy hiểm",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Có thể gây ra rủi ro hoặc tổn thương.",
             "example": "Chạy gần đường lớn là nguy hiểm vì xe có thể va chạm.",
             "synonym": "Rủi ro, mạo hiểm.",
             "antonym": "An toàn.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Tình huống có thể gây ra tổn thương hoặc thiệt hại.",
             "example": "Nhảy từ trên cao xuống là một nguy hiểm có thể làm đau.",
             "synonym": "Rủi ro, mạo hiểm.",
@@ -3490,7 +3475,7 @@
     {
         "word": "mạnh mẽ",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Có sức mạnh, có khả năng làm việc gì đó tốt.",
             "example": "Một người bạn có thể nâng được một cái bàn nặng, bạn ấy rất mạnh mẽ!",
             "synonym": "Khỏe, cường tráng.",
@@ -3501,7 +3486,7 @@
     {
         "word": "giáo viên",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Người dạy học cho trẻ em.",
             "example": "Cô giáo dạy chúng em toán và tiếng Việt.",
             "synonym": "Người dạy, thầy cô.",
@@ -3523,14 +3508,14 @@
     {
         "word": "đơn giản",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Dễ hiểu, không phức tạp.",
             "example": "Bài toán này rất đơn giản, chỉ cần cộng hai số lại với nhau.",
             "synonym": "Dễ, nhẹ nhàng.",
             "antonym": "Phức tạp, khó khăn.",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Làm cho cái gì đó dễ hơn, không khó khăn.",
             "example": "Mẹ giúp con đơn giản hóa bài tập về nhà.",
             "synonym": "Giảm bớt, làm nhẹ.",
@@ -3541,7 +3526,7 @@
     {
         "word": "y tế",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Y tế là những việc liên quan đến sức khỏe và chữa bệnh cho mọi người.",
             "example": "Khi bạn bị cảm, bạn đi bác sĩ để được khám và chữa trị, đó là y tế.",
             "synonym": "Sức khỏe, chăm sóc sức khỏe.",
@@ -3552,7 +3537,7 @@
     {
         "word": "cần thiết",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Là thứ mà chúng ta phải có hoặc phải làm, không thể thiếu.",
             "example": "Nước là cần thiết để chúng ta sống.",
             "synonym": "Quan trọng, thiết yếu.",
@@ -3574,7 +3559,7 @@
     {
         "word": "xe máy",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Xe máy là một loại phương tiện giao thông có hai bánh, dùng để di chuyển.",
             "example": "Bố mẹ thường đi xe máy để đưa con đi học.",
             "synonym": "Xe mô tô, xe tay ga.",
@@ -3585,7 +3570,7 @@
     {
         "word": "nghệ sĩ",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Nghệ sĩ là người sáng tạo ra những tác phẩm đẹp như tranh, nhạc, hay múa.",
             "example": "Một họa sĩ vẽ tranh hoặc một nhạc sĩ chơi nhạc cho mọi người nghe.",
             "synonym": "Họa sĩ, nhạc sĩ, diễn viên.",
@@ -3596,7 +3581,7 @@
     {
         "word": "vũ khí",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Vũ khí là những đồ vật được dùng để bảo vệ hoặc tấn công.",
             "example": "Một cái súng hoặc một cái gậy có thể được coi là vũ khí.",
             "synonym": "Công cụ, dụng cụ.",
@@ -3607,17 +3592,12 @@
     {
         "word": "chắc chắn",
         "voice": "n/a",
-        "verb": {
-            "desc": "Chắc chắn có nghĩa là điều gì đó không thể sai, rất đúng.",
-            "example": "Khi bạn nói \"Tôi chắc chắn rằng hôm nay trời sẽ nắng\", có nghĩa là bạn tin chắc điều đó sẽ xảy ra.",
-            "img": "n/a"
-        },
         "adj": {
             "desc": "đảm bảo, tin tưởng.",
             "example": "không chắc chắn, nghi ngờ.",
             "img": "n/a"
         },
-        "noun": {
+        "verb": {
             "desc": "Chắc chắn có nghĩa là làm cho ai đó tin rằng điều gì đó là đúng.",
             "example": "Khi bạn nói \"Tôi chắc chắn với bạn rằng bạn sẽ làm tốt bài kiểm tra\", bạn đang làm cho bạn của mình cảm thấy tự tin.",
             "img": "n/a"
@@ -3626,7 +3606,7 @@
     {
         "word": "chiến lược",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Chiến lược là kế hoạch để làm một việc gì đó tốt hơn.",
             "example": "Khi chơi cờ vua, bạn cần có chiến lược để đánh bại đối thủ.",
             "synonym": "Kế hoạch, phương pháp.",
@@ -3644,7 +3624,7 @@
     {
         "word": "đầy đủ",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Đầy đủ có nghĩa là có tất cả những gì cần thiết, không thiếu thứ gì.",
             "example": "Bữa ăn của con có cơm, thịt, rau và trái cây, như vậy là đầy đủ.",
             "synonym": "Trọn vẹn, hoàn chỉnh.",
@@ -3655,7 +3635,7 @@
     {
         "word": "tình cảm",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Tình cảm là cảm xúc mà chúng ta có với người khác, như yêu thương, quý mến.",
             "example": "Khi bạn ôm mẹ, bạn cảm thấy tình cảm ấm áp.",
             "synonym": "tình yêu, sự quý mến.",
@@ -3673,7 +3653,7 @@
     {
         "word": "bị cáo",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Người bị buộc tội vì đã làm điều sai trái.",
             "example": "Trong một phiên tòa, bị cáo là người mà mọi người đang xem xét xem có làm điều xấu hay không.",
             "synonym": "Người bị buộc tội, người bị xử án.",
@@ -3684,14 +3664,14 @@
     {
         "word": "vô địch",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Là người hoặc đội giỏi nhất trong một cuộc thi.",
             "example": "Đội bóng của bạn đã vô địch giải đấu, nghĩa là họ là đội mạnh nhất.",
             "synonym": "Giỏi nhất, số một.",
             "antonym": "Thua cuộc.",
             "img": "n/a"
         },
-        "adj": {
+        "noun": {
             "desc": "Người hoặc đội đã thắng trong một cuộc thi.",
             "example": "Đội bóng của bạn là vô địch của giải đấu năm nay.",
             "synonym": "Nhà vô địch, người thắng cuộc.",
@@ -3702,7 +3682,7 @@
     {
         "word": "bình thường",
         "voice": "n/a",
-        "verb": {
+        "adj": {
             "desc": "Là điều không có gì đặc biệt, giống như mọi khi.",
             "example": "Hôm nay trời bình thường, không mưa cũng không nắng.",
             "synonym": "Thông thường, thông lệ.",
@@ -3735,14 +3715,14 @@
     {
         "word": "đại biểu",
         "voice": "n/a",
-        "verb": {
+        "noun": {
             "desc": "Người đại diện cho một nhóm người.",
             "example": "Cô giáo chọn một bạn làm đại biểu lớp để nói chuyện với hiệu trưởng.",
             "synonym": "Người đại diện, đại diện.",
             "antonym": "n/a",
             "img": "n/a"
         },
-        "adj": {
+        "verb": {
             "desc": "Hành động đại diện cho ai đó hoặc một nhóm.",
             "example": "Bạn ấy đại biểu cho lớp mình trong cuộc thi thể thao.",
             "synonym": "Đại diện, thay mặt.",

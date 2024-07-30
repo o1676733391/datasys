@@ -31,7 +31,7 @@ def regex_raw_data(raw_data):
     raw_data_categories = raw_data["categories"]
 
     # convert categories to englist type
-    respective_categories = ["verb", "adj", "noun"]
+    respective_categories = {"Danh từ": "noun", "Tính từ": "adj", "Động từ": "verb"}
 
     check_point = 0
 
@@ -43,8 +43,8 @@ def regex_raw_data(raw_data):
             )
 
             # formular desc, ex, synonym, antonym
-            regex_data[respective_categories[index_categorie]] = formular(
-                regex_data_process_list[check_point:current_index]
+            regex_data[respective_categories[raw_data_categories[index_categorie]]] = (
+                formular(regex_data_process_list[check_point:current_index])
             )
 
             check_point = current_index
