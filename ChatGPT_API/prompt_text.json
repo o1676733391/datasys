@@ -149,7 +149,6 @@
     {
         "title": "thị trường",
         "categories": [
-            "Danh từ",
             "Danh từ"
         ],
         "prompt": "- Thị trường - Danh từ:\n1. Mô tả: Thị trường là nơi mọi người mua và bán đồ vật hoặc dịch vụ.\n2. Ví dụ: Chợ là một loại thị trường, nơi bạn có thể mua rau, quả và đồ chơi.\n3. Vài từ đồng nghĩa: Chợ, nơi buôn bán.\n4. Vài từ trái nghĩa: n/a"
@@ -799,7 +798,6 @@
     {
         "title": "địa bàn",
         "categories": [
-            "Danh từ",
             "Danh từ"
         ],
         "prompt": "- Địa bàn - Danh từ:\n1. Mô tả: Địa bàn là một khu vực hay vùng đất mà người ta sống hoặc làm việc.\n2. Ví dụ: Trường học của con nằm trong địa bàn phường nơi con ở.\n3. Vài từ đồng nghĩa: Khu vực, vùng.\n4. Vài từ trái nghĩa: n/a"
@@ -1363,7 +1361,6 @@
     {
         "title": "cơ thể",
         "categories": [
-            "Danh từ",
             "Danh từ"
         ],
         "prompt": "- Cơ thể - Danh từ:\n1. Mô tả: Cơ thể là phần bên ngoài và bên trong của con người, giúp chúng ta hoạt động và sống.\n2. Ví dụ: Khi bạn chạy, nhảy hoặc ăn, bạn đang sử dụng cơ thể của mình.\n3. Vài từ đồng nghĩa: Thân thể, hình thể.\n4. Vài từ trái nghĩa: n/a"
@@ -2088,7 +2085,6 @@
     {
         "title": "chắc chắn",
         "categories": [
-            "Tính từ",
             "Tính từ",
             "Động từ"
         ],
