@@ -4,6 +4,7 @@ from tqdm import tqdm
 
 # NOTE: desc, example, synonym, antonym
 
+
 def regex_process(paragraph):
     pattern = re.compile(r"(\d\.\s)|(.*:\s)")
     cleaned_data = pattern.sub("", paragraph)
@@ -19,12 +20,12 @@ def formular(list_promt):
 
     for index_data in range(len(list_promt)):
         formular_data[categories_list[index_data]] = list_promt[index_data]
+    formular_data["img"] = "n/a"
     return formular_data
 
 
 def regex_raw_data(raw_data):
-    regex_data = {"word": raw_data["title"], "img": "n/a", "voice": "n/a"}
-    
+    regex_data = {"word": raw_data["title"], "voice": "n/a"}
 
     regex_data_process_list = regex_process(raw_data["prompt"])
     raw_data_categories = raw_data["categories"]
@@ -36,15 +37,22 @@ def regex_raw_data(raw_data):
 
     # seperate type word
     for index_categorie in range(len(raw_data_categories)):
-        current_index = check_point + (
-            int(len(regex_data_process_list) / len(raw_data_categories))
-        )
+        try:
+            current_index = check_point + (
+                int(len(regex_data_process_list) / len(raw_data_categories))
+            )
 
-        # formular desc, ex, synonym, antonym
-        regex_data[respective_categories[index_categorie]] = formular(
-            regex_data_process_list[check_point:current_index]
-        )
-        check_point = current_index
+            # formular desc, ex, synonym, antonym
+            regex_data[respective_categories[index_categorie]] = formular(
+                regex_data_process_list[check_point:current_index]
+            )
+
+            check_point = current_index
+        except NameError as e:
+            print(e)
+            return {
+                "error": e,
+            }
 
     return regex_data
 
