@@ -4,7 +4,6 @@ from tqdm import tqdm
 
 # NOTE: desc, example, synonym, antonym
 
-
 def regex_process(paragraph):
     pattern = re.compile(r"(\d\.\s)|(.*:\s)")
     cleaned_data = pattern.sub("", paragraph)
@@ -20,12 +19,12 @@ def formular(list_promt):
 
     for index_data in range(len(list_promt)):
         formular_data[categories_list[index_data]] = list_promt[index_data]
-    formular_data["img"] = "n/a"
+    formular_data["img"] = "N/a"
     return formular_data
 
 
 def regex_raw_data(raw_data):
-    regex_data = {"word": raw_data["title"], "voice": "n/a"}
+    regex_data = {"word": raw_data["title"], "voice": "N/a", "status": 0}
 
     regex_data_process_list = regex_process(raw_data["prompt"])
     raw_data_categories = raw_data["categories"]
