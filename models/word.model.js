@@ -1,34 +1,50 @@
 const mongoose = require("mongoose");
 
-const ProductSchema = mongoose.Schema(
-  {
-    name: {
-      type: String,
-      required: [true, "Please enter product name"],
-    },
 
-    quantity: {
-      type: Number,
-      required: true,
-      default: 0,
-    },
-
-    price: {
-      type: Number,
-      required: true,
-      default: 0,
-    },
-
-    image: {
-      type: String,
-      required: false,
-    },
+// NOTE: common properties of categories 
+const properties_category = {
+  desc: {
+    type: String,
   },
-  {
-    timestamps: true,
+
+  example: {
+    type: String,
   },
-);
 
-const Product = mongoose.model("Product", ProductSchema);
+  synonym: {
+    type: String,
+  },
 
-module.exports = Product;
+  antonym: {
+    type: String,
+  },
+
+  img: {
+    type: String,
+  },
+};
+
+const WordSchema = mongoose.Schema({
+  word: {
+    type: String,
+    required: [true, "Please enter product name"],
+  },
+
+  voice: {
+    type: String,
+  },
+
+  status: {
+    type: String,
+    enum: [-1, 0, 1],
+    required: [true, "Status must have one of -1 or 1 or 0"],
+  },
+  
+  verb: properties_category,
+  noun: properties_category,
+  adj: properties_category,
+});
+
+const Word = mongoose.model("Word", WordSchema);
+
+module.exports = Word;
