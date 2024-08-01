@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
 
 mongoose
   .connect(
-    "mongodb+srv://haris2iftikhar:GClTzr15XhkjvN6k@backenddb.nrurtot.mongodb.net/Node-API?retryWrites=true&w=majority"
+    "mongodb://127.0.0.1:9191"
   )
   .then(() => {
     console.log("connected to database!");
