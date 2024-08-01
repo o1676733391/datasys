@@ -1,70 +1,71 @@
-const Product = require("../models/word.model");
+const word = require("../models/word.model");
 
-const getProducts = async (req, res) => {
+const getwords = async (req, res) => {
   try {
-    const products = await Product.find({});
-    res.status(200).json(products);
+    const words = await word.find({});
+    res.status(200).json(words);
+    
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
 };
 
-const getProduct = async (req, res) => {
+const getword = async (req, res) => {
   try {
     const { id } = req.params;
-    const product = await Product.findById(id);
-    res.status(200).json(product);
+    const word = await word.findById(id);
+    res.status(200).json(word);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
 };
 
-const createProduct = async (req, res) => {
+const createword = async (req, res) => {
   try {
-    const product = await Product.create(req.body);
-    res.status(200).json(product);
+    const word = await word.create(req.body);
+    res.status(200).json(word);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
 };
 
-const updateProduct = async (req, res) => {
+const updateword = async (req, res) => {
   try {
     const { id } = req.params;
 
-    const product = await Product.findByIdAndUpdate(id, req.body);
+    const word = await word.findByIdAndUpdate(id, req.body);
 
-    if (!product) {
-      return res.status(404).json({ message: "Product not found" });
+    if (!word) {
+      return res.status(404).json({ message: "word not found" });
     }
 
-    const updatedProduct = await Product.findById(id);
-    res.status(200).json(updatedProduct);
+    const updatedword = await word.findById(id);
+    res.status(200).json(updatedword);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
 };
 
-const deleteProduct = async (req, res) => {
+const deleteword = async (req, res) => {
   try {
     const { id } = req.params;
 
-    const product = await Product.findByIdAndDelete(id);
+    const word = await word.findByIdAndDelete(id);
 
-    if (!product) {
-      return res.status(404).json({ message: "Product not found" });
+    if (!word) {
+      return res.status(404).json({ message: "word not found" });
     }
 
-    res.status(200).json({ message: "Product deleted successfully" });
+    res.status(200).json({ message: "word deleted successfully" });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
 };
 
 module.exports = {
-  getProducts,
-  getProduct,
-  createProduct,
-  updateProduct,
-  deleteProduct,
+  getwords,
+  getword,
+  createword,
+  updateword,
+  deleteword,
 };

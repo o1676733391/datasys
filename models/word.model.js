@@ -45,6 +45,6 @@ const WordSchema = mongoose.Schema({
   adj: properties_category,
 });
 
-const Word = mongoose.model("Word", WordSchema);
+const Word = mongoose.model("dictionary", WordSchema, 'dictionary');
 
 module.exports = Word;

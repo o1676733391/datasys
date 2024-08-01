@@ -1,19 +1,21 @@
 const express = require("express");
-const Product = require("../models/word.model.js");
+const word = require("../models/word.model.js");
+
 const router = express.Router();
-const {getProducts, getProduct, createProduct, updateProduct, deleteProduct} = require('../controllers/word.controller.js');
+
+const {getwords, getword, createword, updateword, deleteword} = require('../controllers/word.controller.js');
 
 
-router.get('/', getProducts);
-router.get("/:id", getProduct);
+router.get('/', getwords);
+router.get("/:id", getword);
 
-router.post("/", createProduct);
+router.post("/", createword);
 
 // update a product
-router.put("/:id", updateProduct);
+router.put("/:id", updateword);
 
 // delete a product
-router.delete("/:id", deleteProduct);
+router.delete("/:id", deleteword);
 
 
 

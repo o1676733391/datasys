@@ -10,17 +10,17 @@ app.use(express.urlencoded({extended: false}));
 
 
 // routes
-app.use("/api/products", productRoute);
+// app.use("/api/products", productRoute);
+app.use("/", productRoute);
 
-
-app.get("/", (req, res) => {
-  res.send("Hello from Node API Server Updated");
-});
+// app.get("/", (req, res) => {
+//   res.send("Hello from Node API Server Updated");
+// });
 
 
 mongoose
   .connect(
-    "mongodb://127.0.0.1:9191"
+    "mongodb://127.0.0.1:9191/Datasys"
   )
   .then(() => {
     console.log("connected to database!");
