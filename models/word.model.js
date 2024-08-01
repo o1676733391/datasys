@@ -45,6 +45,7 @@ const WordSchema = mongoose.Schema({
   adj: properties_category,
 });
 
+// NOTE: call name collection dictionary
 const Word = mongoose.model("dictionary", WordSchema, 'dictionary');
 
 module.exports = Word;
