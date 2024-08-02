@@ -17,5 +17,21 @@
     <!-- delete word by ID -->
     (DELETE) http://localhost:3000/:id
 ```
-`If u need support pls contact HUY`
 
+## Deploy local server:
+
+Connect directly to dtb follow commands below: 
+```
+zrok enable utz8rO7v1kIw
+zrok access private 47bmlngw8uuj
+```
+
+run server by
+
+```
+npm i <!-- install pacakages  -->
+npm run api <!-- run server -->
+```
+
+`If u need support pls contact HUY`
+`* need update .env and token for policy rule `
