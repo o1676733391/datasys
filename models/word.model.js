@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
-
-// NOTE: common properties of categories 
+// NOTE: common properties of categories
 const properties_category = {
   desc: {
     type: String,
@@ -24,28 +23,33 @@ const properties_category = {
   },
 };
 
-const WordSchema = mongoose.Schema({
-  word: {
-    type: String,
-    required: [true, "Please enter product name"],
-  },
+const WordSchema = mongoose.Schema(
+  {
+    word: {
+      type: String,
+      required: [true, "Please enter product name"],
+    },
 
-  voice: {
-    type: String,
-  },
+    voice: {
+      type: String,
+    },
 
-  status: {
-    type: String,
-    enum: [-1, 0, 1],
-    required: [true, "Status must have one of -1 or 1 or 0"],
+    status: {
+      type: Number,
+      enum: [-1, 0, 1],
+      required: [true, "Status must have one of -1 or 1 or 0"],
+    },
+
+    verb: properties_category,
+    noun: properties_category,
+    adj: properties_category,
   },
-  
-  verb: properties_category,
-  noun: properties_category,
-  adj: properties_category,
-});
+  {
+    optimisticConcurrency: true,
+  },
+);
 
 // NOTE: call name collection dictionary
-const Word = mongoose.model("dictionary", WordSchema, 'dictionary');
+const Word = mongoose.model("dictionary", WordSchema, "dictionary");
 
 module.exports = Word;

@@ -12,6 +12,7 @@ const getwords = async (req, res) => {
 const getword = async (req, res) => {
   try {
     const { id } = req.params;
+
     const word_id = await word.findById(id);
     res.status(200).json(word_id);
   } catch (error) {
@@ -22,7 +23,7 @@ const getword = async (req, res) => {
 const createword = async (req, res) => {
   try {
     const word_id = await word.create(req.body);
-    
+
     res.status(200).json(word_id);
   } catch (error) {
     res.status(500).json({ message: error.message });
@@ -33,9 +34,12 @@ const updateword = async (req, res) => {
   try {
     const { id } = req.params;
 
-    const word = await word.findByIdAndUpdate(id, req.body);
+    const word_update = await word.findByIdAndUpdate(id, {
+      $set: req.body,
+      $inc: { __v: 1 }, // Increment __v manually
+    });
 
-    if (!word) {
+    if (!word_update) {
       return res.status(404).json({ message: "word not found" });
     }
 
@@ -50,9 +54,9 @@ const deleteword = async (req, res) => {
   try {
     const { id } = req.params;
 
-    const word = await word.findByIdAndDelete(id);
+    const word_delete = await word.findByIdAndDelete(id);
 
-    if (!word) {
+    if (!word_delete) {
       return res.status(404).json({ message: "word not found" });
     }
 
