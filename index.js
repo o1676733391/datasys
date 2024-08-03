@@ -6,8 +6,7 @@ const app = express();
 
 // middleware
 app.use(express.json());
-app.use(express.urlencoded({extended: false}));
-
+app.use(express.urlencoded({ extended: false }));
 
 // routes
 // app.use("/api/products", productRoute);
@@ -17,10 +16,9 @@ app.use("/", productRoute);
 //   res.send("Hello from Node API Server Updated");
 // });
 
-
 mongoose
   .connect(
-    "mongodb://127.0.0.1:9191/Datasys"
+    process.env.DATABASE_URL,
   )
   .then(() => {
     console.log("connected to database!");
@@ -29,7 +27,6 @@ mongoose
       console.log("http://localhost:3000");
     });
   })
-  
   .catch(() => {
     console.log("connection failed!");
   });

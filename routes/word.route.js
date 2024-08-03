@@ -3,10 +3,16 @@ const word = require("../models/word.model.js");
 
 const router = express.Router();
 
-const {getwords, getwordbyid, getword, createword, updateword, deleteword} = require('../controllers/word.controller.js');
+const {
+  getwords,
+  getwordbyid,
+  getword,
+  createword,
+  updateword,
+  deleteword,
+} = require("../controllers/word.controller.js");
 
-
-router.get('/', getwords);
+router.get("/", getwords);
 router.get("/:id", getwordbyid);
 
 router.post("/", createword);
