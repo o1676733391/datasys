@@ -7,6 +7,9 @@
 
     <!-- get word by ID -->
     (GET) http://localhost:3000/:id
+
+    <!-- get word -->
+    (GET) http://localhost:3000/word/:wordfind
     
     <!-- create word -->
     (POST) http://localhost:3000/

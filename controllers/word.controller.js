@@ -9,12 +9,28 @@ const getwords = async (req, res) => {
   }
 };
 
-const getword = async (req, res) => {
+const getwordbyid = async (req, res) => {
   try {
     const { id } = req.params;
 
     const word_id = await word.findById(id);
     res.status(200).json(word_id);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+const getword = async (req, res) => {
+  try {
+    const { wordfind } = req.params;
+
+    const wordsearch = await word.findOne({word: wordfind})
+
+    if (!wordsearch) {
+      return res.status(404).json({ message: "word not found" });  
+    }
+
+    res.status(200).json(wordsearch);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
@@ -68,6 +84,7 @@ const deleteword = async (req, res) => {
 
 module.exports = {
   getwords,
+  getwordbyid,
   getword,
   createword,
   updateword,
