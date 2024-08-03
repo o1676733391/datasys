@@ -15,17 +15,17 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:  # theme
         gr.Markdown('')
         with gr.Row():
             with gr.Column():
-                word = gr.Textbox(label='Word', value='đi', interactive=False)
+                word = gr.Textbox(label='Word', value='đi')
                 word_type = gr.Textbox(
-                    label='Type', value='động từ', interactive=False)
+                    label='Type', value='động từ')
             with gr.Column():
                 synonym = gr.Textbox(
-                    label='Synonym', value='123', interactive=False)
+                    label='Synonym', value='123')
                 antonym = gr.Textbox(
-                    label='Antonym', value='123', interactive=False)
+                    label='Antonym', value='123')
             with gr.Column():
                 audio = gr.Audio(
-                    label='Audio', value=initial_audio_path, type='filepath', interactive=False)
+                    label='Audio', value=initial_audio_path, type='filepath')
 
         description = gr.Textbox(
             label='Description', value='(người, động vật) tự di chuyển từ chỗ này đến chỗ khác bằng những bước chân nhấc lên, đặt xuống liên tiếp', interactive=False)
