@@ -23,6 +23,18 @@
 
 ## Deploy local server:
 
+Create `.env` file on highest level folder:
+```
+<!-- Past this on your .env file -->
+DATABASE_URL=<your url dababase>
+
+```
+
+Example:
+```
+DATABASE_URL=mongodb://127.0.0.1:9191/Datasys
+```
+
 Connect directly to dtb follow commands below: 
 ```
 zrok enable utz8rO7v1kIw
