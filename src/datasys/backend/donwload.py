@@ -26,8 +26,8 @@ output_dir = os.path.join('datasys', 'data', 'sound')
 os.makedirs(output_dir, exist_ok=True)
 
 # Wait for 5 minutes before starting the download
-print("Waiting for 5 minutes before starting the download...")
-time.sleep(300)
+# print("Waiting for 5 minutes before starting the download...")
+# time.sleep(300)
 
 # Read the audio links from the JSON file
 with open('audio_links.json', 'r', encoding='utf-8') as f:
