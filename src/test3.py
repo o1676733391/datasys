@@ -55,31 +55,26 @@ def save_data(word, voice, status, **kwargs):
 # Define the interface callback function
 def update_interface(selected_word):
     word_data, voice_data, status_data, parts_of_speech = get_initial_data(selected_word)
-    with gr.Row():
-        gr.Textbox(label='Từ', value=word_data)
-        gr.Textbox(label='Phát Âm', value=voice_data)
-        gr.Textbox(label='Trạng thái', value=str(status_data))
+    
     # Update input components
-    # inputs = [
-    #     gr.Textbox(label='Từ', value=word_data),
-    #     gr.Textbox(label='Phát Âm', value=voice_data),
-    #     gr.Textbox(label='Trạng thái', value=str(status_data))
-    # ]
-    #add gradio tab
+    inputs = [
+        gr.Textbox(label='Từ', value=word_data),
+        gr.Textbox(label='Phát Âm', value=voice_data),
+        gr.Textbox(label='Trạng thái', value=str(status_data))
+    ]
+
     parts_of_speech_inputs = []
     for pos, fields in parts_of_speech.items():
         label = label_mapping.get(pos, pos)
-        # with gr.Tab(label=label, render=False):
         for field, value in fields.items():
             field_label = label_mapping.get(field, field)
             if field != "img":
-                textbox = gr.Textbox(label=f"{label} - {field_label}", value=value)
-                parts_of_speech_inputs.append(textbox)
+                parts_of_speech_inputs.append(gr.Textbox(label=f"{label} - {field_label}", value=value))
             else:
-                image = gr.Image(label=f"{label} - {field_label}", value=value)
-                parts_of_speech_inputs.append(image)
-    print(f"Total Parts of Speech Inputs: {len(parts_of_speech_inputs)}")
-    return inputs + parts_of_speech_inputs
+                parts_of_speech_inputs.append(gr.Image(label=f"{label} - {field_label}", value=value))
+
+    return inputs, parts_of_speech_inputs
+
 # Define the interface
 def process_vocabulary(word, voice, status, *args):
     pos_data = {}
@@ -97,36 +92,56 @@ def process_vocabulary(word, voice, status, *args):
 
 # Create the Gradio interface
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
-    gr.Markdown("# Kiểm Tra Và Chỉnh Sửa Từ Vựng")
+    gr.Markdown("# Kiểm Tra Từ Vựng")
+    
     all_words = get_all_words()
-    initial_word = all_words[1] if all_words else ""
-    print(f"Initial Word: {initial_word}")
+    initial_word = all_words[0] if all_words else ""
+    
     word_dropdown = gr.Dropdown(label="Chọn từ", choices=all_words, value=initial_word)
     
-    initial_word_data = get_initial_data(initial_word)
-    dynamic_components = update_interface(initial_word)
+    # Create placeholders for dynamic components
+    input_columns = gr.Column()
+    output_columns = gr.Column()
+    
+    initial_word_data, initial_parts_of_speech_inputs = update_interface(initial_word)
+    
+    input_columns.append(gr.Textbox(label='Từ', value=initial_word_data[0]))
+    input_columns.append(gr.Textbox(label='Phát Âm', value=initial_word_data[1]))
+    input_columns.append(gr.Textbox(label='Trạng thái', value=str(initial_word_data[2])))
+    
+    for inp in initial_parts_of_speech_inputs:
+        output_columns.append(inp)
     
     submit_btn = gr.Button("Submit")
-
-    # Display dynamic components
-    inputs = []
-    for inp in dynamic_components:
-        inputs.append(inp)
-    
     status_output = gr.Textbox(label='Trạng thái')
 
     # Update dynamic components on word selection
     def on_word_change(selected_word):
-        new_components = update_interface(selected_word)
-        return new_components
+        inputs, parts_of_speech_inputs = update_interface(selected_word)
+        input_columns.update([inp for inp in inputs])
+        output_columns.update([inp for inp in parts_of_speech_inputs])
+        return []
 
-    word_dropdown.change(on_word_change, inputs=[word_dropdown], outputs=inputs)
+    word_dropdown.change(on_word_change, inputs=[word_dropdown], outputs=[])
 
     # Submit button functionality
     submit_btn.click(
         fn=process_vocabulary,
-        inputs=[word_dropdown] + inputs,
+        inputs=[word_dropdown] + [col for col in input_columns.children] + [col for col in output_columns.children],
         outputs=[status_output]
     )
+
+    # Layout
+    with gr.Row():
+        word_dropdown.render()
+    
+    with gr.Row():
+        with gr.Column():
+            input_columns.render()
+        with gr.Column():
+            output_columns.render()
+    
+    submit_btn.render()
+    status_output.render()
 
 demo.launch()

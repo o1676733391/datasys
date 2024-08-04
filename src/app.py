@@ -19,8 +19,8 @@ label_mapping = {
 }
 
 # Retrieve initial data from MongoDB
-def get_initial_data():
-    data = collection.find_one({"word": "sử dụng"})  # Replace with your query
+def get_initial_data(word):
+    data = collection.find_one({"word": word})  # Replace with your query
     if data:
         word_data = data.get("word", "")
         voice_data = data.get("voice", "")
