@@ -1,24 +1,43 @@
 from pymongo import MongoClient
 import gridfs
+import os
 
 # Địa chỉ và cổng của MongoDB
 mongo_uri = "mongodb://127.0.0.1:9191"  # Thay đổi nếu bạn có thông tin khác
 
-def upload_file(file_path, file_id):
+def retrieve_and_upload_files():
     client = MongoClient(mongo_uri)
     db = client["Datasys"]
+    dictionary_collection = db["dictionary"]
     fs = gridfs.GridFS(db)
 
     try:
-        # Open the file in read-binary mode
-        with open(file_path, 'rb') as f:
-            # Upload the file to GridFS with the specified _id
-            fs.put(f, _id=file_id, filename=file_path)
-        print(f"File {file_path} uploaded successfully with _id {file_id}!")
-    except Exception as err:
-        print(f"Failed to upload file: {err}")
+        # Retrieve all documents from the "dictionary" collection
+        documents = dictionary_collection.find({}, {"_id": 1})
+        ids = [doc["_id"] for doc in documents]
 
-if __name__ == "__main__":
-    file_path = "datasys/data/sound/66aa36aa2576d8d338632950.mp3"
-    file_id = "66aa36aa2576d8d338632950"
-    upload_file(file_path, file_id)
+        if ids:
+            for _id in ids:
+                file_path = f"datasys/data/sound/{_id}.mp3"
+                
+                # Check if the file exists
+                if os.path.exists(file_path):
+                    with open(file_path, 'rb') as file_data:
+                        # Upload file to GridFS
+                        file_id = fs.put(file_data, filename=f"{_id}.mp3")
+                        
+                        # Update the "voice" field in the "dictionary" collection
+                        dictionary_collection.update_one(
+                            {"_id": _id},
+                            {"$set": {"voice": file_id}}
+                        )
+                        print(f"Successfully uploaded {_id}.mp3 to GridFS and updated 'voice' field.")
+                else:
+                    print(f"File {file_path} does not exist.")
+        else:
+            print("No documents found in the 'dictionary' collection.")
+    except Exception as err:
+        print(f"Failed to retrieve and upload files: {err}")
+
+# Call the function
+retrieve_and_upload_files()
