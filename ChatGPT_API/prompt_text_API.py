@@ -9,7 +9,7 @@ client = OpenAI(
     api_key=os.environ.get("OPENAI_API_KEY")
 )
 
-with open('./300wordfirst.json', 'r', encoding='utf-8') as f:
+with open('./vocab_filter.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 out_data = []
@@ -19,7 +19,7 @@ try:
 except FileNotFoundError:
     out_data = []
 
-for i in range(10, len(data)):
+for i in range(len(data)):
     print(i)
     word = data[i]['title']
     list_words_type = data[i]['categories']
@@ -56,7 +56,7 @@ for i in range(10, len(data)):
         "prompt": completion.choices[0].message.content
     }
     out_data.append(form)
-    time.sleep(0.5)
+    time.sleep(0.3)
 
 
 with open('./prompt_text.json', 'w', encoding='utf-8') as f:
