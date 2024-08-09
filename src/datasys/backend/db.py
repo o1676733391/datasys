@@ -34,11 +34,13 @@ def main():
 
         # Fetch all documents in the collection "Dictionary"
         data = list(dictionary.find({}))
-        print("Dữ liệu trong collection Dictionary:")
-        for doc in data:
-            print(doc)
-
-        
+        count = dictionary.count_documents({})
+        print(f"Số lượng documents trong collection Dictionary: {count}")
+        # get all the words with "voice" field = "N/a"
+        words = [d["word"] for d in data if d.get("voice") == "N/a"]
+        print(f"Số lượng từ không có file âm thanh: {len(words)}")
+        print("Danh sách các từ không có file âm thanh:")
+        print(json.dumps(words, indent=4))
     except Exception as err:
         print(f"Kết nối thất bại: {err}")
 
