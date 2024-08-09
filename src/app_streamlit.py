@@ -1,5 +1,7 @@
 import streamlit as st
 import requests
+import numpy as np
+import cv2
 
 BASE_URL = "https://vjaygdzonbzf.share.zrok.io"
 
@@ -31,7 +33,8 @@ def get_initial_data(word):
         word_data = data.get("word", "")
         voice_data = data.get("voice", "")
         status_data = data.get("status", 0)
-        parts_of_speech = {k: v for k, v in data.items() if k not in ["_id", "word", "voice", "status"]}
+        parts_of_speech = {k: v for k, v in data.items() if k not in [
+            "_id", "word", "voice", "status"]}
         return word_id, word_data, voice_data, status_data, parts_of_speech
     return None, "", "", 0, {}
 
@@ -54,12 +57,22 @@ def save_data(word_id, word, voice, status, **kwargs):
     except Exception as e:
         return f"Failed: {str(e)}"
 
+# Initialize session state for selected word
+if "selected_word" not in st.session_state:
+    st.session_state["selected_word"] = None
+
+if "word_id" not in st.session_state:
+    st.session_state["word_id"] = None
+
 # Update the interface based on selected word
 def update_interface(selected_word):
     if st.session_state["selected_word"] != selected_word:
         st.session_state["selected_word"] = selected_word
         word_id, word_data, voice_data, status_data, parts_of_speech = get_initial_data(selected_word)
         
+        # Store the word_id in session state
+        st.session_state["word_id"] = word_id
+
         col1, col2, col3 = st.columns(3)
         with col1:
             st.text_input('Từ', value=word_data, key="word_input")
@@ -70,7 +83,7 @@ def update_interface(selected_word):
 
         if isinstance(parts_of_speech, dict):
             tabs = st.tabs([label_mapping.get(pos, pos) for pos in parts_of_speech.keys()])
-            
+
             for i, (pos, fields) in enumerate(parts_of_speech.items()):
                 if isinstance(fields, dict):  # Check that fields is a dictionary
                     with tabs[i]:
@@ -81,27 +94,25 @@ def update_interface(selected_word):
                             if field != "img":
                                 col1.text_input(f"{field_label}", value=value, key=unique_key)
                             else:
-                                col2.text_input(f"{field_label}", value=value, key=unique_key)
+                                # col2.file_uploader(f"{field_label}", type=["png", "jpg"])
+                                col2.image('data/example/walk.jpg')
                 else:
                     st.error(f"Unexpected data format for {pos}: {fields}")
         else:
             st.error("Unexpected parts_of_speech format")
 
-        return word_id
-
-    return None
-# Initialize session state for selected word
-if "selected_word" not in st.session_state:
-    st.session_state["selected_word"] = None
 # Process vocabulary data and save it
-def process_vocabulary(word_id):
+def process_vocabulary():
+    # Retrieve word_id from session state
+    word_id = st.session_state.get("word_id")
+
     # Collect input data
     inputs = {
         "word": st.session_state["word_input"],
         "voice": st.session_state["voice_input"],
         "status": st.session_state["status_input"]
     }
-    
+
     # Collect parts of speech data
     parts_of_speech_inputs = {}
     for pos in label_mapping.keys():
@@ -122,10 +133,9 @@ st.title("Kiểm Tra Từ Vựng")
 
 all_words = get_all_words()
 selected_word = st.selectbox("Chọn từ", options=all_words)
-
 if selected_word:
-    word_id = update_interface(selected_word)
+    update_interface(selected_word)
 
     if st.button("Submit"):
-        status_message = process_vocabulary(word_id)
+        status_message = process_vocabulary()
         st.success(status_message)
