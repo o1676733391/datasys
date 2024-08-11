@@ -4,6 +4,7 @@ from tqdm import tqdm
 
 # NOTE: desc, example, synonym, antonym
 
+
 def regex_process(paragraph):
     pattern = re.compile(r"(\d\.\s)|(.*:\s)")
     cleaned_data = pattern.sub("", paragraph)
@@ -18,7 +19,11 @@ def formular(list_promt):
     categories_list = ["desc", "example", "synonym", "antonym"]
 
     for index_data in range(len(list_promt)):
-        formular_data[categories_list[index_data]] = list_promt[index_data]
+        try:
+            formular_data[categories_list[index_data]] = list_promt[index_data]
+        except:
+            formular_data["null-na"] = list_promt[index_data]
+
     formular_data["img"] = "N/a"
     return formular_data
 
@@ -30,7 +35,13 @@ def regex_raw_data(raw_data):
     raw_data_categories = raw_data["categories"]
 
     # convert categories to englist type
-    respective_categories = {"Danh từ": "noun", "Tính từ": "adj", "Động từ": "verb"}
+    respective_categories = {
+        "Danh từ": "noun",
+        "Tính từ": "adj",
+        "Động từ": "verb",
+        "Phụ từ": "adverb",
+        "Đại từ": "pronouns",
+    }
 
     check_point = 0
 
@@ -57,7 +68,7 @@ def regex_raw_data(raw_data):
 
 
 # Load the input JSON data
-with open("./prompt_text.json") as f:
+with open("./prompt_text_8k.json") as f:
     data = json.load(f)
 
 output_data = []
@@ -67,5 +78,5 @@ for word in tqdm(data):
     output_data.append(regex_raw_data(word))
 
 # Save the processed data to a new JSON file with UTF-8 encoding
-with open("./output.json", "w", encoding="utf-8") as outfile:
+with open("./output_8k.json", "w", encoding="utf-8") as outfile:
     json.dump(output_data, outfile, ensure_ascii=False, indent=4)
