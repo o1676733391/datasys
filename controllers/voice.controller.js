@@ -6,7 +6,7 @@ const { v4: uuidv4 } = require("uuid");
 
 const storageVoice = multer.diskStorage({
   destination: function (req, file, cb) {
-    const uploadDir = path.join(__dirname, "voice");
+    const uploadDir = path.join(__dirname, "voices");
     if (!fs.existsSync(uploadDir)) {
       fs.mkdirSync(uploadDir, { recursive: true });
     }
