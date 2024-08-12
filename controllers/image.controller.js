@@ -2,6 +2,7 @@ const multer = require("multer");
 const path = require("path");
 const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
+const { updateword_extra } = require("./word.controller");
 
 // NOTE: setup upload storage include filename and location
 const storageImage = multer.diskStorage({
@@ -45,10 +46,9 @@ const exception_handler = (err, req, res, next) => {
 
 // Create image function with error handling
 const createimage = (req, res) => {
-  console.log(req);
   try {
     // Call multer's upload function
-    uploadImage(req, res, function (err) {
+    uploadImage(req, res, async function (err) {
       if (err) {
         // If multer throws an error, handle it here
         return res.status(500).json({ message: err.message });
@@ -61,7 +61,16 @@ const createimage = (req, res) => {
           .json({ message: "No file uploaded or file type not allowed" });
       }
 
-      // Success, return the file path
+
+      // NOTE: change value img in dtb
+      const updateword = await updateword_extra(
+        req,
+        res,
+        req.body.word,
+        req.body.type_word,
+        req.file.path,
+      );
+
       res.status(200).json({
         message: "Image uploaded successfully",
         filepath: req.file.path,
@@ -73,7 +82,7 @@ const createimage = (req, res) => {
 };
 
 const getimage = (req, res) => {
-  const {filename} = req.params;
+  const { filename } = req.params;
   const filepath = path.join(__dirname, "images", filename);
 
   // Check if the file exists
