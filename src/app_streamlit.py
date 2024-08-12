@@ -1,7 +1,5 @@
 import streamlit as st
 import requests
-import numpy as np
-import cv2
 
 BASE_URL = "https://vjaygdzonbzf.share.zrok.io"
 
@@ -69,7 +67,7 @@ def update_interface(selected_word):
     if st.session_state["selected_word"] != selected_word:
         st.session_state["selected_word"] = selected_word
         word_id, word_data, voice_data, status_data, parts_of_speech = get_initial_data(selected_word)
-        
+
         # Store the word_id in session state
         st.session_state["word_id"] = word_id
 
