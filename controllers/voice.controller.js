@@ -3,7 +3,6 @@ const path = require("path");
 const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
 
-
 const storageVoice = multer.diskStorage({
   destination: function (req, file, cb) {
     const uploadDir = path.join(__dirname, "voices");
@@ -32,13 +31,12 @@ const uploadVoice = multer({
   },
 }).single("voice");
 
-
 // Create image function with error handling
 const createvoice = (req, res) => {
   console.log(req);
   try {
     // Call multer's upload function
-    uploadVoice(req, res, function (err) {
+    uploadVoice(req, res, async function (err) {
       if (err) {
         // If multer throws an error, handle it here
         return res.status(500).json({ message: err.message });
@@ -50,6 +48,14 @@ const createvoice = (req, res) => {
           .status(400)
           .json({ message: "No file uploaded or file type not allowed" });
       }
+
+      const updateword = await updateword_extra(
+        req,
+        res,
+        req.body.word,
+        req.body.type_word,
+        req.file.path,
+      );
 
       // Success, return the file path
       res.status(200).json({
@@ -63,7 +69,7 @@ const createvoice = (req, res) => {
 };
 
 const getvoice = (req, res) => {
-  const {filename} = req.params;
+  const { filename } = req.params;
   const filepath = path.join(__dirname, "voices", filename);
 
   // Check if the file exists
