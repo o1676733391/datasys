@@ -1,5 +1,6 @@
 const word = require("../models/word.model");
 
+
 const getwords = async (req, res) => {
   try {
     const words = await word.find({});
