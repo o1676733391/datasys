@@ -61,15 +61,20 @@ const createimage = (req, res) => {
           .json({ message: "No file uploaded or file type not allowed" });
       }
 
-
-      // NOTE: change value img in dtb
-      const updateword = await updateword_extra(
-        req,
-        res,
-        req.body.word,
-        req.body.type_word,
-        req.file.path,
-      );
+      try {
+        // NOTE: change value img in dtb
+        const updateword = await updateword_extra( 
+          req,
+          res,
+          req.body.word, // thong tin tu 
+          req.body.type_word, // thong tin loai tu
+          req.file.path, // buc anh
+        );
+      } catch (error) {
+        res.status(500).json({
+          message: "Ignore word infomation! | " + error,
+        })
+      }
 
       res.status(200).json({
         message: "Image uploaded successfully",

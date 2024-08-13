@@ -66,6 +66,8 @@ const updateword = async (req, res) => {
   }
 };
 
+
+// WARNING: Dont test already 
 const updateword_extra = async (req, res, word_new, type_word, path) => {
   try {
     const id = word_new.__id;

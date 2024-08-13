@@ -20,7 +20,7 @@ app.use(exception_handler); // middleware for cath err while uploading files
 // app.use("/api/products", productRoute);
 app.use("/", productRoute);
 app.use("/image", imageRoute);
-app.use('voice', voiceRoute)
+app.use('/voice', voiceRoute)
 
 
 mongoose

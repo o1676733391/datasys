@@ -2,6 +2,8 @@ const multer = require("multer");
 const path = require("path");
 const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
+const { updateword_extra } = require("./word.controller");
+const voice = require('../models/voice.model')
 
 const storageVoice = multer.diskStorage({
   destination: function (req, file, cb) {
@@ -31,7 +33,7 @@ const uploadVoice = multer({
   },
 }).single("voice");
 
-// Create image function with error handling
+// NOTE: Create image function with error handling
 const createvoice = (req, res) => {
   console.log(req);
   try {
@@ -49,7 +51,9 @@ const createvoice = (req, res) => {
           .json({ message: "No file uploaded or file type not allowed" });
       }
 
-      const updateword = await updateword_extra(
+      // FIX: request data follow below form, 
+      // if have a question contact <huy contact: zalo: 0862600454>
+      const updatevoice = await updateword_extra(
         req,
         res,
         req.body.word,
@@ -68,24 +72,18 @@ const createvoice = (req, res) => {
   }
 };
 
-const getvoice = (req, res) => {
-  const { filename } = req.params;
-  const filepath = path.join(__dirname, "voices", filename);
+const getvoice = async (req, res) => {
+  const { fileid } = req.params
 
-  // Check if the file exists
-  fs.access(filepath, fs.constants.F_OK, (err) => {
-    if (err) {
-      // If the file doesn't exist, send a 404 response
-      return res.status(404).json({ message: "Image not found" });
-    }
+  try {
 
-    // If the file exists, send it as a response
-    res.sendFile(filepath, (err) => {
-      if (err) {
-        res.status(500).json({ message: "Error sending the file" });
-      }
-    });
-  });
+    const voice = await voice.findById(fileid);
+    
+    res.status(200).json(word_id);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+
 };
 
 module.exports = {
