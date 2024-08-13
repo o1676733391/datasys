@@ -5,10 +5,7 @@ const Product = require("./models/word.model.js");
 
 const productRoute = require("./routes/word.route.js");
 const imageRoute = require("./routes/image.router.js");
-const voiceRoute = require('./routes/voice.router.js')
-
-// const { storage, upload } = require("./storage.setup.js");
-
+const voiceRoute = require("./routes/voice.router.js");
 const app = express();
 
 // middleware
@@ -20,18 +17,18 @@ app.use(exception_handler); // middleware for cath err while uploading files
 // app.use("/api/products", productRoute);
 app.use("/", productRoute);
 app.use("/image", imageRoute);
-app.use('/voice', voiceRoute)
-
+app.use("/voice", voiceRoute);
 
 mongoose
   .connect(process.env.DATABASE_URL)
   .then(() => {
-    console.log("connected to database!");
+    console.log("Connected to database!");
     app.listen(3000, () => {
-      console.log("server is running on port 3000");
+      console.log("Server is running on port 3000");
       console.log("http://localhost:3000");
     });
   })
-  .catch(() => {
-    console.log("connection failed!");
+  .catch((err) => {
+    console.error("Connection failed!", err);
   });
+

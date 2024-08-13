@@ -3,7 +3,9 @@ const path = require("path");
 const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
 const { updateword_extra } = require("./word.controller");
-const voice = require('../models/voice.model')
+
+const { GridFSBucket, ObjectId } = require("mongodb");
+const mongoose = require("mongoose");
 
 const storageVoice = multer.diskStorage({
   destination: function (req, file, cb) {
@@ -51,7 +53,7 @@ const createvoice = (req, res) => {
           .json({ message: "No file uploaded or file type not allowed" });
       }
 
-      // FIX: request data follow below form, 
+      // FIX: request data follow below form,
       // if have a question contact <huy contact: zalo: 0862600454>
       const updatevoice = await updateword_extra(
         req,
@@ -73,17 +75,26 @@ const createvoice = (req, res) => {
 };
 
 const getvoice = async (req, res) => {
-  const { fileid } = req.params
+  const { fileid } = req.params;
 
   try {
-
-    const voice = await voice.findById(fileid);
+    // FIX: rat ngu hoc aka stupid, fk u nodejs fk u mongodb too
+    // fk everything  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     
-    res.status(200).json(word_id);
+    // NOTE: its work! 
+    const bucket = new GridFSBucket(mongoose.connection.db, {
+      bucketName: "fs", // Replace 'fs' with your bucket name if it's different
+    });
+
+    const cursor = bucket.find({});
+    bucket
+      .openDownloadStream(new ObjectId(fileid))
+      .pipe(res);
+    
   } catch (error) {
+    console.error("Error:", error.message);
     res.status(500).json({ message: error.message });
   }
-
 };
 
 module.exports = {
